@@ -1,0 +1,37 @@
+name: Scrape and publish
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install scraper deps
+        working-directory: scrapers
+        run: npm ci
+
+      - name: Run scraper (build JSON outputs)
+        working-directory: scrapers
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node index.js
+
+      - name: Commit and push generated JSON to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: scrapers/out
