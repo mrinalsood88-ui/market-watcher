@@ -1,0 +1,20 @@
+{
+  "description": "Edit this file to add target listing pages. Keep list modest to stay within free Action limits.",
+  "targets": [
+    {
+      "name": "example-shopify-1",
+      "url": "https://example-shopify-store-1.com/collections/new-arrivals", 
+      "type": "shopify"
+    },
+    {
+      "name": "example-shopify-2",
+      "url": "https://example-shopify-store-2.com/collections/all",
+      "type": "shopify"
+    },
+    {
+      "name": "ebay-best",
+      "url": "https://www.ebay.com/deals",
+      "type": "ebay"
+    }
+  ]
+}
