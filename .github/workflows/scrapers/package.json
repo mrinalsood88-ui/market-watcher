@@ -1,0 +1,13 @@
+{
+  "name": "market-watcher-scrapers",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.9",
+    "sha1": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
