@@ -2,7 +2,7 @@ name: Scrape and publish
 
 on:
   schedule:
-     - cron: '0 * * * *'   # every 1 hour (at minute 0)
+    - cron: '0 * * * *'   # every 1 hour
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,10 @@ jobs:
 
       - name: Install scraper deps
         working-directory: scrapers
-        run: npm ci
+        run: |
+          npm config set fund false
+          npm config set audit false
+          npm install --no-audit --no-fund
 
       - name: Run scraper (build JSON outputs)
         working-directory: scrapers
