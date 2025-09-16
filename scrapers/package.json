@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Scraper for hot products",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
