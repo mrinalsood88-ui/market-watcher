@@ -5,7 +5,7 @@ async function run() {
   try {
     console.log('Scraper running...');
 
-    // Example sample data (replace later with real scraping logic)
+    // Example sample data (you can replace this later with real scrape results)
     const data = {
       ok: true,
       ts: Date.now(),
@@ -15,10 +15,10 @@ async function run() {
       ]
     };
 
-    // Ensure /out folder exists
+    // Ensure output folder exists
     fs.mkdirSync('out', { recursive: true });
 
-    // Write JSON with formatting
+    // Write JSON file with formatted data
     fs.writeFileSync('out/hot_all.json', JSON.stringify(data, null, 2), 'utf8');
 
     console.log('✅ Wrote out/hot_all.json with sample data');
