@@ -1,12 +1,32 @@
-import fetch from "node-fetch";
-import fs from "fs";
+// scrapers/index.js
+const fs = require('fs');
 
 async function run() {
-  console.log("Scraper is running...");
-  const data = { ok: true, ts: Date.now() };
-  fs.mkdirSync("out", { recursive: true });
-  fs.writeFileSync("out/hot_all.json", JSON.stringify(data, null, 2));
-  console.log("Wrote out/hot_all.json");
+  try {
+    console.log('Scraper running...');
+
+    // Example sample data (replace later with real scraping logic)
+    const data = {
+      ok: true,
+      ts: Date.now(),
+      items: [
+        { title: "Test Product A", score: 95 },
+        { title: "Test Product B", score: 88 }
+      ]
+    };
+
+    // Ensure /out folder exists
+    fs.mkdirSync('out', { recursive: true });
+
+    // Write JSON with formatting
+    fs.writeFileSync('out/hot_all.json', JSON.stringify(data, null, 2), 'utf8');
+
+    console.log('✅ Wrote out/hot_all.json with sample data');
+    process.exit(0);
+  } catch (err) {
+    console.error('❌ Scraper error:', err);
+    process.exit(1);
+  }
 }
 
 run();
