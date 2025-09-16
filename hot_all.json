@@ -1,4 +1,14 @@
 {
   "ok": true,
-  "ts": 1758021921733
+  "ts": 1758026798639,
+  "items": [
+    {
+      "title": "Test Product A",
+      "score": 95
+    },
+    {
+      "title": "Test Product B",
+      "score": 88
+    }
+  ]
 }
