@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "state": "USA-OR",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 5,
+  "total_estimated_quantity": 1179,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "price": 9.07,
+      "estimated_quantity_sold": 301,
+      "estimated_revenue": 2730.07,
+      "market_share": 0.2553,
+      "score": 69,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 301,
+          "estimated_revenue": 2730.07
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 38.73,
+      "estimated_quantity_sold": 181,
+      "estimated_revenue": 7010.13,
+      "market_share": 0.1535,
+      "score": 90,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 181,
+          "estimated_revenue": 7010.13
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 23.54,
+      "estimated_quantity_sold": 126,
+      "estimated_revenue": 2966.04,
+      "market_share": 0.1069,
+      "score": 100,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 126,
+          "estimated_revenue": 2966.04
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 13.42,
+      "estimated_quantity_sold": 87,
+      "estimated_revenue": 1167.54,
+      "market_share": 0.0738,
+      "score": 89,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 87,
+          "estimated_revenue": 1167.54
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 18.39,
+      "estimated_quantity_sold": 484,
+      "estimated_revenue": 8900.76,
+      "market_share": 0.4105,
+      "score": 76,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 484,
+          "estimated_revenue": 8900.76
+        }
+      ]
+    }
+  ]
+}

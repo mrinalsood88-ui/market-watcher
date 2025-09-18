@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "state": "USA-NJ",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 7,
+  "total_estimated_quantity": 1885,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 12.55,
+      "estimated_quantity_sold": 70,
+      "estimated_revenue": 878.5,
+      "market_share": 0.0371,
+      "score": 94,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 70,
+          "estimated_revenue": 878.5
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 21.93,
+      "estimated_quantity_sold": 396,
+      "estimated_revenue": 8684.28,
+      "market_share": 0.2101,
+      "score": 75,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 396,
+          "estimated_revenue": 8684.28
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 7.87,
+      "estimated_quantity_sold": 294,
+      "estimated_revenue": 2313.78,
+      "market_share": 0.156,
+      "score": 90,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 294,
+          "estimated_revenue": 2313.78
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "price": 16.18,
+      "estimated_quantity_sold": 241,
+      "estimated_revenue": 3899.38,
+      "market_share": 0.1279,
+      "score": 93,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 241,
+          "estimated_revenue": 3899.38
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 27.06,
+      "estimated_quantity_sold": 189,
+      "estimated_revenue": 5114.34,
+      "market_share": 0.1003,
+      "score": 82,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 189,
+          "estimated_revenue": 5114.34
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 19.28,
+      "estimated_quantity_sold": 204,
+      "estimated_revenue": 3933.12,
+      "market_share": 0.1082,
+      "score": 76,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 204,
+          "estimated_revenue": 3933.12
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 23.72,
+      "estimated_quantity_sold": 491,
+      "estimated_revenue": 11646.52,
+      "market_share": 0.2605,
+      "score": 62,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 491,
+          "estimated_revenue": 11646.52
+        }
+      ]
+    }
+  ]
+}

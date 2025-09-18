@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "state": "USA-KS",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 5,
+  "total_estimated_quantity": 1286,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 19.83,
+      "estimated_quantity_sold": 295,
+      "estimated_revenue": 5849.85,
+      "market_share": 0.2294,
+      "score": 82,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 295,
+          "estimated_revenue": 5849.85
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 8.61,
+      "estimated_quantity_sold": 249,
+      "estimated_revenue": 2143.89,
+      "market_share": 0.1936,
+      "score": 91,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 249,
+          "estimated_revenue": 2143.89
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 17.67,
+      "estimated_quantity_sold": 149,
+      "estimated_revenue": 2632.83,
+      "market_share": 0.1159,
+      "score": 86,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 149,
+          "estimated_revenue": 2632.83
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 42.35,
+      "estimated_quantity_sold": 419,
+      "estimated_revenue": 17744.65,
+      "market_share": 0.3258,
+      "score": 77,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 419,
+          "estimated_revenue": 17744.65
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 12.7,
+      "estimated_quantity_sold": 174,
+      "estimated_revenue": 2209.8,
+      "market_share": 0.1353,
+      "score": 64,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 174,
+          "estimated_revenue": 2209.8
+        }
+      ]
+    }
+  ]
+}

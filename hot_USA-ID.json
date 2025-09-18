@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "state": "USA-ID",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 6,
+  "total_estimated_quantity": 1799,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 9,
+      "estimated_quantity_sold": 252,
+      "estimated_revenue": 2268,
+      "market_share": 0.1401,
+      "score": 96,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 252,
+          "estimated_revenue": 2268
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 21.86,
+      "estimated_quantity_sold": 524,
+      "estimated_revenue": 11454.64,
+      "market_share": 0.2913,
+      "score": 64,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 524,
+          "estimated_revenue": 11454.64
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 19.94,
+      "estimated_quantity_sold": 151,
+      "estimated_revenue": 3010.94,
+      "market_share": 0.0839,
+      "score": 96,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 151,
+          "estimated_revenue": 3010.94
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 22.23,
+      "estimated_quantity_sold": 197,
+      "estimated_revenue": 4379.31,
+      "market_share": 0.1095,
+      "score": 77,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 197,
+          "estimated_revenue": 4379.31
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 43.38,
+      "estimated_quantity_sold": 518,
+      "estimated_revenue": 22470.84,
+      "market_share": 0.2879,
+      "score": 80,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 518,
+          "estimated_revenue": 22470.84
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Portable Blender",
+      "category": "Home",
+      "price": 32.25,
+      "estimated_quantity_sold": 157,
+      "estimated_revenue": 5063.25,
+      "market_share": 0.0873,
+      "score": 97,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 157,
+          "estimated_revenue": 5063.25
+        }
+      ]
+    }
+  ]
+}

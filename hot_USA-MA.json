@@ -1,0 +1,153 @@
+{
+  "ok": true,
+  "state": "USA-MA",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 8,
+  "total_estimated_quantity": 2010,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 17.22,
+      "estimated_quantity_sold": 214,
+      "estimated_revenue": 3685.08,
+      "market_share": 0.1065,
+      "score": 89,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 214,
+          "estimated_revenue": 3685.08
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 22.77,
+      "estimated_quantity_sold": 242,
+      "estimated_revenue": 5510.34,
+      "market_share": 0.1204,
+      "score": 75,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 242,
+          "estimated_revenue": 5510.34
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 12.07,
+      "estimated_quantity_sold": 293,
+      "estimated_revenue": 3536.51,
+      "market_share": 0.1458,
+      "score": 76,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 293,
+          "estimated_revenue": 3536.51
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "price": 9.53,
+      "estimated_quantity_sold": 295,
+      "estimated_revenue": 2811.35,
+      "market_share": 0.1468,
+      "score": 94,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 295,
+          "estimated_revenue": 2811.35
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 19.83,
+      "estimated_quantity_sold": 107,
+      "estimated_revenue": 2121.81,
+      "market_share": 0.0532,
+      "score": 79,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 107,
+          "estimated_revenue": 2121.81
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 26.69,
+      "estimated_quantity_sold": 175,
+      "estimated_revenue": 4670.75,
+      "market_share": 0.0871,
+      "score": 83,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 175,
+          "estimated_revenue": 4670.75
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 37.77,
+      "estimated_quantity_sold": 288,
+      "estimated_revenue": 10877.76,
+      "market_share": 0.1433,
+      "score": 61,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 288,
+          "estimated_revenue": 10877.76
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "price": 15.55,
+      "estimated_quantity_sold": 396,
+      "estimated_revenue": 6157.8,
+      "market_share": 0.197,
+      "score": 93,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 396,
+          "estimated_revenue": 6157.8
+        }
+      ]
+    }
+  ]
+}

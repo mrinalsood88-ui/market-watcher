@@ -1,0 +1,117 @@
+{
+  "ok": true,
+  "state": "USA-IN",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 6,
+  "total_estimated_quantity": 1667,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "price": 14.9,
+      "estimated_quantity_sold": 155,
+      "estimated_revenue": 2309.5,
+      "market_share": 0.093,
+      "score": 74,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 155,
+          "estimated_revenue": 2309.5
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 18.28,
+      "estimated_quantity_sold": 366,
+      "estimated_revenue": 6690.48,
+      "market_share": 0.2196,
+      "score": 84,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 366,
+          "estimated_revenue": 6690.48
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "price": 9.14,
+      "estimated_quantity_sold": 417,
+      "estimated_revenue": 3811.38,
+      "market_share": 0.2501,
+      "score": 78,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 417,
+          "estimated_revenue": 3811.38
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Portable Blender",
+      "category": "Home",
+      "price": 32.24,
+      "estimated_quantity_sold": 261,
+      "estimated_revenue": 8414.64,
+      "market_share": 0.1566,
+      "score": 89,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 261,
+          "estimated_revenue": 8414.64
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 22.93,
+      "estimated_quantity_sold": 227,
+      "estimated_revenue": 5205.11,
+      "market_share": 0.1362,
+      "score": 82,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 227,
+          "estimated_revenue": 5205.11
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 19.47,
+      "estimated_quantity_sold": 241,
+      "estimated_revenue": 4692.27,
+      "market_share": 0.1446,
+      "score": 80,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 241,
+          "estimated_revenue": 4692.27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "state": "USA-WA",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 7,
+  "total_estimated_quantity": 2715,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Portable Blender",
+      "category": "Home",
+      "price": 29.48,
+      "estimated_quantity_sold": 405,
+      "estimated_revenue": 11939.4,
+      "market_share": 0.1492,
+      "score": 73,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 405,
+          "estimated_revenue": 11939.4
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 24.84,
+      "estimated_quantity_sold": 220,
+      "estimated_revenue": 5464.8,
+      "market_share": 0.081,
+      "score": 66,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 220,
+          "estimated_revenue": 5464.8
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "price": 18.74,
+      "estimated_quantity_sold": 368,
+      "estimated_revenue": 6896.32,
+      "market_share": 0.1355,
+      "score": 87,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 368,
+          "estimated_revenue": 6896.32
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 36.64,
+      "estimated_quantity_sold": 491,
+      "estimated_revenue": 17990.24,
+      "market_share": 0.1808,
+      "score": 75,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 491,
+          "estimated_revenue": 17990.24
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 9.2,
+      "estimated_quantity_sold": 170,
+      "estimated_revenue": 1564,
+      "market_share": 0.0626,
+      "score": 83,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 170,
+          "estimated_revenue": 1564
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 11.7,
+      "estimated_quantity_sold": 554,
+      "estimated_revenue": 6481.8,
+      "market_share": 0.2041,
+      "score": 93,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 554,
+          "estimated_revenue": 6481.8
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "price": 10.42,
+      "estimated_quantity_sold": 507,
+      "estimated_revenue": 5282.94,
+      "market_share": 0.1867,
+      "score": 79,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 507,
+          "estimated_revenue": 5282.94
+        }
+      ]
+    }
+  ]
+}

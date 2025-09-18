@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "state": "USA-VT",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 5,
+  "total_estimated_quantity": 1785,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 42.21,
+      "estimated_quantity_sold": 244,
+      "estimated_revenue": 10299.24,
+      "market_share": 0.1367,
+      "score": 73,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 244,
+          "estimated_revenue": 10299.24
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 23.02,
+      "estimated_quantity_sold": 420,
+      "estimated_revenue": 9668.4,
+      "market_share": 0.2353,
+      "score": 71,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 420,
+          "estimated_revenue": 9668.4
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "price": 16.16,
+      "estimated_quantity_sold": 325,
+      "estimated_revenue": 5252,
+      "market_share": 0.1821,
+      "score": 84,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 325,
+          "estimated_revenue": 5252
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 21.64,
+      "estimated_quantity_sold": 413,
+      "estimated_revenue": 8937.32,
+      "market_share": 0.2314,
+      "score": 95,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 413,
+          "estimated_revenue": 8937.32
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 8.38,
+      "estimated_quantity_sold": 383,
+      "estimated_revenue": 3209.54,
+      "market_share": 0.2146,
+      "score": 73,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 383,
+          "estimated_revenue": 3209.54
+        }
+      ]
+    }
+  ]
+}

@@ -1,19 +1,135 @@
 {
   "ok": true,
-  "region": "FL",
-  "ts": 1758221342758,
-  "items": [
+  "state": "USA-FL",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 7,
+  "total_estimated_quantity": 1424,
+  "top_items": [
     {
-      "id": "FL-1",
-      "title": "Wireless Earbuds",
-      "price": 39.99,
-      "score": 90
+      "rank": 1,
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "price": 8.56,
+      "estimated_quantity_sold": 343,
+      "estimated_revenue": 2936.08,
+      "market_share": 0.2409,
+      "score": 98,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 343,
+          "estimated_revenue": 2936.08
+        }
+      ]
     },
     {
-      "id": "FL-2",
+      "rank": 2,
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 39.51,
+      "estimated_quantity_sold": 61,
+      "estimated_revenue": 2410.11,
+      "market_share": 0.0428,
+      "score": 83,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 61,
+          "estimated_revenue": 2410.11
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "price": 12.2,
+      "estimated_quantity_sold": 395,
+      "estimated_revenue": 4819,
+      "market_share": 0.2774,
+      "score": 80,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 395,
+          "estimated_revenue": 4819
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Portable Blender",
+      "category": "Home",
+      "price": 29.86,
+      "estimated_quantity_sold": 50,
+      "estimated_revenue": 1493,
+      "market_share": 0.0351,
+      "score": 72,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 50,
+          "estimated_revenue": 1493
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 21.25,
+      "estimated_quantity_sold": 261,
+      "estimated_revenue": 5546.25,
+      "market_share": 0.1833,
+      "score": 69,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 261,
+          "estimated_revenue": 5546.25
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Fitness Resistance Bands",
-      "price": 15,
-      "score": 85
+      "category": "Fitness",
+      "price": 15.01,
+      "estimated_quantity_sold": 148,
+      "estimated_revenue": 2221.48,
+      "market_share": 0.1039,
+      "score": 80,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 148,
+          "estimated_revenue": 2221.48
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 22.52,
+      "estimated_quantity_sold": 166,
+      "estimated_revenue": 3738.32,
+      "market_share": 0.1166,
+      "score": 96,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 166,
+          "estimated_revenue": 3738.32
+        }
+      ]
     }
   ]
 }

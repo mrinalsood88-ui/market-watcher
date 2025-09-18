@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "state": "USA-NV",
+  "timestamp": "2025-09-18T19:01:09.145Z",
+  "top_items_count": 5,
+  "total_estimated_quantity": 1355,
+  "top_items": [
+    {
+      "rank": 1,
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "price": 19.9,
+      "estimated_quantity_sold": 372,
+      "estimated_revenue": 7402.8,
+      "market_share": 0.2745,
+      "score": 78,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 372,
+          "estimated_revenue": 7402.8
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "price": 25.07,
+      "estimated_quantity_sold": 119,
+      "estimated_revenue": 2983.33,
+      "market_share": 0.0878,
+      "score": 89,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 119,
+          "estimated_revenue": 2983.33
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "price": 9.14,
+      "estimated_quantity_sold": 363,
+      "estimated_revenue": 3317.82,
+      "market_share": 0.2679,
+      "score": 79,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 363,
+          "estimated_revenue": 3317.82
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "price": 13.79,
+      "estimated_quantity_sold": 175,
+      "estimated_revenue": 2413.25,
+      "market_share": 0.1292,
+      "score": 90,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 175,
+          "estimated_revenue": 2413.25
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "price": 18.88,
+      "estimated_quantity_sold": 326,
+      "estimated_revenue": 6154.88,
+      "market_share": 0.2406,
+      "score": 83,
+      "trend": "new",
+      "history": [
+        {
+          "ts": "2025-09-18T19:01:09.145Z",
+          "estimated_quantity_sold": 326,
+          "estimated_revenue": 6154.88
+        }
+      ]
+    }
+  ]
+}
