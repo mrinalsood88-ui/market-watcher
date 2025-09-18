@@ -2,8 +2,8 @@ name: Scrape and publish
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every 1 hour
-  workflow_dispatch:
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:       # allows manual "Run workflow"
 
 jobs:
   scrape:
@@ -14,7 +14,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -22,14 +22,10 @@ jobs:
       - name: Install scraper deps
         working-directory: scrapers
         run: |
-          npm config set fund false
-          npm config set audit false
           npm install --no-audit --no-fund
 
       - name: Run scraper (build JSON outputs)
         working-directory: scrapers
-        env:
-          GITHUB_REPOSITORY: ${{ github.repository }}
         run: node index.js
 
       - name: Commit and push generated JSON to gh-pages
