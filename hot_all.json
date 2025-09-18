@@ -1,14 +1,66 @@
 {
   "ok": true,
-  "ts": 1758211815275,
+  "ts": 1758214292705,
   "items": [
     {
-      "title": "Test Product A",
-      "score": 95
+      "id": "CA-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
     },
     {
-      "title": "Test Product B",
-      "score": 88
+      "id": "CA-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    },
+    {
+      "id": "NY-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "NY-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    },
+    {
+      "id": "TX-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "TX-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    },
+    {
+      "id": "FL-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "FL-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    },
+    {
+      "id": "IL-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "IL-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
     }
   ]
 }

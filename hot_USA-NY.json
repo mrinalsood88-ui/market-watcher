@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "region": "NY",
+  "ts": 1758214292704,
+  "items": [
+    {
+      "id": "NY-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "NY-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    }
+  ]
+}

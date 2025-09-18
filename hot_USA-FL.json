@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "region": "FL",
+  "ts": 1758214292705,
+  "items": [
+    {
+      "id": "FL-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "FL-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    }
+  ]
+}

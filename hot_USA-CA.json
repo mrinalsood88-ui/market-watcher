@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "region": "CA",
+  "ts": 1758214292699,
+  "items": [
+    {
+      "id": "CA-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "CA-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    }
+  ]
+}

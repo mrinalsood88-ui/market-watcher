@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "region": "TX",
+  "ts": 1758214292704,
+  "items": [
+    {
+      "id": "TX-1",
+      "title": "Wireless Earbuds",
+      "price": 39.99,
+      "score": 90
+    },
+    {
+      "id": "TX-2",
+      "title": "Fitness Resistance Bands",
+      "price": 15,
+      "score": 85
+    }
+  ]
+}
