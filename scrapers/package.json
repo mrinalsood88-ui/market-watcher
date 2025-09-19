@@ -1,14 +1,16 @@
 {
-  "name": "market-watcher-scraper",
+  "name": "market-watcher-scrapers",
   "version": "1.0.0",
-  "description": "Scraper that generates hot product JSON files for all US states.",
-  "main": "index.js",
+  "main": "shopify.js",
   "scripts": {
-    "start": "node index.js"
+    "shopify": "node shopify.js",
+    "diff": "node diff_shopify_snapshots.js",
+    "map": "node map_store_to_state.js",
+    "build": "node build_hot_all.js"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "p-retry": "^5.0.0"
   }
 }
