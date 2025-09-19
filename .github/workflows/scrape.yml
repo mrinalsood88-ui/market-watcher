@@ -1,36 +1,49 @@
-name: Scrape and publish
+name: Scrape Shopify and Publish
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour
-  workflow_dispatch:       # allows manual "Run workflow"
+    - cron: '0 * * * *'   # every hour at :00 - adjust as needed
+  workflow_dispatch:
+
+concurrency:
+  group: "scrape-and-publish"
+  cancel-in-progress: true
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: scrapers
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Setup Node.js
+      - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '18'
 
-      - name: Install scraper deps
-        working-directory: scrapers
-        run: |
-          npm install --no-audit --no-fund
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Run scraper (build JSON outputs)
-        working-directory: scrapers
-        run: node index.js
+      - name: Run Shopify fetcher
+        run: npm run shopify
+
+      - name: Compute diffs (sales)
+        run: npm run diff
+
+      - name: Map stores to state (best-effort)
+        run: npm run map
+
+      - name: Build hot_all.json
+        run: npm run build
 
       - name: Commit and push generated JSON to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: scrapers/out
+          publish_dir: ./scrapers/out
