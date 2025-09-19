@@ -1,95 +1,158 @@
-// shopify.js
-// Fetch /products.json for each store in config and write timestamped snapshots
-// Usage: node shopify.js
+/**
+ * scrapers/shopify.js
+ *
+ * Fetch /products.json from a list of stores (shopify-style domains),
+ * save snapshots to scrapers/data/shopify/<store>.<timestamp>.json
+ *
+ * Usage:
+ *   node shopify.js
+ *
+ * Notes:
+ *  - config file: scrapers/config/shopify_stores.json
+ *    { "stores": ["examplestore.myshopify.com", "another.com"], "concurrency": 3 }
+ *
+ *  - Requires: axios, p-retry
+ */
 
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const pRetry = require('p-retry');
+const pRetry = require('p-retry').default; // << important: use .default for CommonJS
+const os = require('os');
 
-const CONFIG_FILE = path.join(__dirname, 'config', 'shopify_stores.json');
-const OUTDIR = path.join(__dirname, 'data', 'shopify');
-fs.mkdirSync(OUTDIR, { recursive: true });
+const CONFIG_PATH = path.join(__dirname, 'config', 'shopify_stores.json');
+const OUT_DIR = path.join(__dirname, 'data', 'shopify');
+const CONCURRENCY_DEFAULT = 3;
+const USER_AGENT = 'MarketWatcher-Scraper/1.0 (+https://github.com/)';
 
-function loadConfig(){
-  if(!fs.existsSync(CONFIG_FILE)) throw new Error('Missing config/shopify_stores.json');
-  return JSON.parse(fs.readFileSync(CONFIG_FILE, 'utf8'));
+// Ensure output dir exists
+fs.mkdirSync(OUT_DIR, { recursive: true });
+
+// Load config
+let config = { stores: [], concurrency: CONCURRENCY_DEFAULT };
+try {
+  const raw = fs.readFileSync(CONFIG_PATH, 'utf8');
+  config = Object.assign(config, JSON.parse(raw));
+} catch (err) {
+  console.warn('Could not read config/shopify_stores.json - using defaults. Create file to customize stores.');
 }
 
-async function fetchProductsJson(storeDomain){
-  const urls = [
-    `https://${storeDomain}/products.json?limit=250`,
-    `https://${storeDomain}/products.json`
-  ];
-  for(const url of urls){
-    try{
-      const res = await axios.get(url, { timeout: 20000, headers: { 'User-Agent': 'MarketWatcher/1.0' } });
-      if(res && res.data){
-        const products = res.data.products || res.data;
-        return { url, products };
-      }
-    }catch(e){
-      // ignore and try next url
-    }
-  }
-  return null;
-}
+// normalize stores array
+const stores = (config.stores || []).filter(Boolean);
+const concurrency = Number(config.concurrency) || CONCURRENCY_DEFAULT;
 
-function normalize(store, products){
-  const rows = [];
-  for(const p of (products||[])){
-    const title = p.title || p.handle || 'Unnamed';
-    const category = p.product_type || (p.tags || []).join(',') || '';
-    const variants = p.variants && p.variants.length ? p.variants : [{ id: p.id, price: p.price, inventory_quantity: p.inventory_quantity || null }];
-    for(const v of variants){
-      rows.push({
-        store,
-        product_id: p.id || `${store}-${p.handle||title}`,
-        variant_id: v.id || null,
-        title,
-        category,
-        price: Number(v.price || v.presentment_price || p.price || 0),
-        inventory_quantity: Number.isFinite(v.inventory_quantity) ? v.inventory_quantity : null,
-        sku: v.sku || '',
-        ts: new Date().toISOString()
-      });
-    }
-  }
-  return rows;
-}
-
-async function main(){
-  const cfg = loadConfig();
-  const stores = cfg.stores || [];
-  const concurrency = cfg.concurrency || 3;
-
-  console.log('Shopify fetcher starting. Stores:', stores.length);
-  // simple concurrency loop
-  for(let i=0;i<stores.length;i+=concurrency){
-    const group = stores.slice(i, i+concurrency);
-    await Promise.all(group.map(async store=>{
-      try{
-        const result = await pRetry(()=>fetchProductsJson(store), { retries: 1 });
-        if(!result){
-          console.warn('No products.json for', store);
-          return;
-        }
-        const rows = normalize(store, result.products);
-        const ts = new Date().toISOString().replace(/[:.]/g,'-');
-        const fname = path.join(OUTDIR, `${store.replace(/[:\/]/g,'_')}.${ts}.json`);
-        fs.writeFileSync(fname, JSON.stringify({ ts: new Date().toISOString(), store, source: 'shopify', count: rows.length, items: rows }, null, 2));
-        console.log('WROTE', fname, 'items', rows.length);
-      }catch(err){
-        console.error('ERR fetch', store, err && err.message || err);
-      }
-    }));
-    // polite pause between groups
-    await new Promise(r=>setTimeout(r, 1000 + Math.random()*2000));
-  }
-  console.log('Done shopify fetcher');
-}
-
-main().catch(err=>{
-  console.error(err);
+if (!stores.length) {
+  console.error('No stores found in', CONFIG_PATH, '. Please add some shop domains and retry.');
   process.exit(1);
-});
+}
+
+console.log('Shopify fetcher starting. Stores:', stores.length, 'Concurrency:', concurrency);
+
+// Helper: timestamp string
+function tsForFilename() {
+  const d = new Date();
+  return d.toISOString().replace(/[:.]/g, '-');
+}
+
+// helper to write file
+function writeSnapshot(store, body) {
+  const fileName = `${store}.${tsForFilename()}.json`;
+  const out = path.join(OUT_DIR, fileName);
+  fs.writeFileSync(out, JSON.stringify({ fetched_at: new Date().toISOString(), source: store, body }, null, 2), 'utf8');
+  console.log('WROTE', out);
+}
+
+// single fetch with retry
+async function fetchStoreProducts(store) {
+  const base = store.startsWith('http') ? store.replace(/\/+$/, '') : `https://${store.replace(/\/+$/, '')}`;
+  // Common paths to try (Shopify common)
+  const attempts = [
+    `${base}/products.json?limit=250`,
+    `${base}/products.json`,
+  ];
+
+  return pRetry(async () => {
+    // try each path until success
+    let lastErr = null;
+    for (const url of attempts) {
+      try {
+        const res = await axios.get(url, {
+          headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' },
+          timeout: 15000,
+          validateStatus: status => (status >= 200 && status < 300) || status === 403 || status === 404
+        });
+        if (res.status === 200 && res.data) {
+          return { url, status: res.status, data: res.data };
+        }
+        // if 403/404 return error to allow retry to skip or try again
+        lastErr = new Error(`HTTP ${res.status} on ${url}`);
+      } catch (err) {
+        lastErr = err;
+      }
+    }
+    // none succeeded -> throw so pRetry will retry
+    throw lastErr || new Error('Unknown fetch error');
+  }, {
+    retries: 3,
+    onFailedAttempt: error => {
+      const attempt = error.attemptNumber;
+      const retriesLeft = error.retriesLeft;
+      console.warn(`${store} - attempt ${attempt} failed. ${retriesLeft} retries left. ${error.message}`);
+    }
+  });
+}
+
+// run with limited concurrency
+async function runAll() {
+  const queue = stores.slice();
+  let inFlight = 0;
+  const results = [];
+
+  async function runNext() {
+    if (!queue.length) return;
+    if (inFlight >= concurrency) return;
+    const store = queue.shift();
+    inFlight++;
+    try {
+      console.log('Fetching', store);
+      const r = await fetchStoreProducts(store);
+      if (r && r.data) {
+        writeSnapshot(store, r.data);
+        results.push({ store, ok: true });
+      } else {
+        console.warn('No data for', store, 'response:', r && r.status);
+        results.push({ store, ok: false, reason: 'no-data' });
+      }
+    } catch (err) {
+      console.error('ERR fetch', store, err && err.message ? err.message : err);
+      results.push({ store, ok: false, reason: (err && err.message) || 'error' });
+    } finally {
+      inFlight--;
+      // start next item
+      await runNext();
+    }
+  }
+
+  // bootstrap concurrency
+  const starters = [];
+  for (let i=0;i<concurrency;i++) starters.push(runNext());
+  await Promise.all(starters);
+
+  return results;
+}
+
+(async () => {
+  try {
+    const res = await runAll();
+    console.log('Done shopify fetcher');
+    const ok = res.filter(r=>r.ok).length;
+    console.log(`Successful: ${ok} / ${res.length}`);
+    // summary file
+    const summaryPath = path.join(OUT_DIR, `summary.${tsForFilename()}.json`);
+    fs.writeFileSync(summaryPath, JSON.stringify({ ts: new Date().toISOString(), summary: res }, null, 2), 'utf8');
+    console.log('Summary written to', summaryPath);
+  } catch (err) {
+    console.error('Fatal error in shopify fetcher', err);
+    process.exit(1);
+  }
+})();
