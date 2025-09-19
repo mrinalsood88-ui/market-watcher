@@ -1,0 +1,8 @@
+{
+  "stores": [
+    "store-demo.myshopify.com",
+    "examplestore.myshopify.com",
+    "coolgadgets.com"
+  ],
+  "concurrency": 3
+}
