@@ -1,7 +1,7 @@
 {
   "ok": true,
   "state": "USA-WI",
-  "timestamp": "2025-09-19T08:43:02.481Z",
+  "timestamp": "2025-09-19T09:33:05.528Z",
   "top_items_count": 8,
   "total_estimated_quantity": 2317,
   "top_items": [
@@ -17,7 +17,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 369,
           "estimated_revenue": 7974.09
         }
@@ -35,7 +35,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 189,
           "estimated_revenue": 5594.4
         }
@@ -53,7 +53,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 247,
           "estimated_revenue": 2284.75
         }
@@ -71,7 +71,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 242,
           "estimated_revenue": 2918.52
         }
@@ -89,7 +89,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 335,
           "estimated_revenue": 14632.8
         }
@@ -107,7 +107,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 277,
           "estimated_revenue": 2872.49
         }
@@ -125,7 +125,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 341,
           "estimated_revenue": 8201.05
         }
@@ -143,7 +143,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T08:43:02.481Z",
+          "ts": "2025-09-19T09:33:05.528Z",
           "estimated_quantity_sold": 317,
           "estimated_revenue": 6308.3
         }
