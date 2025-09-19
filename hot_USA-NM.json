@@ -1,7 +1,7 @@
 {
   "ok": true,
   "state": "USA-NM",
-  "timestamp": "2025-09-19T14:38:38.356Z",
+  "timestamp": "2025-09-19T15:32:19.280Z",
   "top_items_count": 7,
   "total_estimated_quantity": 1587,
   "top_items": [
@@ -17,7 +17,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 240,
           "estimated_revenue": 1867.2
         }
@@ -35,7 +35,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 383,
           "estimated_revenue": 16794.55
         }
@@ -53,7 +53,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 96,
           "estimated_revenue": 2908.8
         }
@@ -71,7 +71,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 97,
           "estimated_revenue": 985.52
         }
@@ -89,7 +89,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 435,
           "estimated_revenue": 8395.5
         }
@@ -107,7 +107,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 224,
           "estimated_revenue": 5873.28
         }
@@ -125,7 +125,7 @@
       "trend": "new",
       "history": [
         {
-          "ts": "2025-09-19T14:38:38.356Z",
+          "ts": "2025-09-19T15:32:19.280Z",
           "estimated_quantity_sold": 112,
           "estimated_revenue": 1600.48
         }
