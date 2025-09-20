@@ -1,55 +1,104 @@
 // shopify.js
-// Entrypoint for Shopify fetcher (CommonJS style).
-// Minimal change: dynamic import of p-retry which is an ESM-only package.
+// CommonJS entrypoint. Dynamically imports p-retry (ESM-only).
+// Behavior:
+// - Immediately aborts on 401 (no retries).
+// - Retries on network/5xx up to retries count.
+// - Writes output to shopify-data.json
 
-const axios = require('axios'); // keep using CommonJS require for other deps
+const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-// Config: change values as needed
-const SHOPIFY_STORE = process.env.SHOPIFY_STORE || 'your-store.myshopify.com';
-const SHOPIFY_ACCESS_TOKEN = process.env.SHOPIFY_ACCESS_TOKEN || ''; // set in CI secrets
+const SHOPIFY_STORE = process.env.SHOPIFY_STORE; // e.g. your-store.myshopify.com
+const SHOPIFY_ACCESS_TOKEN = process.env.SHOPIFY_ACCESS_TOKEN;
 const OUTPUT_FILE = path.resolve(__dirname, 'shopify-data.json');
+const DEBUG = Boolean(process.env.DEBUG);
 
-// Example request: fetch product list (GraphQL or REST). This uses the REST endpoint as example.
+if (!SHOPIFY_STORE || !SHOPIFY_ACCESS_TOKEN) {
+  console.error('Missing required environment variables. Please set SHOPIFY_STORE and SHOPIFY_ACCESS_TOKEN.');
+  console.error('Example: SHOPIFY_STORE=your-store.myshopify.com SHOPIFY_ACCESS_TOKEN=xxxxx node shopify.js');
+  process.exit(1);
+}
+
 async function fetchProductsPage(page = 1) {
-  // Example REST API request (change path/query as needed)
   const url = `https://${SHOPIFY_STORE}/admin/api/2024-07/products.json?page=${page}&limit=50`;
   const headers = {
     'X-Shopify-Access-Token': SHOPIFY_ACCESS_TOKEN,
     'Accept': 'application/json',
+    'User-Agent': 'market-watcher-scraper/1.0'
   };
+  if (DEBUG) {
+    console.log('Request URL:', url);
+    console.log('Request headers:', headers);
+  }
 
-  const resp = await axios.get(url, { headers, timeout: 15000 });
-  return resp.data;
+  try {
+    const resp = await axios.get(url, { headers, timeout: 15000 });
+    if (DEBUG) {
+      console.log('Response status:', resp.status);
+    }
+    return resp.data;
+  } catch (err) {
+    // axios error shape
+    if (err.response) {
+      // Server responded with a status code
+      const status = err.response.status;
+      if (DEBUG) {
+        console.error('Response status:', status);
+        // Only safe to log small body in debug
+        try { console.error('Response data:', JSON.stringify(err.response.data).slice(0, 1000)); } catch (e) {}
+      }
+      // If 401, abort further retries immediately
+      if (status === 401) {
+        // p-retry.AbortError will be created by caller (we throw a special marker)
+        const e = new Error(`Shopify returned 401 Unauthorized. Check SHOPIFY_ACCESS_TOKEN and SHOPIFY_STORE. (${status})`);
+        e.__abort = true;
+        throw e;
+      }
+
+      // For 4xx other than 401, probably won't succeed with retries but let retry policy decide.
+      throw err;
+    } else if (err.request) {
+      // No response received - network error
+      throw err;
+    } else {
+      // Something else
+      throw err;
+    }
+  }
 }
 
-// Wrapper to load p-retry dynamically and use it
 (async () => {
   try {
-    // dynamic import of ESM package
     const pRetryModule = await import('p-retry');
-    const pRetry = pRetryModule.default ?? pRetryModule; // safety for default export
+    const pRetry = pRetryModule.default ?? pRetryModule;
 
-    // Retry options - tune as needed
     const retryOptions = {
       retries: 3,
       factor: 2,
-      minTimeout: 1000, // 1s
-      maxTimeout: 8000, // 8s
+      minTimeout: 1000,
+      maxTimeout: 8000,
       onFailedAttempt: (err) => {
-        const attempt = err.attemptNumber;
-        const retriesLeft = err.retriesLeft;
-        console.warn(`Attempt ${attempt} failed. ${retriesLeft} retries left. Error: ${err.message}`);
+        // if error was marked __abort, wrap in AbortError to stop retries
+        if (err && err.__abort) {
+          // pRetry has AbortError class available as property on the function
+          const AbortError = pRetry.AbortError ?? (pRetryModule && pRetryModule.AbortError);
+          if (AbortError) {
+            throw new AbortError(err);
+          } else {
+            // fallback: rethrow to stop
+            throw err;
+          }
+        } else {
+          console.warn(`Attempt ${err.attemptNumber} failed. ${err.retriesLeft} retries left. Error: ${err.message}`);
+        }
       }
     };
 
-    // Example usage: fetch a single page with retries
-    async function fetchProductsWithRetry(page = 1) {
+    async function fetchProductsWithRetry(page) {
       return pRetry(() => fetchProductsPage(page), retryOptions);
     }
 
-    // Example main logic: fetch first N pages (adjust as required)
     const maxPages = 3;
     const collected = [];
 
@@ -57,7 +106,6 @@ async function fetchProductsPage(page = 1) {
       console.log(`Fetching page ${p} ...`);
       try {
         const data = await fetchProductsWithRetry(p);
-        // adapt depending on API shape: here we expect data.products
         if (data && data.products && data.products.length) {
           collected.push(...data.products);
         } else {
@@ -65,21 +113,21 @@ async function fetchProductsPage(page = 1) {
           break;
         }
       } catch (err) {
-        console.error(`Failed to fetch page ${p} after retries:`, err.message || err);
-        // Decide whether to continue or stop — we'll stop for safety
+        // If abort error from p-retry, unwrap to show reason
+        const isAbort = (err && err.name === 'AbortError') || (err && err.__abort);
+        if (isAbort) {
+          console.error('Abort (non-retryable) error:', err.message || err);
+        } else {
+          console.error(`Failed to fetch page ${p} after retries:`, err && err.message ? err.message : err);
+        }
         throw err;
       }
     }
 
-    // Write results
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(collected, null, 2), 'utf8');
     console.log(`Wrote ${collected.length} products to ${OUTPUT_FILE}`);
-
-    // Exit normally
     process.exit(0);
-
   } catch (err) {
-    // Top-level error handling
     console.error('Fatal error in shopify fetcher:', err && err.stack ? err.stack : err);
     process.exit(1);
   }
