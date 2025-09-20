@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write    # required to push changes back to the repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -22,15 +27,44 @@ jobs:
         run: npm ci
 
       - name: Run Shopify fetcher
+        id: shopify_fetch
         run: node shopify.js
         env:
           SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
           SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          # optional: set DEBUG to true if you want extra logs (be careful not to print tokens)
+          DEBUG: false
 
-      - name: Commit and push generated JSON to gh-pages
+      # Example: Compute diffs (sales) - replace with your script if different
+      - name: Compute diffs (sales)
+        run: npm run compute-diffs
+        # if your script requires env, add env: block
+
+      # Example: Map stores to state (best-effort)
+      - name: Map stores to state (best-effort)
+        run: npm run map-stores
+
+      # Example: Build hot_all.json (replace with your real step)
+      - name: Build hot_all.json
+        run: npm run build-hot-all
+
+      # Commit and push generated JSON to repo (uses GITHUB_TOKEN automatically)
+      - name: Commit and push generated JSON to repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add shopify-data.json
-          git commit -m "Update shopify-data.json [skip ci]" || echo "No changes"
+          git add shopify-data.json hot_all.json || true
+          git commit -m "chore: update generated JSON [skip ci]" || echo "No changes to commit"
           git push
+        env:
+          GIT_AUTHOR_NAME: "github-actions[bot]"
+          GIT_AUTHOR_EMAIL: "github-actions[bot]@users.noreply.github.com"
+
+      # Post steps (cleanup, etc). Add any other steps your pipeline needs.
+      - name: Post Set up Node
+        if: always()
+        run: echo "Post Node tasks"
+
+      - name: Complete job
+        if: always()
+        run: echo "Build job finished"
