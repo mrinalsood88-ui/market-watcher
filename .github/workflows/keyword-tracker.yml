@@ -1,0 +1,45 @@
+name: Keyword Tracker (Google Trends)
+
+# Choose cron: hourly (every hour) or every 3 hours
+on:
+  schedule:
+    - cron: '0 * * * *'    # every hour (change to '0 */3 * * *' for every 3 hours)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+
+jobs:
+  run-keyword-tracker:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: scrapers
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'   # use 20 to match modern deps; change if you need older
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run keyword tracker
+        run: node keyword_tracker.js
+        # if you named the script keyword_trends.js or different, replace accordingly
+
+      - name: Show output files
+        run: ls -lah out || true
+
+      - name: Publish results to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
