@@ -2,7 +2,7 @@ name: Shopify Scrape & Commit
 
 on:
   schedule:
-    - cron: '0 */1 * * *'   # runs every 1 hour
+    - cron: '0 */1 * * *'   # runs every 1 hour (adjust as needed)
   workflow_dispatch:
 
 permissions:
@@ -31,10 +31,14 @@ jobs:
 
       - name: Install dependencies (safe mode)
         run: |
+          # force-clean cache and install from official registry, be more forgiving about peer deps,
+          # prefer fresh downloads to reduce chance of corrupted tarballs
+          npm cache clean --force
           npm install --legacy-peer-deps --no-audit --prefer-online --registry=https://registry.npmjs.org/
 
       - name: Run scraper pipeline
         run: |
+          # run the scripts from the scrapers folder (defaults.working-directory is 'scrapers')
           node shopify.js
           node diff_shopify_snapshots.js || true
           node build_hot_all.js || true
@@ -56,8 +60,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Stage both outputs if present
           git add -A scrapers/out/products || true
           git add -A scrapers/out/keywords || true
+          # Commit & push only if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: update scraper output [ci skip]"
             git push
