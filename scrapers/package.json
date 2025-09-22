@@ -1,17 +1,15 @@
 {
-  "name": "market-watcher",
+  "name": "market-watcher-scrapers",
   "version": "1.0.0",
-  "description": "Small market watcher - keyword tracker",
-  "main": "index.js",
+  "description": "Keyword and market data scrapers",
+  "main": "keyword_tracker.js",
   "scripts": {
-    "start": "node scrapers/keyword_tracker.js"
+    "start": "node keyword_tracker.js"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "p-retry": "^5.0.0",
     "google-trends-api": "^4.9.0"
-  },
-  "engines": {
-    "node": ">=16"
   }
 }
