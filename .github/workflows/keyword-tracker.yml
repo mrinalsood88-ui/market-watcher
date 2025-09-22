@@ -1,44 +1,45 @@
-name: Keyword Tracker (Google Trends)
+name: keyword-tracker
 
 on:
+  push:
+    paths:
+      - 'scrapers/**'
+      - 'package.json'
+      - '.github/workflows/keyword-tracker.yml'
   schedule:
-    - cron: '0 */3 * * *'   # every 3 hours
-  workflow_dispatch:
-
-permissions:
-  contents: write    # needed to commit results back to the repo
+    - cron: '0 2 * * *' # daily at 02:00 UTC
 
 jobs:
-  keyword-tracker:
+  run-tracker:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: scrapers
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Install dependencies
         run: npm ci
 
       - name: Run keyword tracker
-        run: node keyword_tracker.js
+        run: npm start
 
-      - name: List outputs
-        run: ls -lah out || true
-
-      - name: Commit generated keyword files to repo
+      - name: List output file (debug)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A scrapers/out/keywords
-          # only commit if there are changes
-          git diff --cached --quiet || (git commit -m "chore: update keyword tracker output [ci skip]" && git push)
+          echo "Output dir contents:"
+          ls -la scrapers/out/keywords || true
+          if [ -f scrapers/out/keywords/keyword_hot.json ]; then
+            echo "File exists: scrapers/out/keywords/keyword_hot.json"
+            wc -c scrapers/out/keywords/keyword_hot.json || true
+          fi
