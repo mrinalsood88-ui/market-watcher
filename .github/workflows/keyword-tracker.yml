@@ -1,10 +1,9 @@
 name: Keyword Tracker (Google Trends)
 
-# Choose cron: hourly (every hour) or every 3 hours
 on:
   schedule:
-    - cron: '0 * * * *'    # every hour (change to '0 */3 * * *' for every 3 hours)
-  workflow_dispatch:
+    - cron: '0 */3 * * *'   # every 3 hours
+  workflow_dispatch:        # allow manual run (trial)
 
 permissions:
   contents: read
@@ -23,19 +22,18 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Setup Node.js
+      - name: Setup Node.js  (use 20 for compatibility)
         uses: actions/setup-node@v4
         with:
-          node-version: '20'   # use 20 to match modern deps; change if you need older
+          node-version: '20'
 
       - name: Install dependencies
         run: npm ci
 
       - name: Run keyword tracker
         run: node keyword_tracker.js
-        # if you named the script keyword_trends.js or different, replace accordingly
 
-      - name: Show output files
+      - name: Show output summary
         run: ls -lah out || true
 
       - name: Publish results to gh-pages
