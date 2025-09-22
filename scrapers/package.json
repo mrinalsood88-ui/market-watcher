@@ -1,16 +1,17 @@
 {
-  "name": "market-watcher-scrapers",
+  "name": "market-watcher",
   "version": "1.0.0",
-  "main": "shopify.js",
+  "description": "Small market watcher - keyword tracker",
+  "main": "index.js",
   "scripts": {
-    "shopify": "node shopify.js",
-    "diff": "node diff_shopify_snapshots.js",
-    "map": "node map_store_to_state.js",
-    "build": "node build_hot_all.js"
+    "start": "node scrapers/keyword_tracker.js"
   },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.4.0",
-    "cheerio": "^1.0.0-rc.12",
-    "p-retry": "^5.0.0"
+    "google-trends-api": "^4.9.0"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
