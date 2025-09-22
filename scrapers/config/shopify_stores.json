@@ -1,8 +1,0 @@
-{
-  "stores": [
-    "glitzandblitz.com",
-    "examplestore.myshopify.com",
-    "coolgadgets.com"
-  ],
-  "concurrency": 3
-}
