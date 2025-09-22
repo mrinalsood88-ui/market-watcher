@@ -2,7 +2,7 @@ name: Shopify Scrape & Commit
 
 on:
   schedule:
-    - cron: '0 */1 * * *'   # runs every 1 hour
+    - cron: '0 */1 * * *'   # runs every 1 hour (adjust as needed)
   workflow_dispatch:
 
 permissions:
@@ -26,23 +26,43 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
+      - name: Clear npm cache
+        run: npm cache clean --force
+
+      - name: Install dependencies (from scrapers)
         run: npm ci
 
       - name: Run scraper pipeline
         run: |
+          # run the scripts from the scrapers folder (defaults.working-directory is 'scrapers')
           node shopify.js
           node diff_shopify_snapshots.js || true
           node build_hot_all.js || true
-          node keyword_tracker.js || true   # <-- run keyword tracker too
+          node keyword_tracker.js || true
 
       - name: List outputs
-        run: ls -lah out || true
+        run: |
+          echo "Contents of out directory:"
+          ls -lah out || true
+          echo "Products:"
+          ls -lah out/products || true
+          echo "Keywords:"
+          ls -lah out/keywords || true
 
       - name: Commit generated files to repo
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A scrapers/out/products
-          git add -A scrapers/out/keywords
-          git diff --cached --quiet || (git commit -m "chore: update scraper output [ci skip]" && git push)
+          # Add both products and keywords outputs (only staged files that exist)
+          git add -A scrapers/out/products || true
+          git add -A scrapers/out/keywords || true
+          # Commit only if there are staged changes
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update scraper output [ci skip]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
