@@ -1,8 +1,9 @@
 name: Shopify Scrape & Commit
 
+# schedule + manual trigger
 on:
   schedule:
-    - cron: '0 */1 * * *'   # runs every hour (adjust as needed)
+    - cron: '0 */1 * * *'   # runs every hour (adjust if needed)
   workflow_dispatch:
 
 permissions:
@@ -25,54 +26,92 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
-      - name: Clean npm cache (runner)
+      - name: Ensure npm cache is healthy
         run: |
-          npm cache clean --force || true
+          npm cache verify || true
 
-      - name: Install dependencies (force fresh fetch)
-        run: |
-          # remove any leftover state that could cause integrity issues
-          rm -rf node_modules package-lock.json || true
-          # force a fresh fetch; prefer-online avoids using stale local cache,
-          # --force helps in systems where tarball checksums are problematic.
-          npm install --legacy-peer-deps --no-audit --prefer-online --force --registry=https://registry.npmjs.org/
-
-      - name: Show node & npm and installed deps
-        run: |
-          node -v
-          npm -v
-          npm ls --depth=0 || true
-
-      - name: Run scraper pipeline (always runs shopify.js)
+      - name: Install dependencies (robust)
+        # run inside scrapers because package.json lives there (defaults above)
         run: |
           set -e
-          node shopify.js
-          node diff_shopify_snapshots.js || true
-          node build_hot_all.js || true
-          node keyword_tracker.js || true
+          # Prefer a clean ci install when package-lock.json is present.
+          # If npm ci fails (some runners/net issues), fall back to npm install with safe flags.
+          if npm ci --prefer-offline --no-audit --progress=false; then
+            echo "npm ci succeeded"
+          else
+            echo "npm ci failed; trying npm install (fallback)"
+            npm install --no-audit --prefer-offline --progress=false || true
+          fi
+        # allow step to fail gracefully and continue the job if install is flaky? we keep set -e, fallback uses || true
 
-      - name: List outputs
-        run: |
-          echo "Contents of out directory:"
-          ls -lah out || true
-          echo "Products (out/products):"
-          ls -lah out/products || true
-          echo "Keywords (out/keywords):"
-          ls -lah out/keywords || true
+      - name: List installed top-level packages (debug)
+        run: npm ls --depth=0 || true
 
-      - name: Commit generated files to repo
-        env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
+      - name: Run scraper pipeline
         run: |
+          set -e
+          # run scrapers. shopify.js may require API token; run it but don't fail the whole job if it errors
+          node shopify.js || echo "shopify.js failed but continuing"
+          node diff_shopify_snapshots.js || echo "diff_shopify_snapshots failed (non-critical)"
+          node build_hot_all.js || echo "build_hot_all failed (non-critical)"
+        working-directory: scrapers
+
+      - name: Show generated outputs (debug)
+        run: |
+          echo "listing scrapers/out tree"
+          ls -la scrapers/out || true
+          echo "listing products and keywords inside out"
+          ls -la scrapers/out/products || true
+          ls -la scrapers/out/keywords || true
+
+      - name: Copy scraper outputs into repo folders for extension
+        run: |
+          # Ensure target folders exist at repo root
+          mkdir -p products
+          mkdir -p keywords
+
+          # Copy only if files exist; preserve filenames used by extension
+          # common outputs produced by your scrapers: hot_all.json (products) and keyword_hot.json (keywords)
+          if [ -f scrapers/out/products/hot_all.json ]; then
+            cp scrapers/out/products/hot_all.json products/hot_all.json
+          fi
+
+          # Copy all product files (if you want the entire set)
+          if [ -d scrapers/out/products ]; then
+            cp -a scrapers/out/products/. products/ || true
+          fi
+
+          # keywords
+          if [ -f scrapers/out/keywords/keyword_hot.json ]; then
+            cp scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json
+          fi
+
+          if [ -d scrapers/out/keywords ]; then
+            cp -a scrapers/out/keywords/. keywords/ || true
+          fi
+
+          echo "After copy, repo-root products/ and keywords/ contents:"
+          ls -la products || true
+          ls -la keywords || true
+
+      - name: Commit generated files if changed
+        run: |
+          # configure git user so commit is not flagged
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A scrapers/out/products || true
-          git add -A scrapers/out/keywords || true
+
+          # add changes
+          git add products keywords || true
+
+          # only commit & push if there are staged changes
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update scraper output [ci skip]"
+            git commit -m "chore(scrapers): update generated products/ and keywords/ outputs [ci skip]" || true
             git push
           else
             echo "No changes to commit."
           fi
+
+      - name: Done
+        run: echo "Scrape job finished."
