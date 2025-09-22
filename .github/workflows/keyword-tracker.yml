@@ -3,14 +3,13 @@ name: Keyword Tracker (Google Trends)
 on:
   schedule:
     - cron: '0 */3 * * *'   # every 3 hours
-  workflow_dispatch:        # allow manual run (trial)
+  workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
+  contents: write    # needed to commit results back to the repo
 
 jobs:
-  run-keyword-tracker:
+  keyword-tracker:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -20,9 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
-      - name: Setup Node.js  (use 20 for compatibility)
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -33,11 +32,13 @@ jobs:
       - name: Run keyword tracker
         run: node keyword_tracker.js
 
-      - name: Show output summary
+      - name: List outputs
         run: ls -lah out || true
 
-      - name: Publish results to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out
+      - name: Commit generated keyword files to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A scrapers/out/keywords
+          # only commit if there are changes
+          git diff --cached --quiet || (git commit -m "chore: update keyword tracker output [ci skip]" && git push)
