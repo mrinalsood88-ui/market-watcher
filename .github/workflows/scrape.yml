@@ -26,22 +26,27 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Clean npm cache
-        run: npm cache clean --force
-
-      - name: Install dependencies (safe)
+      - name: Clean npm cache (runner)
         run: |
-          npm cache clean --force
-          npm install --legacy-peer-deps --no-audit --prefer-online --registry=https://registry.npmjs.org/
+          npm cache clean --force || true
 
-      - name: Show node & npm
+      - name: Install dependencies (force fresh fetch)
+        run: |
+          # remove any leftover state that could cause integrity issues
+          rm -rf node_modules package-lock.json || true
+          # force a fresh fetch; prefer-online avoids using stale local cache,
+          # --force helps in systems where tarball checksums are problematic.
+          npm install --legacy-peer-deps --no-audit --prefer-online --force --registry=https://registry.npmjs.org/
+
+      - name: Show node & npm and installed deps
         run: |
           node -v
           npm -v
           npm ls --depth=0 || true
 
-      - name: Run scraper pipeline
+      - name: Run scraper pipeline (always runs shopify.js)
         run: |
+          set -e
           node shopify.js
           node diff_shopify_snapshots.js || true
           node build_hot_all.js || true
