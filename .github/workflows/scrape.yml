@@ -29,12 +29,11 @@ jobs:
       - name: Clear npm cache
         run: npm cache clean --force
 
-      - name: Install dependencies (from scrapers)
-        run: npm ci
+      - name: Install dependencies (using npm install)
+        run: npm install
 
       - name: Run scraper pipeline
         run: |
-          # run the scripts from the scrapers folder (defaults.working-directory is 'scrapers')
           node shopify.js
           node diff_shopify_snapshots.js || true
           node build_hot_all.js || true
@@ -56,10 +55,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Add both products and keywords outputs (only staged files that exist)
           git add -A scrapers/out/products || true
           git add -A scrapers/out/keywords || true
-          # Commit only if there are staged changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: update scraper output [ci skip]"
             git push
