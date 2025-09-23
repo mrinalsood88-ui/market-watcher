@@ -1,9 +1,9 @@
-name: Scrape and publish (robust)
+name: Scrape and publish
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch: {}        # Manual run button
   schedule:
-    - cron: '0 * * * *'        # every hour (UTC)
+    - cron: '0 * * * *'        # Every hour (UTC)
   push:
     branches: [ main ]
 
@@ -16,108 +16,40 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Locate project folder (where package.json lives)
-        id: find_pkg
-        run: |
-          set -euo pipefail
-          echo "Searching for package.json..."
-          PKG_FILE=$(find . -maxdepth 4 -name package.json -print -quit || true)
-          if [ -z "$PKG_FILE" ]; then
-            echo "No package.json found at repo root or up to depth 4 — defaulting to repo root."
-            echo "pkg_dir=." >> $GITHUB_OUTPUT
-          else
-            PKG_DIR=$(dirname "$PKG_FILE")
-            echo "Found package.json at: $PKG_FILE"
-            echo "pkg_dir=$PKG_DIR" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Show repo tree (top)
-        run: |
-          echo "Working dir: $GITHUB_WORKSPACE"
-          ls -la
-          echo "Top-level tree (depth 2):"
-          find . -maxdepth 2 -print
-
-      - name: Install Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - name: Install dependencies & run scraper
-        env:
-          PKG_DIR: ${{ steps.find_pkg.outputs.pkg_dir }}
+      - name: Install dependencies
         run: |
-          set -euxo pipefail
-          echo "Using project dir: $PKG_DIR"
-          cd "$PKG_DIR"
-          if [ -f package-lock.json ]; then
-            echo "Running npm ci (package-lock.json present)"
-            npm ci
-          else
-            echo "No package-lock.json — running npm install"
-            npm install
-          fi
+          cd scrapers
+          npm ci
 
-          # Confirm scrapers/run.js exists relative to PKG_DIR
-          if [ ! -f scrapers/run.js ]; then
-            echo "ERROR: scrapers/run.js not found in $PKG_DIR"
-            echo "Listing files in $PKG_DIR:"
-            ls -la
-            exit 5
-          fi
-
-          # Run the scraper
-          node scrapers/run.js
-
-          # Show outputs that were created
-          echo "Scraper run completed. Listing scrapers/out (if present):"
-          ls -la scrapers/out || true
-
-      - name: Copy outputs to repo root public folders
+      - name: Run scraper
         run: |
-          # If package.json was inside a subfolder, outputs may be at that subfolder path
-          PKG_DIR="${{ steps.find_pkg.outputs.pkg_dir }}"
-          echo "Copying outputs from $PKG_DIR/scrapers/out to repo root products/ and keywords/"
+          cd scrapers
+          node run.js
 
+      - name: Copy outputs to public folders
+        run: |
           mkdir -p products keywords
-
-          # copy product file if present
-          if [ -f "$PKG_DIR/scrapers/out/products/hot_all.json" ]; then
-            cp -v "$PKG_DIR/scrapers/out/products/hot_all.json" products/hot_all.json
-          elif [ -f "scrapers/out/products/hot_all.json" ]; then
-            cp -v "scrapers/out/products/hot_all.json" products/hot_all.json
-          else
-            echo "No products/hot_all.json found to copy (ok if your scraper doesn't produce products)."
-          fi
-
-          # copy keywords file if present
-          if [ -f "$PKG_DIR/scrapers/out/keywords/keyword_hot.json" ]; then
-            cp -v "$PKG_DIR/scrapers/out/keywords/keyword_hot.json" keywords/keyword_hot.json
-          elif [ -f "scrapers/out/keywords/keyword_hot.json" ]; then
-            cp -v "scrapers/out/keywords/keyword_hot.json" keywords/keyword_hot.json
-          else
-            echo "No keywords/keyword_hot.json found to copy (ok if your scraper doesn't produce keywords)."
-          fi
-
+          cp -v scrapers/out/products/hot_all.json products/hot_all.json || true
+          cp -v scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json || true
           echo "After copy:"
-          ls -R products || true
-          ls -R keywords || true
+          ls -R products keywords
 
-      - name: Commit & push updates (if any)
+      - name: Commit & push updates
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add products keywords || true
-          # if there are staged changes, commit and push
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore(ci): update scraper outputs [skip ci]" || true
+            git commit -m "chore: update scraper outputs [skip ci]"
             git push origin HEAD:main
           fi
