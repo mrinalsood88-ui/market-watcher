@@ -1,9 +1,9 @@
-name: Scrape and publish
+name: Scrape and publish (debuggable)
 
 on:
-  workflow_dispatch: {}        # Manual run button
+  workflow_dispatch: {}
   schedule:
-    - cron: '0 * * * *'        # Every hour (UTC)
+    - cron: '0 * * * *'  # every hour (UTC)
   push:
     branches: [ main ]
 
@@ -17,20 +17,57 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20    # ✅ upgraded from 18 → 20
-
-      - name: Install dependencies
+      - name: Show runner & workspace
         run: |
+          echo "Runner: $(uname -a)"
+          echo "Workspace: $GITHUB_WORKSPACE"
+          echo "Listing top-level files:"
+          ls -la
+
+      - name: Show node & npm (before install)
+        run: |
+          node -v || true
+          npm -v || true
+
+      - name: Install dependencies (scrapers/)
+        id: install
+        run: |
+          set -euxo pipefail
           cd scrapers
-          npm ci
+          echo "Working dir: $(pwd)"
+          echo "package.json present?"; [ -f package.json ] && echo "yes" || echo "NO"
+          echo "package-lock.json present?"; [ -f package-lock.json ] && echo "yes" || echo "NO"
+          echo "---- package.json (first 200 lines) ----"
+          sed -n '1,200p' package.json || true
+          echo "---- end package.json ----"
+
+          # Try clean install first, fall back to npm install if it fails
+          if npm ci --prefer-offline --no-audit --progress=false; then
+            echo "npm ci succeeded"
+          else
+            echo "npm ci failed — trying npm install"
+            npm install --no-audit --no-fund
+          fi
+
+          echo "Installed (top-level):"
+          ls -la node_modules || true
+          echo "npm list (depth=0):"
+          npm ls --depth=0 || true
 
       - name: Run scraper
         run: |
+          set -euxo pipefail
           cd scrapers
+          echo "Running scraper (pwd=$(pwd))"
           node run.js
+
+      - name: Show created outputs
+        run: |
+          echo "scrapers/out tree:"
+          ls -R scrapers/out || true
+          echo "products/ and keywords/ at root:"
+          ls -R products || true
+          ls -R keywords || true
 
       - name: Copy outputs to public folders
         run: |
@@ -38,9 +75,9 @@ jobs:
           cp -v scrapers/out/products/hot_all.json products/hot_all.json || true
           cp -v scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json || true
           echo "After copy:"
-          ls -R products keywords
+          ls -R products keywords || true
 
-      - name: Commit & push updates
+      - name: Commit & push outputs (if changed)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -50,6 +87,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update scraper outputs [skip ci]"
+            git commit -m "chore(ci): update scraper outputs [skip ci]" || true
             git push origin HEAD:main
           fi
