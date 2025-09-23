@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "country": "USA",
+  "timestamp": "2025-09-22T12:08:28.615Z",
+  "states_processed": 51,
+  "items_count": 10,
+  "top_items": [
+    {
+      "title": "Wireless Earbuds",
+      "category": "Electronics",
+      "estimated_quantity_sold": 11880,
+      "estimated_revenue": 473608.62,
+      "by_state": {
+        "undefined": 11880
+      }
+    },
+    {
+      "title": "Car Seat Organizer",
+      "category": "Auto",
+      "estimated_quantity_sold": 11783,
+      "estimated_revenue": 234539.5,
+      "by_state": {
+        "undefined": 11783
+      }
+    },
+    {
+      "title": "LED Strip Lights",
+      "category": "Home",
+      "estimated_quantity_sold": 9942,
+      "estimated_revenue": 182687.11,
+      "by_state": {
+        "undefined": 9942
+      }
+    },
+    {
+      "title": "Fitness Resistance Bands",
+      "category": "Fitness",
+      "estimated_quantity_sold": 9509,
+      "estimated_revenue": 144654.63,
+      "by_state": {
+        "undefined": 9509
+      }
+    },
+    {
+      "title": "Reusable Grocery Bags",
+      "category": "Home",
+      "estimated_quantity_sold": 9220,
+      "estimated_revenue": 92116.43,
+      "by_state": {
+        "undefined": 9220
+      }
+    },
+    {
+      "title": "Stainless Steel Water Bottle",
+      "category": "Outdoors",
+      "estimated_quantity_sold": 8919,
+      "estimated_revenue": 194458.88,
+      "by_state": {
+        "undefined": 8919
+      }
+    },
+    {
+      "title": "Memory Foam Pillow",
+      "category": "Home",
+      "estimated_quantity_sold": 8817,
+      "estimated_revenue": 217736.27,
+      "by_state": {
+        "undefined": 8817
+      }
+    },
+    {
+      "title": "Pet Grooming Glove",
+      "category": "Pets",
+      "estimated_quantity_sold": 8742,
+      "estimated_revenue": 74821.43,
+      "by_state": {
+        "undefined": 8742
+      }
+    },
+    {
+      "title": "Magnetic Phone Holder",
+      "category": "Auto",
+      "estimated_quantity_sold": 8128,
+      "estimated_revenue": 103246.59,
+      "by_state": {
+        "undefined": 8128
+      }
+    },
+    {
+      "title": "Portable Blender",
+      "category": "Home",
+      "estimated_quantity_sold": 7274,
+      "estimated_revenue": 221365.02,
+      "by_state": {
+        "undefined": 7274
+      }
+    }
+  ]
+}
