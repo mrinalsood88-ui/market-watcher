@@ -53,6 +53,13 @@ jobs:
           node build_hot_all.js || true
           node keyword_tracker.js || true
 
+          - name: Move JSON outputs to public folders
+  run: |
+    mkdir -p products keywords
+    cp scrapers/out/products/hot_all.json products/hot_all.json
+    cp scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json
+
+
       - name: List outputs
         run: |
           echo "Contents of out directory:"
