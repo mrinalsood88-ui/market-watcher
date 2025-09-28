@@ -1,57 +1,57 @@
 {
   "ok": true,
-  "source": "scraper-v1",
-  "timestamp": "2025-09-28T20:00:15.438Z",
-  "items_count": 20,
+  "source": "scraper-v1:fakestore",
+  "timestamp": "2025-09-28T20:02:17.091Z",
+  "items_count": 10,
   "top_keywords": [
     {
-      "keyword": "women",
-      "search_volume": 19830,
+      "keyword": "s",
+      "search_volume": 51550,
       "trend": "up"
     },
     {
-      "keyword": "s",
-      "search_volume": 19202,
+      "keyword": "women",
+      "search_volume": 38400,
+      "trend": "up"
+    },
+    {
+      "keyword": "clothing",
+      "search_volume": 32350,
+      "trend": "up"
+    },
+    {
+      "keyword": "electronics",
+      "search_volume": 19200,
+      "trend": "up"
+    },
+    {
+      "keyword": "men",
+      "search_volume": 13150,
       "trend": "up"
     },
     {
       "keyword": "jacket",
-      "search_volume": 13512,
+      "search_volume": 13150,
       "trend": "up"
     },
     {
       "keyword": "gold",
-      "search_volume": 13074,
+      "search_volume": 13150,
+      "trend": "up"
+    },
+    {
+      "keyword": "jewelery",
+      "search_volume": 13150,
       "trend": "up"
     },
     {
       "keyword": "mens",
-      "search_volume": 10347,
-      "trend": "up"
+      "search_volume": 9600,
+      "trend": "steady"
     },
     {
       "keyword": "casual",
-      "search_volume": 10141,
-      "trend": "up"
-    },
-    {
-      "keyword": "drive",
-      "search_volume": 9968,
-      "trend": "up"
-    },
-    {
-      "keyword": "ssd",
-      "search_volume": 10058,
-      "trend": "up"
-    },
-    {
-      "keyword": "short",
-      "search_volume": 9750,
-      "trend": "up"
-    },
-    {
-      "keyword": "1",
-      "search_volume": 7121,
+      "search_volume": 9600,
       "trend": "steady"
     }
   ]
