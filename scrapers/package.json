@@ -1,18 +1,13 @@
 {
   "name": "market-watcher-scrapers",
+  "private": true,
+  "type": "module",
   "version": "1.0.0",
-  "description": "Scraper scripts for Market Watcher project",
-  "main": "run.js",
-  "type": "commonjs",
+  "description": "Scheduled scrapers that publish JSON for the Market Watcher extension.",
   "scripts": {
-    "start": "node run.js",
-    "scrape": "node run.js"
+    "scrape:products": "node scrapers/products.js",
+    "scrape:keywords": "node scrapers/keywords.js",
+    "scrape": "node scrapers/run_all.js"
   },
-  "dependencies": {
-    "axios": "^1.6.8",
-    "cheerio": "^1.0.0-rc.12",
-    "fs-extra": "^11.1.1"
-  },
-  "author": "Mrinal Sood",
-  "license": "MIT"
+  "engines": { "node": ">=20" }
 }
