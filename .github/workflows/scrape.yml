@@ -1,9 +1,11 @@
-name: Scrape & Publish
+name: Scrape and Publish
 
 on:
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *" # every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'   # every hour (UTC)
+  push:
+    branches: [ main ]
 
 permissions:
   contents: write
@@ -13,32 +15,61 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Use Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '20'
 
-      - name: Show Node/NPM versions
+      - name: Install dependencies
         run: |
-          node -v
-          npm -v
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
-      - name: Run scrapers
-        run: |
-          npm run scrape
+      - name: Run scraper
+        run: npm run scrape
 
-      - name: Commit changes (if any)
+      - name: Collect outputs into publish folders
         run: |
-          set -e
-          git config user.name "github-actions[bot]"
+          mkdir -p products keywords
+
+          # Copy product JSON (support both possible generator paths)
+          if [ -f "out/products/hot_all.json" ]; then
+            cp -v out/products/hot_all.json products/hot_all.json
+          elif [ -f "scrapers/out/products/hot_all.json" ]; then
+            cp -v scrapers/out/products/hot_all.json products/hot_all.json
+          else
+            echo "No products JSON found."
+          fi
+
+          # Copy keywords JSON (support both possible generator paths)
+          if [ -f "out/keywords/keyword_hot.json" ]; then
+            cp -v out/keywords/keyword_hot.json keywords/keyword_hot.json
+          elif [ -f "scrapers/out/keywords/keyword_hot.json" ]; then
+            cp -v scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json
+          else
+            echo "No keywords JSON found."
+          fi
+
+          echo "After copy:"
+          ls -la products || true
+          ls -la keywords || true
+
+      - name: Commit & push updates (if any)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add products/hot_all.json keywords/keyword_hot.json out/
+          git add products/hot_all.json keywords/keyword_hot.json || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "ci: update scraper outputs"
-            git push
+            git commit -m "chore(ci): update scraper outputs [skip ci]"
+            git push origin HEAD:main
           fi
