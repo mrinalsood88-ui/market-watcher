@@ -1,57 +1,57 @@
 {
   "ok": true,
   "source": "scraper-v1",
-  "timestamp": "2025-09-28T19:46:16.718Z",
+  "timestamp": "2025-09-28T20:00:15.438Z",
   "items_count": 20,
   "top_keywords": [
     {
       "keyword": "women",
-      "search_volume": 19689,
+      "search_volume": 19830,
       "trend": "up"
     },
     {
       "keyword": "s",
-      "search_volume": 19699,
+      "search_volume": 19202,
       "trend": "up"
     },
     {
       "keyword": "jacket",
-      "search_volume": 13129,
+      "search_volume": 13512,
       "trend": "up"
     },
     {
       "keyword": "gold",
-      "search_volume": 12930,
+      "search_volume": 13074,
       "trend": "up"
     },
     {
       "keyword": "mens",
-      "search_volume": 9794,
+      "search_volume": 10347,
       "trend": "up"
     },
     {
       "keyword": "casual",
-      "search_volume": 10092,
+      "search_volume": 10141,
       "trend": "up"
     },
     {
       "keyword": "drive",
-      "search_volume": 9626,
+      "search_volume": 9968,
       "trend": "up"
     },
     {
       "keyword": "ssd",
-      "search_volume": 10297,
+      "search_volume": 10058,
       "trend": "up"
     },
     {
       "keyword": "short",
-      "search_volume": 9671,
+      "search_volume": 9750,
       "trend": "up"
     },
     {
       "keyword": "1",
-      "search_volume": 6966,
+      "search_volume": 7121,
       "trend": "steady"
     }
   ]
