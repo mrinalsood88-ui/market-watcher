@@ -1,0 +1,13 @@
+{
+  "name": "market-watcher-scrapers",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Scheduled scrapers that publish JSON for the Market Watcher extension.",
+  "scripts": {
+    "scrape:products": "node scrapers/products.js",
+    "scrape:keywords": "node scrapers/keywords.js",
+    "scrape": "node scrapers/run_all.js"
+  },
+  "engines": { "node": ">=20" }
+}
