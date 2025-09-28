@@ -1,11 +1,9 @@
-name: Scrape and publish
+name: Scrape & Publish
 
 on:
-  workflow_dispatch: {}
   schedule:
-    - cron: '0 * * * *'   # every hour (UTC)
-  push:
-    branches: [ main ]
+    - cron: "0 * * * *" # every hour
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,48 +13,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install dependencies (scrapers/)
-        working-directory: scrapers
+      - name: Show Node/NPM versions
         run: |
-          if [ -f package-lock.json ]; then
-            npm ci
-          else
-            npm install
-          fi
-          echo "Installed top-level packages:"
-          npm ls --depth=0 || true
-          ls -la node_modules | head -20
+          node -v
+          npm -v
 
-      - name: Run scraper
-        working-directory: scrapers
-        run: node run.js
-
-      - name: Copy outputs to repo root
+      - name: Run scrapers
         run: |
-          mkdir -p products keywords
-          cp -v scrapers/out/products/hot_all.json products/hot_all.json || true
-          cp -v scrapers/out/keywords/keyword_hot.json keywords/keyword_hot.json || true
-          echo "After copy:"
-          ls -R products keywords || true
+          npm run scrape
 
-      - name: Commit & push updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes (if any)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add products keywords || true
+          git add products/hot_all.json keywords/keyword_hot.json out/
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit."
           else
-            git commit -m "chore(ci): update scraper outputs [skip ci]" || true
-            git push origin HEAD:main
+            git commit -m "ci: update scraper outputs"
+            git push
           fi
