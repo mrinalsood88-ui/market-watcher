@@ -1,13 +1,19 @@
 {
-  "name": "market-watcher-scrapers",
-  "private": true,
-  "type": "module",
+  "name": "market-watcher",
   "version": "1.0.0",
-  "description": "Scheduled scrapers that publish JSON for the Market Watcher extension.",
+  "description": "Automated data scraper for trending products and keywords, integrated with a Chrome extension.",
+  "main": "run.js",
+  "type": "commonjs",
   "scripts": {
-    "scrape:products": "node scrapers/products.js",
-    "scrape:keywords": "node scrapers/keywords.js",
-    "scrape": "node scrapers/run_all.js"
+    "start": "node run.js",
+    "scrape": "node run.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "engines": { "node": ">=20" }
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.3.2"
+  },
+  "author": "mrinalsood88-ui",
+  "license": "MIT"
 }
