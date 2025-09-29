@@ -24,11 +24,12 @@ jobs:
         run: npm run scrape
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          WALMART_API_KEY: ${{ secrets.WALMART_API_KEY }}
 
       - name: Commit & Push results
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add products/hot_all.json
+          git add products/hot_all.json keywords/keyword_hot.json
           git commit -m "Auto-update US product trends" || echo "No changes"
           git push
