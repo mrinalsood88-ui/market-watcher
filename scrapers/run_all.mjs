@@ -1,29 +1,47 @@
-// scrapers/run_all.mjs
-import { execSync } from "child_process";
 import fs from "fs";
 import path from "path";
+import { scrapeAmazonUSBestsellers } from "./products.js";
+import { fetchUSTrendingKeywords } from "./keywords.js";
+import { fetchProductNews } from "./news.js";
 
-function sh(cmd) {
-  console.log(`$ ${cmd}`);
-  execSync(cmd, { stdio: "inherit" });
+async function runCollector() {
+  try {
+    console.log("🚀 Starting USA Market Collector...");
+
+    // 1️⃣ Fetch trending keywords (Google Trends US)
+    const keywords = await fetchUSTrendingKeywords();
+
+    // 2️⃣ Scrape Amazon US Bestsellers
+    const amazon = await scrapeAmazonUSBestsellers();
+
+    // 3️⃣ Get related product mentions (NewsAPI)
+    const news = await fetchProductNews(process.env.NEWS_API_KEY, keywords);
+
+    // 4️⃣ Build full dataset
+    const fullData = {
+      collectedAt: new Date().toISOString(),
+      trending_keywords: keywords,
+      top_items: amazon,
+      mentions: news
+    };
+
+    // 5️⃣ Write full dataset to /products/hot_all.json
+    fs.mkdirSync("products", { recursive: true });
+    const productsPath = path.join("products", "hot_all.json");
+    fs.writeFileSync(productsPath, JSON.stringify(fullData, null, 2));
+    console.log("💾 Saved full data →", productsPath);
+
+    // 6️⃣ Write keywords-only dataset to /keywords/keyword_hot.json
+    fs.mkdirSync("keywords", { recursive: true });
+    const keywordsData = { collectedAt: new Date().toISOString(), keywords };
+    const keywordsPath = path.join("keywords", "keyword_hot.json");
+    fs.writeFileSync(keywordsPath, JSON.stringify(keywordsData, null, 2));
+    console.log("💾 Saved keywords-only data →", keywordsPath);
+
+    console.log("✅ Collection complete!");
+  } catch (e) {
+    console.error("🚨 Collector error:", e.message);
+  }
 }
 
-function copy(src, dst) {
-  fs.mkdirSync(path.dirname(dst), { recursive: true });
-  fs.copyFileSync(src, dst);
-}
-
-async function main() {
-  // NOTE: .mjs here
-  sh("node scrapers/products.mjs");
-  sh("node scrapers/keywords.mjs");
-
-  copy(path.join("out","products","hot_all.json"), path.join("products","hot_all.json"));
-  copy(path.join("out","keywords","keyword_hot.json"), path.join("keywords","keyword_hot.json"));
-  console.log("✅ Copied outputs to /products and /keywords");
-}
-
-main().catch((err) => {
-  console.error("❌ run_all.mjs error:", err);
-  process.exit(1);
-});
+runCollector();
