@@ -7,7 +7,8 @@
     "scrape:products": "node scrapers/products.js",
     "scrape:keywords": "node scrapers/keywords.js",
     "scrape:news": "node scrapers/news.js",
-    "scrape": "node scrapers/run_all.js"
+    "scrape": "node scrapers/run_all.js",
+    "test:scrape": "npm run scrape"
   },
   "dependencies": {
     "axios": "^1.6.8",
