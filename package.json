@@ -1,18 +1,15 @@
 {
   "name": "market-watcher-scrapers",
   "private": true,
-  "type": "module",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "scrape:products": "node scrapers/products.js",
     "scrape:keywords": "node scrapers/keywords.js",
+    "scrape:walmart": "node scrapers/walmart.js",
     "scrape:news": "node scrapers/news.js",
-    "scrape": "node scrapers/run_all.js",
-    "test:scrape": "npm run scrape"
+    "scrape": "node scrapers/run_all.js"
   },
   "dependencies": {
-    "axios": "^1.6.8",
-    "cheerio": "^1.0.0-rc.12",
-    "google-trends-api": "^4.9.0"
+    "axios": "^1.6.8"
   }
 }
