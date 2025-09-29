@@ -1,6 +1,8 @@
 {
   "name": "market-watcher-scrapers",
+  "version": "1.0.0",
   "private": true,
+<<<<<<< Updated upstream
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -11,5 +13,14 @@
   },
   "dependencies": {
     "axios": "^1.6.8"
+=======
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrapers/run_all.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "google-trends-api": "^4.9.2"
+>>>>>>> Stashed changes
   }
 }
