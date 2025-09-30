@@ -1,49 +1,60 @@
 <section id="pricing" class="container" style="padding: 60px 20px; text-align: center;">
-  <h2 style="font-size: 2rem; margin-bottom: 30px;">Pricing Plans</h2>
-  <p style="margin-bottom: 40px;">Choose a plan that fits your needs — full access to 15-day data insights, trending products, and keywords.</p>
+  <h2 style="font-size: 2.2rem; margin-bottom: 15px;">Pricing Plans</h2>
+  <p style="margin-bottom: 50px; font-size: 1.1rem; color: #555;">
+    Choose a plan that fits your needs — full access to 15-day market insights, trending keywords, and product data.
+  </p>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
     <!-- 🟢 Basic Plan -->
-    <div class="pricing-card" style="flex: 1 1 280px; border: 1px solid #ddd; border-radius: 12px; padding: 25px; max-width: 320px;">
-      <h3 style="font-size: 1.5rem; margin-bottom: 10px;">Basic Plan</h3>
-      <p style="margin-bottom: 20px;">Best for small businesses exploring market trends.</p>
+    <div class="pricing-card" style="background: #fff; border: 1px solid #e0e0e0; border-radius: 16px; padding: 30px; max-width: 340px; box-shadow: 0 6px 15px rgba(0,0,0,0.05); transition: all 0.3s;">
+      <h3 style="font-size: 1.6rem; margin-bottom: 10px;">Basic Plan</h3>
+      <p style="margin-bottom: 25px; color: #666;">Best for small businesses exploring product trends.</p>
 
-      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 25px; line-height: 1.8;">
+      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 30px; line-height: 1.8; color: #333;">
         <li>✅ Access last 15 days of data</li>
         <li>✅ Product & keyword insights</li>
         <li>✅ 1 device access</li>
         <li>❌ No export / download</li>
       </ul>
 
-      <p><strong>$8 / month</strong></p>
-      <div id="paypal-button-container-basic-1m"></div>
+      <div style="margin-bottom: 25px;">
+        <p style="font-size: 1.2rem;"><strong>$8 / month</strong></p>
+        <div id="paypal-button-container-basic-1m"></div>
+      </div>
 
-      <p style="margin-top: 20px;"><strong>$20 / 3 months</strong></p>
-      <div id="paypal-button-container-basic-3m"></div>
+      <div>
+        <p style="font-size: 1.2rem;"><strong>$20 / 3 months</strong></p>
+        <div id="paypal-button-container-basic-3m"></div>
+      </div>
     </div>
 
     <!-- 🔵 Pro Plan -->
-    <div class="pricing-card" style="flex: 1 1 280px; border: 2px solid #0070ba; border-radius: 12px; padding: 25px; max-width: 320px;">
-      <h3 style="font-size: 1.5rem; margin-bottom: 10px; color: #0070ba;">Pro Plan</h3>
-      <p style="margin-bottom: 20px;">Ideal for professionals & marketers who need full access.</p>
+    <div class="pricing-card" style="background: #f8fbff; border: 2px solid #0070ba; border-radius: 16px; padding: 30px; max-width: 340px; box-shadow: 0 8px 18px rgba(0,0,0,0.06); transition: all 0.3s;">
+      <h3 style="font-size: 1.6rem; margin-bottom: 10px; color: #0070ba;">Pro Plan</h3>
+      <p style="margin-bottom: 25px; color: #444;">Perfect for professionals who want full market visibility.</p>
 
-      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 25px; line-height: 1.8;">
+      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 30px; line-height: 1.8; color: #333;">
         <li>✅ Access last 15 days of data</li>
         <li>✅ Product & keyword trends</li>
         <li>✅ Download / Export JSON data</li>
-        <li>✅ Priority feature access</li>
+        <li>✅ Priority access to new features</li>
       </ul>
 
-      <p><strong>$12 / month</strong></p>
-      <div id="paypal-button-container-pro-1m"></div>
+      <div style="margin-bottom: 25px;">
+        <p style="font-size: 1.2rem;"><strong>$12 / month</strong></p>
+        <div id="paypal-button-container-pro-1m"></div>
+      </div>
 
-      <p style="margin-top: 20px;"><strong>$30 / 3 months</strong></p>
-      <div id="paypal-button-container-pro-3m"></div>
+      <div>
+        <p style="font-size: 1.2rem;"><strong>$30 / 3 months</strong></p>
+        <div id="paypal-button-container-pro-3m"></div>
+      </div>
     </div>
+
   </div>
 
-  <p style="margin-top: 40px; font-size: 0.9rem; color: #555;">
+  <p style="margin-top: 50px; font-size: 0.95rem; color: #777;">
     💡 Need custom access? <a href="mailto:support@marketwatcher.com">Contact us</a> for enterprise plans.
   </p>
 </section>
@@ -52,55 +63,47 @@
 <script src="https://www.paypal.com/sdk/js?client-id=ASctMa9CePoj4nkj1i7EslDg16MiYfmOD129zPHdu3YzaomqGAlrQRJl9zRq2f0l-8YvYuB_bQbbg7Ah&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
 
 <script>
-  // 🟢 Basic Plan - 1 Month
+  // 🟢 Basic 1-Month
   paypal.Buttons({
-      style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-      createSubscription: function (data, actions) {
-        return actions.subscription.create({
-          plan_id: 'P-BASIC-1M' // 🔁 Replace with your real 1-month Basic plan_id
-        });
-      },
-      onApprove: function (data, actions) {
-        alert("✅ Basic Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
-      }
+    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+    createSubscription: function(data, actions) {
+      return actions.subscription.create({ plan_id: 'P-BASIC-1M' }); // Replace
+    },
+    onApprove: function(data, actions) {
+      alert("✅ Basic Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
+    }
   }).render('#paypal-button-container-basic-1m');
 
-  // 🟢 Basic Plan - 3 Month
+  // 🟢 Basic 3-Month
   paypal.Buttons({
-      style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-      createSubscription: function (data, actions) {
-        return actions.subscription.create({
-          plan_id: 'P-BASIC-3M' // 🔁 Replace with your real 3-month Basic plan_id
-        });
-      },
-      onApprove: function (data, actions) {
-        alert("✅ Basic Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
-      }
+    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+    createSubscription: function(data, actions) {
+      return actions.subscription.create({ plan_id: 'P-BASIC-3M' }); // Replace
+    },
+    onApprove: function(data, actions) {
+      alert("✅ Basic Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
+    }
   }).render('#paypal-button-container-basic-3m');
 
-  // 🔵 Pro Plan - 1 Month
+  // 🔵 Pro 1-Month
   paypal.Buttons({
-      style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-      createSubscription: function (data, actions) {
-        return actions.subscription.create({
-          plan_id: 'P-PRO-1M' // 🔁 Replace with your real 1-month Pro plan_id
-        });
-      },
-      onApprove: function (data, actions) {
-        alert("✅ Pro Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
-      }
+    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+    createSubscription: function(data, actions) {
+      return actions.subscription.create({ plan_id: 'P-PRO-1M' }); // Replace
+    },
+    onApprove: function(data, actions) {
+      alert("✅ Pro Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
+    }
   }).render('#paypal-button-container-pro-1m');
 
-  // 🔵 Pro Plan - 3 Month
+  // 🔵 Pro 3-Month
   paypal.Buttons({
-      style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-      createSubscription: function (data, actions) {
-        return actions.subscription.create({
-          plan_id: 'P-PRO-3M' // 🔁 Replace with your real 3-month Pro plan_id
-        });
-      },
-      onApprove: function (data, actions) {
-        alert("✅ Pro Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
-      }
+    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+    createSubscription: function(data, actions) {
+      return actions.subscription.create({ plan_id: 'P-PRO-3M' }); // Replace
+    },
+    onApprove: function(data, actions) {
+      alert("✅ Pro Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
+    }
   }).render('#paypal-button-container-pro-3m');
 </script>
