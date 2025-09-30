@@ -1,38 +1,31 @@
 /**
  * run_all.mjs
- * Unified Market Watcher scraper with:
- *  ✅ SerpApi + NewsAPI support
- *  📅 15-day rolling data snapshots
- *  💾 Master & daily files
- *  🧹 Automatic cleanup of older files
+ * Unified Market Watcher scraper
+ * ✅ SerpApi + NewsAPI integration
+ * 📅 15-day snapshot rotation
+ * 🧭 Auto index.json builder
  */
 
 import fs from "fs";
 import path from "path";
 import 'dotenv/config';
-
-// Import individual modules
 import { fetchUSTrendingKeywords } from "./keywords.mjs";
 import { fetchWalmartTrending } from "./walmart.mjs";
 import { fetchProductNews } from "./news.mjs";
+import { buildAllIndexes } from "./build_index.mjs";
 
-/* -----------------------------------
-   Utility Functions
------------------------------------ */
-
-// ✅ Ensure directory exists
+/* Utility Helpers */
 function ensureDir(dirPath) {
   if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath, { recursive: true });
 }
 
-// 🧹 Keep only last N files
 function cleanupOldFiles(dir, days = 15) {
   const files = fs.readdirSync(dir)
     .map(f => ({
       name: f,
       time: fs.statSync(path.join(dir, f)).mtime.getTime()
     }))
-    .sort((a, b) => b.time - a.time); // newest → oldest
+    .sort((a, b) => b.time - a.time);
 
   if (files.length > days) {
     const oldFiles = files.slice(days);
@@ -43,7 +36,6 @@ function cleanupOldFiles(dir, days = 15) {
   }
 }
 
-// 🧱 Safe wrapper for scrapers
 async function safeRun(label, fn) {
   try {
     const data = await fn();
@@ -55,32 +47,28 @@ async function safeRun(label, fn) {
   }
 }
 
-/* -----------------------------------
-   Main Collector
------------------------------------ */
+/* Main Collector */
 async function runCollector() {
   console.log("🚀 Starting USA Market Collector...");
 
-  // 📁 Create directories if not exist
   const productsDir = path.join(process.cwd(), "products");
   const keywordsDir = path.join(process.cwd(), "keywords");
   ensureDir(productsDir);
   ensureDir(keywordsDir);
 
-  // 🔹 Final compiled arrays
   const fullData = [];
   const keywordData = [];
 
-  // 📈 Step 1 — Google Trends (SerpApi autocomplete)
+  // 📈 Google Trends
   const trends = await safeRun("Google Trends", fetchUSTrendingKeywords);
   fullData.push(...trends);
   keywordData.push(...trends);
 
-  // 🛒 Step 2 — Walmart Trends
+  // 🛒 Walmart Trends
   const walmart = await safeRun("Walmart Trends", fetchWalmartTrending);
   fullData.push(...walmart);
 
-  // 📰 Step 3 — NewsAPI (optional)
+  // 📰 NewsAPI
   let news = [];
   if (!process.env.NEWS_API_KEY) {
     console.warn("⚠️ NEWS_API_KEY not set. Skipping NewsAPI fetch.");
@@ -89,11 +77,26 @@ async function runCollector() {
     fullData.push(...news);
   }
 
-  // 🗓 Date string for snapshot
-  const dateStr = new Date().toISOString().split("T")[0]; // YYYY-MM-DD
+  // 📅 Date string
+  const dateStr = new Date().toISOString().split("T")[0];
 
-  // 💾 Master JSONs
-  const fullOut = path.join(productsDir, "hot_all.json");
-  const keywordOut = path.join(keywordsDir, "keyword_hot.json");
-  fs.writeFileSync(fullOut, JSON.stringify(fullData, null, 2));
-  fs.writeFileSync(keywordOut, JSON.stringify(k
+  // 💾 Save master files
+  fs.writeFileSync(path.join(productsDir, "hot_all.json"), JSON.stringify(fullData, null, 2));
+  fs.writeFileSync(path.join(keywordsDir, "keyword_hot.json"), JSON.stringify(keywordData, null, 2));
+
+  // 💾 Save daily snapshots
+  fs.writeFileSync(path.join(productsDir, `hot_all_${dateStr}.json`), JSON.stringify(fullData, null, 2));
+  fs.writeFileSync(path.join(keywordsDir, `keyword_hot_${dateStr}.json`), JSON.stringify(keywordData, null, 2));
+  console.log(`📅 Snapshot saved for ${dateStr}`);
+
+  // 🧹 Cleanup old snapshots
+  cleanupOldFiles(productsDir, 15);
+  cleanupOldFiles(keywordsDir, 15);
+
+  // 🧭 Build index.json files
+  buildAllIndexes();
+
+  console.log("✅ Collection complete!");
+}
+
+runCollector().catch(err => console.error("🚨 Collector failed:", err.message));

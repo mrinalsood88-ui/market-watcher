@@ -2,25 +2,12 @@
   "name": "market-watcher-scrapers",
   "version": "1.0.0",
   "private": true,
-<<<<<<< Updated upstream
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "scrape:keywords": "node scrapers/keywords.js",
-    "scrape:walmart": "node scrapers/walmart.js",
-    "scrape:news": "node scrapers/news.js",
-    "scrape": "node scrapers/run_all.js"
-  },
-  "dependencies": {
-    "axios": "^1.6.8"
-=======
   "type": "module",
   "scripts": {
     "scrape": "node scrapers/run_all.mjs"
   },
   "dependencies": {
-    "axios": "^1.12.2",
-    "google-trends-api": "^4.9.2"
->>>>>>> Stashed changes
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5"
   }
 }

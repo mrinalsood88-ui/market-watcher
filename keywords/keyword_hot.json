@@ -1,4 +1,26 @@
-{
-  "updated": "2025-09-29T18:03:49.043Z",
-  "keywords": []
-}
+[
+  {
+    "rank": 1,
+    "keyword": {
+      "q": "trending products",
+      "title": "trending products",
+      "type": "Search term",
+      "link": "https://trends.google.com/trends/explore?q=trending products",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
+    },
+    "source": "SerpApi - google_trends_autocomplete",
+    "collectedAt": "2025-09-30T12:11:45.377Z"
+  },
+  {
+    "rank": 2,
+    "keyword": {
+      "q": "/g/11bys71pvm",
+      "title": "Nursing Today: Transition and Trends",
+      "type": "Book",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bys71pvm",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
+    },
+    "source": "SerpApi - google_trends_autocomplete",
+    "collectedAt": "2025-09-30T12:11:45.378Z"
+  }
+]
