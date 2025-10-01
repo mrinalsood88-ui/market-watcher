@@ -1,109 +1,155 @@
-<section id="pricing" class="container" style="padding: 60px 20px; text-align: center;">
-  <h2 style="font-size: 2.2rem; margin-bottom: 15px;">Pricing Plans</h2>
-  <p style="margin-bottom: 50px; font-size: 1.1rem; color: #555;">
-    Choose a plan that fits your needs — full access to 15-day market insights, trending keywords, and product data.
-  </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Market Watcher – Track USA’s Fastest Rising Products & Keywords</title>
+  <meta name="description" content="Stay ahead of the market with Market Watcher — a Chrome extension that helps you discover trending products and keywords across the USA before they go mainstream." />
+  <meta name="keywords" content="trending products USA, trending keywords, ecommerce research, product ideas, chrome extension, market insights, trending data USA" />
+  <link rel="icon" href="assets/logo.png" type="image/png" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-
-    <!-- 🟢 Basic Plan -->
-    <div class="pricing-card" style="background: #fff; border: 1px solid #e0e0e0; border-radius: 16px; padding: 30px; max-width: 340px; box-shadow: 0 6px 15px rgba(0,0,0,0.05); transition: all 0.3s;">
-      <h3 style="font-size: 1.6rem; margin-bottom: 10px;">Basic Plan</h3>
-      <p style="margin-bottom: 25px; color: #666;">Best for small businesses exploring product trends.</p>
-
-      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 30px; line-height: 1.8; color: #333;">
-        <li>✅ Access last 15 days of data</li>
-        <li>✅ Product & keyword insights</li>
-        <li>✅ 1 device access</li>
-        <li>❌ No export / download</li>
-      </ul>
-
-      <div style="margin-bottom: 25px;">
-        <p style="font-size: 1.2rem;"><strong>$8 / month</strong></p>
-        <div id="paypal-button-container-basic-1m"></div>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <img src="assets/logo.png" class="logo" alt="Market Watcher logo" />
+        <span class="brand-name">Market Watcher</span>
       </div>
+      <nav class="nav">
+        <a href="#features">Features</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
 
-      <div>
-        <p style="font-size: 1.2rem;"><strong>$20 / 3 months</strong></p>
-        <div id="paypal-button-container-basic-3m"></div>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <h1>Spot Winning Products Before Everyone Else 🚀</h1>
+        <p class="sub">
+          <strong>Market Watcher</strong> helps sellers, marketers, and researchers uncover trending products & keywords from the USA market.  
+          Discover what people are buying & searching — updated every 6 hours, with a 15-day rolling insight window.
+        </p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="https://chrome.google.com/webstore" target="_blank" rel="noopener">Add to Chrome</a>
+          <a class="btn btn-ghost" href="#pricing">View Plans</a>
+        </div>
+        <ul class="hero-bullets">
+          <li>15-Day Data History</li>
+          <li>Top Keywords & Products</li>
+          <li>Affiliate Integration Ready</li>
+        </ul>
+      </div>
+      <div class="hero-media">
+        <img src="assets/dashboard-preview.png" alt="Extension preview" class="preview-img" />
       </div>
     </div>
+  </section>
 
-    <!-- 🔵 Pro Plan -->
-    <div class="pricing-card" style="background: #f8fbff; border: 2px solid #0070ba; border-radius: 16px; padding: 30px; max-width: 340px; box-shadow: 0 8px 18px rgba(0,0,0,0.06); transition: all 0.3s;">
-      <h3 style="font-size: 1.6rem; margin-bottom: 10px; color: #0070ba;">Pro Plan</h3>
-      <p style="margin-bottom: 25px; color: #444;">Perfect for professionals who want full market visibility.</p>
+  <!-- Features -->
+  <section id="features" class="section">
+    <div class="container">
+      <h2 class="section-title">What You’ll Get</h2>
+      <div class="feature-grid">
+        <article class="feature-card">
+          <div class="feature-icon">📈</div>
+          <h3>Trending Product Insights</h3>
+          <p>See which products are gaining traction in real time — identify high-demand niches early.</p>
+        </article>
 
-      <ul style="text-align: left; list-style: none; padding-left: 0; margin-bottom: 30px; line-height: 1.8; color: #333;">
-        <li>✅ Access last 15 days of data</li>
-        <li>✅ Product & keyword trends</li>
-        <li>✅ Download / Export JSON data</li>
-        <li>✅ Priority access to new features</li>
-      </ul>
+        <article class="feature-card">
+          <div class="feature-icon">🔍</div>
+          <h3>Keyword Discovery</h3>
+          <p>Find what consumers are searching for right now — build SEO & ad campaigns that convert.</p>
+        </article>
 
-      <div style="margin-bottom: 25px;">
-        <p style="font-size: 1.2rem;"><strong>$12 / month</strong></p>
-        <div id="paypal-button-container-pro-1m"></div>
-      </div>
+        <article class="feature-card">
+          <div class="feature-icon">🕒</div>
+          <h3>15-Day Rolling Data</h3>
+          <p>Track performance trends daily to separate short-term spikes from sustainable growth.</p>
+        </article>
 
-      <div>
-        <p style="font-size: 1.2rem;"><strong>$30 / 3 months</strong></p>
-        <div id="paypal-button-container-pro-3m"></div>
+        <article class="feature-card">
+          <div class="feature-icon">💰</div>
+          <h3>Monetize with Affiliate Links</h3>
+          <p>Integrate Admitad, CJ, or Rakuten IDs and turn insights into commissions.</p>
+        </article>
       </div>
     </div>
+  </section>
 
-  </div>
+  <!-- Pricing -->
+  <section id="pricing" class="section surface">
+    <div class="container">
+      <h2 class="section-title">Choose Your Plan</h2>
+      <p class="section-sub">Start free for 3 days. Upgrade for full access to 15-day insights, downloads, and more.</p>
+      <div class="pricing-grid">
+        <div class="plan-card">
+          <div class="plan-badge">Basic</div>
+          <h3 class="plan-price">$8 <span>/ month</span></h3>
+          <div id="paypal-button-container-basic-1m"></div>
+          <h4 class="plan-price small">$20 <span>/ 3 months</span></h4>
+          <div id="paypal-button-container-basic-3m"></div>
+        </div>
 
-  <p style="margin-top: 50px; font-size: 0.95rem; color: #777;">
-    💡 Need custom access? <a href="mailto:support@marketwatcher.com">Contact us</a> for enterprise plans.
-  </p>
-</section>
+        <div class="plan-card plan-accent">
+          <div class="plan-badge accent">Pro</div>
+          <h3 class="plan-price">$12 <span>/ month</span></h3>
+          <div id="paypal-button-container-pro-1m"></div>
+          <h4 class="plan-price small">$30 <span>/ 3 months</span></h4>
+          <div id="paypal-button-container-pro-3m"></div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<!-- ✅ PayPal SDK -->
-<script src="https://www.paypal.com/sdk/js?client-id=ASctMa9CePoj4nkj1i7EslDg16MiYfmOD129zPHdu3YzaomqGAlrQRJl9zRq2f0l-8YvYuB_bQbbg7Ah&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+  <!-- CTA -->
+  <section class="cta">
+    <div class="container cta-inner">
+      <div>
+        <h2>Start Tracking Market Trends Today</h2>
+        <p>Install now and get 3 days of full access — see what’s trending before anyone else.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href="https://chrome.google.com/webstore" target="_blank">Add to Chrome</a>
+    </div>
+  </section>
 
-<script>
-  // 🟢 Basic 1-Month
-  paypal.Buttons({
-    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-    createSubscription: function(data, actions) {
-      return actions.subscription.create({ plan_id: 'P-BASIC-1M' }); // Replace
-    },
-    onApprove: function(data, actions) {
-      alert("✅ Basic Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container foot-inner">
+      <div>© 2025 Market Watcher</div>
+      <div class="foot-links">
+        <a href="#contact">Contact</a>
+        <a href="#faq">FAQ</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://www.paypal.com/sdk/js?client-id=ASctMa9CePoj4nkj1i7EslDg16MiYfmOD129zPHdu3YzaomqGAlrQRJl9zRq2f0l-8YvYuB_bQbbg7Ah&vault=true&intent=subscription"></script>
+  <script>
+    const PLAN_BASIC_1M = 'P-BASIC-1M';
+    const PLAN_BASIC_3M = 'P-BASIC-3M';
+    const PLAN_PRO_1M = 'P-PRO-1M';
+    const PLAN_PRO_3M = 'P-PRO-3M';
+
+    function renderSub(id, plan) {
+      paypal.Buttons({
+        style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+        createSubscription: (data, actions) => actions.subscription.create({ plan_id: plan }),
+        onApprove: data => alert('✅ Subscription active: ' + data.subscriptionID)
+      }).render(id);
     }
-  }).render('#paypal-button-container-basic-1m');
 
-  // 🟢 Basic 3-Month
-  paypal.Buttons({
-    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-    createSubscription: function(data, actions) {
-      return actions.subscription.create({ plan_id: 'P-BASIC-3M' }); // Replace
-    },
-    onApprove: function(data, actions) {
-      alert("✅ Basic Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
-    }
-  }).render('#paypal-button-container-basic-3m');
-
-  // 🔵 Pro 1-Month
-  paypal.Buttons({
-    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-    createSubscription: function(data, actions) {
-      return actions.subscription.create({ plan_id: 'P-PRO-1M' }); // Replace
-    },
-    onApprove: function(data, actions) {
-      alert("✅ Pro Plan (1 Month) Subscribed! ID: " + data.subscriptionID);
-    }
-  }).render('#paypal-button-container-pro-1m');
-
-  // 🔵 Pro 3-Month
-  paypal.Buttons({
-    style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-    createSubscription: function(data, actions) {
-      return actions.subscription.create({ plan_id: 'P-PRO-3M' }); // Replace
-    },
-    onApprove: function(data, actions) {
-      alert("✅ Pro Plan (3 Months) Subscribed! ID: " + data.subscriptionID);
-    }
-  }).render('#paypal-button-container-pro-3m');
-</script>
+    renderSub('#paypal-button-container-basic-1m', PLAN_BASIC_1M);
+    renderSub('#paypal-button-container-basic-3m', PLAN_BASIC_3M);
+    renderSub('#paypal-button-container-pro-1m', PLAN_PRO_1M);
+    renderSub('#paypal-button-container-pro-3m', PLAN_PRO_3M);
+  </script>
+</body>
+</html>
