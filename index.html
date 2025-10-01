@@ -3,153 +3,122 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Market Watcher – Track USA’s Fastest Rising Products & Keywords</title>
-  <meta name="description" content="Stay ahead of the market with Market Watcher — a Chrome extension that helps you discover trending products and keywords across the USA before they go mainstream." />
-  <meta name="keywords" content="trending products USA, trending keywords, ecommerce research, product ideas, chrome extension, market insights, trending data USA" />
-  <link rel="icon" href="assets/logo.png" type="image/png" />
+  <title>Market Watcher — Discover Trending Products & Keywords</title>
+  <meta name="description" content="Track USA's hottest products and keywords, stay ahead with daily insights, and monetize with affiliate trends." />
   <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="assets/logo.png" />
+  <script src="https://kit.fontawesome.com/a2e0bba37f.js" crossorigin="anonymous"></script>
+  <style>
+    body { font-family: 'Inter', sans-serif; margin: 0; background: #f9fafb; color: #111827; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 16px 40px; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.05);}
+    nav a { margin: 0 12px; color: #374151; text-decoration: none; font-weight: 500; }
+    nav a:hover { color: #2563eb; }
+    .hero { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 60px 20px; background: linear-gradient(135deg, #eef2ff, #f0fdf4);}
+    .hero h1 { font-size: 2rem; color: #111827; margin-bottom: 10px; }
+    .hero p { color: #374151; max-width: 600px; }
+    .btn-primary { background: #2563eb; color: white; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; }
+    .btn-outline { border: 2px solid #2563eb; color: #2563eb; padding: 8px 18px; border-radius: 6px; margin-left: 10px; text-decoration: none; }
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; padding: 60px 20px; background: #fff; }
+    .feature { background: #f3f4f6; padding: 20px; border-radius: 8px; text-align: center; }
+    .feature i { font-size: 2rem; color: #2563eb; margin-bottom: 10px; }
+    .pricing { padding: 60px 20px; background: #f9fafb; text-align: center;}
+    .plan { display: inline-block; background: #fff; border-radius: 10px; padding: 20px 30px; margin: 15px; width: 260px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
+    footer { padding: 30px; text-align: center; background: #fff; font-size: 14px; color: #6b7280;}
+  </style>
 </head>
 
 <body>
-  <!-- Header -->
-  <header class="site-header">
-    <div class="container header-inner">
-      <div class="brand">
-        <img src="assets/logo.png" class="logo" alt="Market Watcher logo" />
-        <span class="brand-name">Market Watcher</span>
-      </div>
-      <nav class="nav">
-        <a href="#features">Features</a>
-        <a href="#pricing">Pricing</a>
-        <a href="#faq">FAQ</a>
-        <a href="#contact">Contact</a>
-      </nav>
+
+<header>
+  <div class="logo">
+    <img src="assets/logo.png" alt="Market Watcher" style="height: 40px;">
+  </div>
+  <nav>
+    <a href="#features">Features</a>
+    <a href="#pricing">Pricing</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div>
+    <h1>Spot Winning Products Before Everyone Else 🚀</h1>
+    <p>Uncover trending products and keywords across the USA. Get insights updated every 6 hours, track 15 days of trends, and monetize your findings.</p>
+    <div style="margin-top: 20px;">
+      <a href="https://chrome.google.com/webstore" class="btn-primary">Add to Chrome</a>
+      <a href="#pricing" class="btn-outline">View Plans</a>
     </div>
-  </header>
+  </div>
+</section>
 
-  <!-- Hero -->
-  <section class="hero">
-    <div class="container hero-inner">
-      <div class="hero-copy">
-        <h1>Spot Winning Products Before Everyone Else 🚀</h1>
-        <p class="sub">
-          <strong>Market Watcher</strong> helps sellers, marketers, and researchers uncover trending products & keywords from the USA market.  
-          Discover what people are buying & searching — updated every 6 hours, with a 15-day rolling insight window.
-        </p>
-        <div class="hero-cta">
-          <a class="btn btn-primary" href="https://chrome.google.com/webstore" target="_blank" rel="noopener">Add to Chrome</a>
-          <a class="btn btn-ghost" href="#pricing">View Plans</a>
-        </div>
-        <ul class="hero-bullets">
-          <li>15-Day Data History</li>
-          <li>Top Keywords & Products</li>
-          <li>Affiliate Integration Ready</li>
-        </ul>
-      </div>
-      <div class="hero-media">
-        <img src="assets/dashboard-preview.png" alt="Extension preview" class="preview-img" />
-      </div>
-    </div>
-  </section>
+<section id="features" class="features">
+  <div class="feature">
+    <i class="fas fa-chart-line"></i>
+    <h3>Trending Insights</h3>
+    <p>See daily USA product and keyword surges before competitors.</p>
+  </div>
+  <div class="feature">
+    <i class="fas fa-database"></i>
+    <h3>15-Day History</h3>
+    <p>Access and download insights across a rolling 15-day window.</p>
+  </div>
+  <div class="feature">
+    <i class="fas fa-link"></i>
+    <h3>Affiliate Ready</h3>
+    <p>Monetize with Admitad, CJ, or Rakuten affiliate integration.</p>
+  </div>
+  <div class="feature">
+    <i class="fas fa-envelope"></i>
+    <h3>Email Updates</h3>
+    <p>Get notified when major product or keyword trends appear.</p>
+  </div>
+</section>
 
-  <!-- Features -->
-  <section id="features" class="section">
-    <div class="container">
-      <h2 class="section-title">What You’ll Get</h2>
-      <div class="feature-grid">
-        <article class="feature-card">
-          <div class="feature-icon">📈</div>
-          <h3>Trending Product Insights</h3>
-          <p>See which products are gaining traction in real time — identify high-demand niches early.</p>
-        </article>
+<section id="pricing" class="pricing">
+  <h2>Choose Your Plan</h2>
+  <p>Start free for 3 days. Upgrade anytime to unlock full insights & data downloads.</p>
 
-        <article class="feature-card">
-          <div class="feature-icon">🔍</div>
-          <h3>Keyword Discovery</h3>
-          <p>Find what consumers are searching for right now — build SEO & ad campaigns that convert.</p>
-        </article>
+  <div class="plan">
+    <h3>Basic</h3>
+    <p>$8 / month</p>
+    <div id="paypal-button-basic-1m"></div>
+    <p>$20 / 3 months</p>
+    <div id="paypal-button-basic-3m"></div>
+  </div>
 
-        <article class="feature-card">
-          <div class="feature-icon">🕒</div>
-          <h3>15-Day Rolling Data</h3>
-          <p>Track performance trends daily to separate short-term spikes from sustainable growth.</p>
-        </article>
+  <div class="plan">
+    <h3>Pro</h3>
+    <p>$12 / month</p>
+    <div id="paypal-button-pro-1m"></div>
+    <p>$30 / 3 months</p>
+    <div id="paypal-button-pro-3m"></div>
+  </div>
+</section>
 
-        <article class="feature-card">
-          <div class="feature-icon">💰</div>
-          <h3>Monetize with Affiliate Links</h3>
-          <p>Integrate Admitad, CJ, or Rakuten IDs and turn insights into commissions.</p>
-        </article>
-      </div>
-    </div>
-  </section>
+<footer>
+  © 2025 Market Watcher | Contact: <a href="mailto:support@marketwatcher.com">support@marketwatcher.com</a>
+</footer>
 
-  <!-- Pricing -->
-  <section id="pricing" class="section surface">
-    <div class="container">
-      <h2 class="section-title">Choose Your Plan</h2>
-      <p class="section-sub">Start free for 3 days. Upgrade for full access to 15-day insights, downloads, and more.</p>
-      <div class="pricing-grid">
-        <div class="plan-card">
-          <div class="plan-badge">Basic</div>
-          <h3 class="plan-price">$8 <span>/ month</span></h3>
-          <div id="paypal-button-container-basic-1m"></div>
-          <h4 class="plan-price small">$20 <span>/ 3 months</span></h4>
-          <div id="paypal-button-container-basic-3m"></div>
-        </div>
+<script src="https://www.paypal.com/sdk/js?client-id=ASctMa9CePoj4nkj1i7EslDg16MiYfmOD129zPHdu3YzaomqGAlrQRJl9zRq2f0l-8YvYuB_bQbbg7Ah&vault=true&intent=subscription"></script>
+<script>
+  const plans = {
+    '#paypal-button-basic-1m': 'P-BASIC-1M',
+    '#paypal-button-basic-3m': 'P-BASIC-3M',
+    '#paypal-button-pro-1m': 'P-PRO-1M',
+    '#paypal-button-pro-3m': 'P-PRO-3M'
+  };
 
-        <div class="plan-card plan-accent">
-          <div class="plan-badge accent">Pro</div>
-          <h3 class="plan-price">$12 <span>/ month</span></h3>
-          <div id="paypal-button-container-pro-1m"></div>
-          <h4 class="plan-price small">$30 <span>/ 3 months</span></h4>
-          <div id="paypal-button-container-pro-3m"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- CTA -->
-  <section class="cta">
-    <div class="container cta-inner">
-      <div>
-        <h2>Start Tracking Market Trends Today</h2>
-        <p>Install now and get 3 days of full access — see what’s trending before anyone else.</p>
-      </div>
-      <a class="btn btn-primary btn-lg" href="https://chrome.google.com/webstore" target="_blank">Add to Chrome</a>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="site-footer">
-    <div class="container foot-inner">
-      <div>© 2025 Market Watcher</div>
-      <div class="foot-links">
-        <a href="#contact">Contact</a>
-        <a href="#faq">FAQ</a>
-      </div>
-    </div>
-  </footer>
-
-  <script src="https://www.paypal.com/sdk/js?client-id=ASctMa9CePoj4nkj1i7EslDg16MiYfmOD129zPHdu3YzaomqGAlrQRJl9zRq2f0l-8YvYuB_bQbbg7Ah&vault=true&intent=subscription"></script>
-  <script>
-    const PLAN_BASIC_1M = 'P-BASIC-1M';
-    const PLAN_BASIC_3M = 'P-BASIC-3M';
-    const PLAN_PRO_1M = 'P-PRO-1M';
-    const PLAN_PRO_3M = 'P-PRO-3M';
-
-    function renderSub(id, plan) {
-      paypal.Buttons({
-        style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
-        createSubscription: (data, actions) => actions.subscription.create({ plan_id: plan }),
-        onApprove: data => alert('✅ Subscription active: ' + data.subscriptionID)
-      }).render(id);
-    }
-
-    renderSub('#paypal-button-container-basic-1m', PLAN_BASIC_1M);
-    renderSub('#paypal-button-container-basic-3m', PLAN_BASIC_3M);
-    renderSub('#paypal-button-container-pro-1m', PLAN_PRO_1M);
-    renderSub('#paypal-button-container-pro-3m', PLAN_PRO_3M);
-  </script>
+  for (const [selector, planId] of Object.entries(plans)) {
+    paypal.Buttons({
+      style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+      createSubscription: (data, actions) => actions.subscription.create({ plan_id: planId }),
+      onApprove: (data) => {
+        alert('✅ Subscription active: ' + data.subscriptionID);
+        // Redirect with param
+        window.location.href = "https://mrinalsood88-ui.github.io/market-watcher/?sub=" + data.subscriptionID;
+      }
+    }).render(selector);
+  }
+</script>
 </body>
 </html>
