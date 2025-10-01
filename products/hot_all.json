@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.371Z"
+    "collectedAt": "2025-10-01T18:48:35.090Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.371Z"
+    "collectedAt": "2025-10-01T18:48:35.090Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 4,
@@ -69,19 +69,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 5,
     "name": {
       "q": "/g/11y3nx3k8c",
-      "title": "Yves Saint Laurent Men Y Eau De Parfum",
+      "title": "YSL Y EDP For Men",
       "type": "Perfume",
       "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 6,
@@ -93,78 +93,87 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:38:55.390Z"
+    "collectedAt": "2025-10-01T18:48:36.698Z"
   },
   {
     "rank": 1,
+    "title": "ETH falls as crypto, stocks correct, but $547M spot ETF inflows show TradFi positioning",
+    "source": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/eth-drops-as-crypto-stocks-correct-dollar547m-in-spot-etf-inflows-may-save-the-day",
+    "publishedAt": "2025-09-30T18:10:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 2,
+    "title": "BlockDAG vs Worldcoin vs SUI: Which Top Trending Crypto Defines 2025 With Visibility, Stability, and Adoption?",
+    "source": "ZyCrypto",
+    "url": "https://zycrypto.com/blockdag-vs-worldcoin-vs-sui-which-top-trending-crypto-defines-2025-with-visibility-stability-and-adoption/",
+    "publishedAt": "2025-09-30T17:59:59Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 3,
+    "title": "Dynamic Discounting: How to Do Dynamic Pricing Right",
+    "source": "Upenn.edu",
+    "url": "https://knowledge.wharton.upenn.edu/article/dynamic-discounting-how-to-do-dynamic-pricing-right/",
+    "publishedAt": "2025-09-30T17:19:02Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 4,
+    "title": "This folding Pilates reformer leaves users shaking and it’s $100 off pre-Prime Day",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/09/30/shopping/feel-the-burn-with-a-pilates-reformer-100-off-pre-prime-day/",
+    "publishedAt": "2025-09-30T16:40:28Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 5,
+    "title": "If You’re Going to Buy One Thing This Fall, Make It Tory Burch’s Lee Radziwill Bag — Here’s Why",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-fashion/tory-burch-lee-radziwill-double-bag-fall-trend-buy-online-1238263813/",
+    "publishedAt": "2025-09-30T16:27:33Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 6,
+    "title": "Listeria Outbreak Linked to Prepared Meals Sold at Walmart and Trader Joe's Leads to 4 Deaths",
+    "source": "TODAY",
+    "url": "https://www.today.com/health/recall/listeria-outbreak-recall-walmart-trader-joes-rcna234673",
+    "publishedAt": "2025-09-30T15:44:52Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 7,
+    "title": "Opinion: Tata Sons' Listing Fate Hangs In Balance As RBI Deadline Expires - In This Economy",
+    "source": "Ndtvprofit.com",
+    "url": "https://www.ndtvprofit.com/opinion/tata-sons-listing-fate-hangs-in-balance-as-rbi-deadline-expires-in-this-economy",
+    "publishedAt": "2025-09-30T15:08:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T18:48:36.982Z"
+  },
+  {
+    "rank": 8,
     "title": "Persōn & Covey, Inc. - 711191 - 09/23/2025",
     "source": "FDA.gov",
     "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/person-covey-inc-711191-09232025",
     "publishedAt": "2025-09-30T13:20:06Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
+    "collectedAt": "2025-10-01T18:48:36.982Z"
   },
   {
-    "rank": 2,
+    "rank": 9,
     "title": "WPBeginner Spotlight 16: WordPress Privacy Tools, New AI Block Builder, and Smarter Plugin Updates",
     "source": "Wpbeginner.com",
     "url": "https://www.wpbeginner.com/news/wpbeginner-spotlight-16-wordpress-privacy-tools-new-ai-block-builders-and-smarter-plugin-updates/",
     "publishedAt": "2025-09-30T10:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 3,
-    "title": "Crunch is King: Kerry Reveals APAC Consumers are Driving Global Meat Texture Innovation",
-    "source": "Antaranews.com",
-    "url": "https://en.antaranews.com/news/383329/crunch-is-king-kerry-reveals-apac-consumers-are-driving-global-meat-texture-innovation",
-    "publishedAt": "2025-09-30T08:06:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 4,
-    "title": "5 Trendy Art Styles Designers Should Explore",
-    "source": "Graphicdesignjunction.com",
-    "url": "https://graphicdesignjunction.com/2025/09/5-trendy-art-styles-designers-should-explore/",
-    "publishedAt": "2025-09-30T03:41:20Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 5,
-    "title": "Can your YouTube channel survive a hardcore pivot? Dzung Lewis’s did–and now she’s telling other creators how she did it.",
-    "source": "Tubefilter",
-    "url": "https://www.tubefilter.com/2025/09/29/vidsummit-dzung-lewis-honeysuckle-youtube/",
-    "publishedAt": "2025-09-30T00:42:01Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 6,
-    "title": "What's an 11-Hour Long Game Day Like for a Dallas Cowboy Cheerleader?",
-    "source": "TODAY",
-    "url": "https://www.today.com/popculture/dallas-cowboy-cheerleader-gameday-schedule-rcna234523",
-    "publishedAt": "2025-09-29T21:30:44Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 7,
-    "title": "Starbucks has protein now — but energy-boosting creatine costs less than a latte on Amazon",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/09/29/shopping/starbucks-has-protein-now-but-creatine-is-just-7-preprime-day/",
-    "publishedAt": "2025-09-29T20:50:38Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
-  },
-  {
-    "rank": 8,
-    "title": "All the Top Shoes, Bags, Hats and Sunglasses From Milan Fashion Week’s Accessories Presentations",
-    "source": "WWD",
-    "url": "http://wwd.com/accessories-news/accessory-trends/milan-fashion-week-spring-2026-shoes-bags-accessories-1238258834/",
-    "publishedAt": "2025-09-29T20:09:47Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:38:55.622Z"
+    "collectedAt": "2025-10-01T18:48:36.982Z"
   }
 ]
