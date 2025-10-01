@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T03:32:13.366Z"
+    "collectedAt": "2025-10-01T06:50:30.907Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T03:32:13.366Z"
+    "collectedAt": "2025-10-01T06:50:30.907Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T03:32:14.504Z"
+    "collectedAt": "2025-10-01T06:50:32.208Z"
   },
   {
     "rank": 1,
+    "title": "5 Trendy Art Styles Designers Should Explore",
+    "source": "Graphicdesignjunction.com",
+    "url": "https://graphicdesignjunction.com/2025/09/5-trendy-art-styles-designers-should-explore/",
+    "publishedAt": "2025-09-30T03:41:20Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T06:50:32.560Z"
+  },
+  {
+    "rank": 2,
     "title": "Can your YouTube channel survive a hardcore pivot? Dzung Lewis’s did–and now she’s telling other creators how she did it.",
     "source": "Tubefilter",
     "url": "https://www.tubefilter.com/2025/09/29/vidsummit-dzung-lewis-honeysuckle-youtube/",
     "publishedAt": "2025-09-30T00:42:01Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "What's an 11-Hour Long Game Day Like for a Dallas Cowboy Cheerleader?",
     "source": "TODAY",
     "url": "https://www.today.com/popculture/dallas-cowboy-cheerleader-gameday-schedule-rcna234523",
     "publishedAt": "2025-09-29T21:30:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Starbucks has protein now — but energy-boosting creatine costs less than a latte on Amazon",
     "source": "New York Post",
     "url": "https://nypost.com/2025/09/29/shopping/starbucks-has-protein-now-but-creatine-is-just-7-preprime-day/",
     "publishedAt": "2025-09-29T20:50:38Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "All the Top Shoes, Bags, Hats and Sunglasses From Milan Fashion Week’s Accessories Presentations",
     "source": "WWD",
     "url": "http://wwd.com/accessories-news/accessory-trends/milan-fashion-week-spring-2026-shoes-bags-accessories-1238258834/",
     "publishedAt": "2025-09-29T20:09:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
     "source": "WWD",
     "url": "http://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
     "publishedAt": "2025-09-29T19:10:29Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
     "source": "WWD",
     "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
     "publishedAt": "2025-09-29T19:10:29Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
+    "title": "Tesla’s European Sales Rout Continues. When Will It Be Time to Finally Walk Away From TSLA Stock?",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/35107904/teslas-european-sales-rout-continues-when-will-it-be-time-to-finally-walk-away-from-tsla-stock",
+    "publishedAt": "2025-09-29T18:38:17Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T06:50:32.560Z"
+  },
+  {
+    "rank": 9,
     "title": "Target Announces DATES for Target Circle Week – Plus a Peek at the Deals!",
     "source": "disneyfoodblog.com",
     "url": "https://www.disneyfoodblog.com/2025/09/29/target-announces-dates-for-target-circle-week-plus-a-peek-at-the-deals/",
     "publishedAt": "2025-09-29T17:53:45Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Steelers haven't always looked good during their 3-1 start. They also don't care",
     "source": "ABC News",
     "url": "https://abcnews.go.com/Politics/wireStory/steelers-looked-good-3-1-start-care-126046552",
     "publishedAt": "2025-09-29T17:35:09Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
-  },
-  {
-    "rank": 9,
-    "title": "Steelers haven't always looked good during their 3-1 start. They also don't care",
-    "source": "Yahoo Entertainment",
-    "url": "https://sports.yahoo.com/article/steelers-havent-always-looked-good-173055948.html",
-    "publishedAt": "2025-09-29T17:30:55Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
-  },
-  {
-    "rank": 10,
-    "title": "Apple Just Unveiled the iPhone 17: Here’s What This Means for You If You Own Stock",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/apple-just-unveiled-iphone-17-150014598.html",
-    "publishedAt": "2025-09-29T15:00:14Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T03:32:14.750Z"
+    "collectedAt": "2025-10-01T06:50:32.560Z"
   }
 ]
