@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.723Z"
+    "collectedAt": "2025-10-01T13:36:52.335Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.724Z"
+    "collectedAt": "2025-10-01T13:36:52.335Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,78 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T06:51:52.742Z"
+    "collectedAt": "2025-10-01T13:36:53.319Z"
   },
   {
     "rank": 1,
+    "title": "Persōn & Covey, Inc. - 711191 - 09/23/2025",
+    "source": "FDA.gov",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/person-covey-inc-711191-09232025",
+    "publishedAt": "2025-09-30T13:20:06Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T13:36:53.565Z"
+  },
+  {
+    "rank": 2,
+    "title": "WPBeginner Spotlight 16: WordPress Privacy Tools, New AI Block Builder, and Smarter Plugin Updates",
+    "source": "Wpbeginner.com",
+    "url": "https://www.wpbeginner.com/news/wpbeginner-spotlight-16-wordpress-privacy-tools-new-ai-block-builders-and-smarter-plugin-updates/",
+    "publishedAt": "2025-09-30T10:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T13:36:53.565Z"
+  },
+  {
+    "rank": 3,
+    "title": "Crunch is King: Kerry Reveals APAC Consumers are Driving Global Meat Texture Innovation",
+    "source": "Antaranews.com",
+    "url": "https://en.antaranews.com/news/383329/crunch-is-king-kerry-reveals-apac-consumers-are-driving-global-meat-texture-innovation",
+    "publishedAt": "2025-09-30T08:06:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-01T13:36:53.565Z"
+  },
+  {
+    "rank": 4,
     "title": "5 Trendy Art Styles Designers Should Explore",
     "source": "Graphicdesignjunction.com",
     "url": "https://graphicdesignjunction.com/2025/09/5-trendy-art-styles-designers-should-explore/",
     "publishedAt": "2025-09-30T03:41:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
+    "collectedAt": "2025-10-01T13:36:53.565Z"
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Can your YouTube channel survive a hardcore pivot? Dzung Lewis’s did–and now she’s telling other creators how she did it.",
     "source": "Tubefilter",
     "url": "https://www.tubefilter.com/2025/09/29/vidsummit-dzung-lewis-honeysuckle-youtube/",
     "publishedAt": "2025-09-30T00:42:01Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
+    "collectedAt": "2025-10-01T13:36:53.565Z"
   },
   {
-    "rank": 3,
+    "rank": 6,
     "title": "What's an 11-Hour Long Game Day Like for a Dallas Cowboy Cheerleader?",
     "source": "TODAY",
     "url": "https://www.today.com/popculture/dallas-cowboy-cheerleader-gameday-schedule-rcna234523",
     "publishedAt": "2025-09-29T21:30:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
+    "collectedAt": "2025-10-01T13:36:53.565Z"
   },
   {
-    "rank": 4,
+    "rank": 7,
     "title": "Starbucks has protein now — but energy-boosting creatine costs less than a latte on Amazon",
     "source": "New York Post",
     "url": "https://nypost.com/2025/09/29/shopping/starbucks-has-protein-now-but-creatine-is-just-7-preprime-day/",
     "publishedAt": "2025-09-29T20:50:38Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
+    "collectedAt": "2025-10-01T13:36:53.565Z"
   },
   {
-    "rank": 5,
+    "rank": 8,
     "title": "All the Top Shoes, Bags, Hats and Sunglasses From Milan Fashion Week’s Accessories Presentations",
     "source": "WWD",
     "url": "http://wwd.com/accessories-news/accessory-trends/milan-fashion-week-spring-2026-shoes-bags-accessories-1238258834/",
     "publishedAt": "2025-09-29T20:09:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
-  },
-  {
-    "rank": 6,
-    "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
-    "source": "WWD",
-    "url": "http://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
-    "publishedAt": "2025-09-29T19:10:29Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
-  },
-  {
-    "rank": 7,
-    "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
-    "source": "WWD",
-    "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
-    "publishedAt": "2025-09-29T19:10:29Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
-  },
-  {
-    "rank": 8,
-    "title": "Tesla’s European Sales Rout Continues. When Will It Be Time to Finally Walk Away From TSLA Stock?",
-    "source": "Barchart.com",
-    "url": "https://www.barchart.com/story/news/35107904/teslas-european-sales-rout-continues-when-will-it-be-time-to-finally-walk-away-from-tsla-stock",
-    "publishedAt": "2025-09-29T18:38:17Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
-  },
-  {
-    "rank": 9,
-    "title": "Target Announces DATES for Target Circle Week – Plus a Peek at the Deals!",
-    "source": "disneyfoodblog.com",
-    "url": "https://www.disneyfoodblog.com/2025/09/29/target-announces-dates-for-target-circle-week-plus-a-peek-at-the-deals/",
-    "publishedAt": "2025-09-29T17:53:45Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
-  },
-  {
-    "rank": 10,
-    "title": "Steelers haven't always looked good during their 3-1 start. They also don't care",
-    "source": "ABC News",
-    "url": "https://abcnews.go.com/Politics/wireStory/steelers-looked-good-3-1-start-care-126046552",
-    "publishedAt": "2025-09-29T17:35:09Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T06:51:52.992Z"
+    "collectedAt": "2025-10-01T13:36:53.565Z"
   }
 ]
