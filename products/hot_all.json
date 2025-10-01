@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-09-30T12:11:45.377Z"
+    "collectedAt": "2025-10-01T03:32:13.366Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-09-30T12:11:45.378Z"
+    "collectedAt": "2025-10-01T03:32:13.366Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-09-30T12:11:46.177Z"
+    "collectedAt": "2025-10-01T03:32:14.504Z"
   },
   {
     "rank": 1,
-    "title": "Amazon is selling a pair of Monster wireless earbuds for just $30",
-    "source": "TheStreet",
-    "url": "https://www.thestreet.com/deals/monster-open-ac601-wireless-earbuds-clip-on-bluetooth-headphones-amazon-sale",
-    "publishedAt": "2025-09-29T12:00:00Z",
+    "title": "Can your YouTube channel survive a hardcore pivot? Dzung Lewis’s did–and now she’s telling other creators how she did it.",
+    "source": "Tubefilter",
+    "url": "https://www.tubefilter.com/2025/09/29/vidsummit-dzung-lewis-honeysuckle-youtube/",
+    "publishedAt": "2025-09-30T00:42:01Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 2,
-    "title": "The iPhone 17 reminds me why ‘boring’ tech is always best",
-    "source": "Macworld",
-    "url": "https://www.macworld.com/article/2916219/the-iphone-17-reminds-me-why-boring-tech-is-always-best.html",
-    "publishedAt": "2025-09-29T10:30:00Z",
+    "title": "What's an 11-Hour Long Game Day Like for a Dallas Cowboy Cheerleader?",
+    "source": "TODAY",
+    "url": "https://www.today.com/popculture/dallas-cowboy-cheerleader-gameday-schedule-rcna234523",
+    "publishedAt": "2025-09-29T21:30:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 3,
-    "title": "Top Sports And Entertainment Marketing Trends 2025",
-    "source": "Superconverters.com",
-    "url": "https://superconverters.com/sports-and-entertainment-marketing/",
-    "publishedAt": "2025-09-29T03:53:55Z",
+    "title": "Starbucks has protein now — but energy-boosting creatine costs less than a latte on Amazon",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/09/29/shopping/starbucks-has-protein-now-but-creatine-is-just-7-preprime-day/",
+    "publishedAt": "2025-09-29T20:50:38Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 4,
-    "title": "Solvex Edibles IPO listing today. Check GMP ahead of debut",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/solvex-edibles-ipo-listing-today-check-gmp-ahead-of-debut/articleshow/124203410.cms",
-    "publishedAt": "2025-09-29T02:35:22Z",
+    "title": "All the Top Shoes, Bags, Hats and Sunglasses From Milan Fashion Week’s Accessories Presentations",
+    "source": "WWD",
+    "url": "http://wwd.com/accessories-news/accessory-trends/milan-fashion-week-spring-2026-shoes-bags-accessories-1238258834/",
+    "publishedAt": "2025-09-29T20:09:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 5,
-    "title": "Vijaypd Ceutical IPO: All you need to know before subscription",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/vijaypd-ceutical-ipo-all-you-need-to-know-before-subscription/articleshow/124203290.cms",
-    "publishedAt": "2025-09-29T02:31:02Z",
+    "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
+    "source": "WWD",
+    "url": "http://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
+    "publishedAt": "2025-09-29T19:10:29Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 6,
-    "title": "Trick-Or-Treating Is Becoming A Luxury For Households. Halloween Candy Bags Are So Expensive, Many Don't Want To Hand Them Out Anymore",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/trick-treating-becoming-luxury-households-190326387.html",
-    "publishedAt": "2025-09-28T19:03:26Z",
+    "title": "Shoe Prices Are Up, And Footwear Could Be Off Some Holiday Gift Lists",
+    "source": "WWD",
+    "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-holiday-spending-consumers-shoes-price-hikes-1238261070/",
+    "publishedAt": "2025-09-29T19:10:29Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 7,
-    "title": "U.S. Ready to Replace All Russian Gas and Oil in Europe: Secretary Wright Warns EU of Moscow Dependency",
-    "source": "Gatewayhispanic.com",
-    "url": "https://gatewayhispanic.com/2025/09/u-s-ready-replace-all-russian-gas-oil/",
-    "publishedAt": "2025-09-28T17:20:00Z",
+    "title": "Target Announces DATES for Target Circle Week – Plus a Peek at the Deals!",
+    "source": "disneyfoodblog.com",
+    "url": "https://www.disneyfoodblog.com/2025/09/29/target-announces-dates-for-target-circle-week-plus-a-peek-at-the-deals/",
+    "publishedAt": "2025-09-29T17:53:45Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 8,
-    "title": "Why 50% of Financial Advisors Are Putting Client Investments Into Annuities",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/why-50-financial-advisors-putting-160758993.html",
-    "publishedAt": "2025-09-28T16:07:58Z",
+    "title": "Steelers haven't always looked good during their 3-1 start. They also don't care",
+    "source": "ABC News",
+    "url": "https://abcnews.go.com/Politics/wireStory/steelers-looked-good-3-1-start-care-126046552",
+    "publishedAt": "2025-09-29T17:35:09Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 9,
-    "title": "MoonX Announces Expansion of Trading Features Including x1000 Leverage and Access to Meme Coin Markets",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/09/28/3157360/0/en/MoonX-Announces-Expansion-of-Trading-Features-Including-x1000-Leverage-and-Access-to-Meme-Coin-Markets.html",
-    "publishedAt": "2025-09-28T14:52:00Z",
+    "title": "Steelers haven't always looked good during their 3-1 start. They also don't care",
+    "source": "Yahoo Entertainment",
+    "url": "https://sports.yahoo.com/article/steelers-havent-always-looked-good-173055948.html",
+    "publishedAt": "2025-09-29T17:30:55Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.592Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   },
   {
     "rank": 10,
-    "title": "Trending bedtime hack said to improve sleep, but experts aren’t so sure",
-    "source": "Fox News",
-    "url": "https://www.foxnews.com/health/trending-bedtime-hack-said-improve-sleep-experts-arent-so-sure",
-    "publishedAt": "2025-09-28T13:00:38Z",
+    "title": "Apple Just Unveiled the iPhone 17: Here’s What This Means for You If You Own Stock",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/apple-just-unveiled-iphone-17-150014598.html",
+    "publishedAt": "2025-09-29T15:00:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-09-30T12:11:46.593Z"
+    "collectedAt": "2025-10-01T03:32:14.750Z"
   }
 ]
