@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T13:36:52.335Z"
+    "collectedAt": "2025-10-01T13:38:55.371Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-01T13:36:52.335Z"
+    "collectedAt": "2025-10-01T13:38:55.371Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-01T13:36:53.319Z"
+    "collectedAt": "2025-10-01T13:38:55.390Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/person-covey-inc-711191-09232025",
     "publishedAt": "2025-09-30T13:20:06Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.wpbeginner.com/news/wpbeginner-spotlight-16-wordpress-privacy-tools-new-ai-block-builders-and-smarter-plugin-updates/",
     "publishedAt": "2025-09-30T10:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://en.antaranews.com/news/383329/crunch-is-king-kerry-reveals-apac-consumers-are-driving-global-meat-texture-innovation",
     "publishedAt": "2025-09-30T08:06:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://graphicdesignjunction.com/2025/09/5-trendy-art-styles-designers-should-explore/",
     "publishedAt": "2025-09-30T03:41:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.tubefilter.com/2025/09/29/vidsummit-dzung-lewis-honeysuckle-youtube/",
     "publishedAt": "2025-09-30T00:42:01Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.today.com/popculture/dallas-cowboy-cheerleader-gameday-schedule-rcna234523",
     "publishedAt": "2025-09-29T21:30:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://nypost.com/2025/09/29/shopping/starbucks-has-protein-now-but-creatine-is-just-7-preprime-day/",
     "publishedAt": "2025-09-29T20:50:38Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   },
   {
     "rank": 8,
@@ -165,6 +165,6 @@
     "url": "http://wwd.com/accessories-news/accessory-trends/milan-fashion-week-spring-2026-shoes-bags-accessories-1238258834/",
     "publishedAt": "2025-09-29T20:09:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-01T13:36:53.565Z"
+    "collectedAt": "2025-10-01T13:38:55.622Z"
   }
 ]
