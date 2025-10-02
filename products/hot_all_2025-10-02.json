@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.221Z"
+    "collectedAt": "2025-10-02T13:19:29.153Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.221Z"
+    "collectedAt": "2025-10-02T13:19:29.153Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 4,
@@ -69,19 +69,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 5,
     "name": {
       "q": "/g/11y3nx3k8c",
-      "title": "YSL Y EDP For Men",
+      "title": "Yves Saint Laurent Men Y Eau De Parfum",
       "type": "Perfume",
       "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T10:28:37.255Z"
+    "collectedAt": "2025-10-02T13:19:29.168Z"
   },
   {
     "rank": 1,
+    "title": "The Difference Between Every Fragrance Family, Explained by an Expert",
+    "source": "Cosmopolitan.com",
+    "url": "https://www.cosmopolitan.com/style-beauty/beauty/a68106344/fragrance-family-guide/",
+    "publishedAt": "2025-10-01T12:37:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T13:19:29.380Z"
+  },
+  {
+    "rank": 2,
+    "title": "EXCLUSIVE: NYC Townhouse Gets Magical ‘Wicked’ Makeover Ahead of Sequel",
+    "source": "TODAY",
+    "url": "https://www.today.com/popculture/news/wicked-home-nyc-townhouse-rcna234797",
+    "publishedAt": "2025-10-01T12:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T13:19:29.380Z"
+  },
+  {
+    "rank": 3,
+    "title": "Caffeine pouches deliver a fast hit – and hidden risks",
+    "source": "The Conversation Africa",
+    "url": "https://theconversation.com/caffeine-pouches-deliver-a-fast-hit-and-hidden-risks-263933",
+    "publishedAt": "2025-10-01T11:05:20Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T13:19:29.380Z"
+  },
+  {
+    "rank": 4,
     "title": "AI Hallucinations May Soon Be History",
     "source": "Inside Higher Ed",
     "url": "https://www.insidehighered.com/opinion/columns/online-trending-now/2025/10/01/ai-hallucinations-may-soon-be-history",
     "publishedAt": "2025-10-01T07:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Laura AI Agent Presale Live on PinkSale: The First Fully Autonomous AI Trading Agent on Solana",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/01/3159174/0/en/Laura-AI-Agent-Presale-Live-on-PinkSale-The-First-Fully-Autonomous-AI-Trading-Agent-on-Solana.html",
     "publishedAt": "2025-10-01T04:32:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   },
   {
-    "rank": 3,
+    "rank": 6,
     "title": "Top Stocks today: Nvidia, Robinhood and Pfizer lead the market",
     "source": "TheStreet",
     "url": "https://www.thestreet.com/investing/stocks/top-stocks-today-nvidia-robinhood-and-pfizer-lead-the-market",
     "publishedAt": "2025-10-01T02:41:57Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   },
   {
-    "rank": 4,
+    "rank": 7,
+    "title": "How To Put $100 In Your Retirement Fund Each Month With Cintas Stock",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/put-100-retirement-fund-month-020106466.html",
+    "publishedAt": "2025-10-01T02:01:06Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T13:19:29.380Z"
+  },
+  {
+    "rank": 8,
     "title": "6 Celebrity-Worn Ugg Boots & Clothing Favorites for Staying (Stylishly) Warm During Cozy Season",
     "source": "WWD",
     "url": "http://wwd.com/shop/shop-fashion/best-ugg-boots-clothing-cozy-season-pieces-shop-online-1238264769/",
     "publishedAt": "2025-09-30T21:53:34Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   },
   {
-    "rank": 5,
+    "rank": 9,
     "title": "How Retailers Can Use AI To Compete—and Win—This Holiday Season",
     "source": "Forbes",
     "url": "https://www.forbes.com/sites/janehanson/2025/09/30/how-retailers-can-use-ai-to-compete-and-win-this-holiday-season/",
     "publishedAt": "2025-09-30T21:32:59Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   },
   {
-    "rank": 6,
+    "rank": 10,
     "title": "Bobbi Brown Shares Details From Kate Middleton's Wedding Makeup",
     "source": "TODAY",
     "url": "https://www.today.com/popculture/kate-middleton-wedding-makeup-bobbi-brown-rcna234767",
     "publishedAt": "2025-09-30T21:02:26Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
-  },
-  {
-    "rank": 7,
-    "title": "Warren Buffett's Investment Tip: 'It's Better To Buy A Wonderful Company At Fair Price Than A Fair Company At A Wonderful Price'",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/warren-buffetts-investment-tip-better-203104925.html",
-    "publishedAt": "2025-09-30T20:31:04Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
-  },
-  {
-    "rank": 8,
-    "title": "Stock market today: S&P 500, Nasdaq close out best third quarter since 2020 as US government looks set to enter shutdown",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-sp-500-nasdaq-cap-best-q3-since-2020-as-wall-street-braces-for-shutdown-200013623.html",
-    "publishedAt": "2025-09-30T20:00:13Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
-  },
-  {
-    "rank": 9,
-    "title": "Where are Ethanol and Coal Prices Heading?",
-    "source": "Barchart.com",
-    "url": "https://www.barchart.com/story/news/35137539/where-are-ethanol-and-coal-prices-heading",
-    "publishedAt": "2025-09-30T19:00:02Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
-  },
-  {
-    "rank": 10,
-    "title": "ETH falls as crypto, stocks correct, but $547M spot ETF inflows show TradFi positioning",
-    "source": "Cointelegraph",
-    "url": "https://cointelegraph.com/news/eth-drops-as-crypto-stocks-correct-dollar547m-in-spot-etf-inflows-may-save-the-day",
-    "publishedAt": "2025-09-30T18:10:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T10:28:37.514Z"
+    "collectedAt": "2025-10-02T13:19:29.380Z"
   }
 ]
