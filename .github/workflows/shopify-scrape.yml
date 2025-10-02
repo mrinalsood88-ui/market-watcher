@@ -1,0 +1,44 @@
+name: 🛍️ Shopify Data Collector (6-Hourly)
+
+on:
+  schedule:
+    # ⏰ Runs every 6 hours (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allow manual run
+  push:
+    paths:
+      - "scrapers/shopify.mjs"
+      - ".github/workflows/shopify-scrape.yml"
+
+jobs:
+  scrape-shopify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install dependencies
+        run: npm install axios
+
+      - name: 🛍️ Run Shopify scraper
+        run: node scrapers/shopify.mjs
+
+      - name: 💾 Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add products/shopify_products.json
+          git commit -m "🤖 Update Shopify products (6h schedule)" || echo "No changes to commit"
+
+      - name: 🚀 Push to main
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
