@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-02T03:05:13.284Z"
+    "collectedAt": "2025-10-02T06:48:59.701Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-02T03:05:13.284Z"
+    "collectedAt": "2025-10-02T06:48:59.701Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-02T03:05:14.705Z"
+    "collectedAt": "2025-10-02T06:49:00.176Z"
   },
   {
     "rank": 1,
+    "title": "Laura AI Agent Presale Live on PinkSale: The First Fully Autonomous AI Trading Agent on Solana",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/01/3159174/0/en/Laura-AI-Agent-Presale-Live-on-PinkSale-The-First-Fully-Autonomous-AI-Trading-Agent-on-Solana.html",
+    "publishedAt": "2025-10-01T04:32:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T06:49:00.267Z"
+  },
+  {
+    "rank": 2,
     "title": "Top Stocks today: Nvidia, Robinhood and Pfizer lead the market",
     "source": "TheStreet",
     "url": "https://www.thestreet.com/investing/stocks/top-stocks-today-nvidia-robinhood-and-pfizer-lead-the-market",
     "publishedAt": "2025-10-01T02:41:57Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "6 Celebrity-Worn Ugg Boots & Clothing Favorites for Staying (Stylishly) Warm During Cozy Season",
     "source": "WWD",
     "url": "http://wwd.com/shop/shop-fashion/best-ugg-boots-clothing-cozy-season-pieces-shop-online-1238264769/",
     "publishedAt": "2025-09-30T21:53:34Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "How Retailers Can Use AI To Compete—and Win—This Holiday Season",
     "source": "Forbes",
     "url": "https://www.forbes.com/sites/janehanson/2025/09/30/how-retailers-can-use-ai-to-compete-and-win-this-holiday-season/",
     "publishedAt": "2025-09-30T21:32:59Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Bobbi Brown Shares Details From Kate Middleton's Wedding Makeup",
     "source": "TODAY",
     "url": "https://www.today.com/popculture/kate-middleton-wedding-makeup-bobbi-brown-rcna234767",
     "publishedAt": "2025-09-30T21:02:26Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Stock market today: S&P 500, Nasdaq close out best third quarter since 2020 as US government looks set to enter shutdown",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-sp-500-nasdaq-cap-best-q3-since-2020-as-wall-street-braces-for-shutdown-200013623.html",
     "publishedAt": "2025-09-30T20:00:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
+    "title": "Where are Ethanol and Coal Prices Heading?",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/35137539/where-are-ethanol-and-coal-prices-heading",
+    "publishedAt": "2025-09-30T19:00:02Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-02T06:49:00.267Z"
+  },
+  {
+    "rank": 8,
     "title": "ETH falls as crypto, stocks correct, but $547M spot ETF inflows show TradFi positioning",
     "source": "Cointelegraph",
     "url": "https://cointelegraph.com/news/eth-drops-as-crypto-stocks-correct-dollar547m-in-spot-etf-inflows-may-save-the-day",
     "publishedAt": "2025-09-30T18:10:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "BlockDAG vs Worldcoin vs SUI: Which Top Trending Crypto Defines 2025 With Visibility, Stability, and Adoption?",
     "source": "ZyCrypto",
     "url": "https://zycrypto.com/blockdag-vs-worldcoin-vs-sui-which-top-trending-crypto-defines-2025-with-visibility-stability-and-adoption/",
     "publishedAt": "2025-09-30T17:59:59Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Dynamic Discounting: How to Do Dynamic Pricing Right",
     "source": "Upenn.edu",
     "url": "https://knowledge.wharton.upenn.edu/article/dynamic-discounting-how-to-do-dynamic-pricing-right/",
     "publishedAt": "2025-09-30T17:19:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
-  },
-  {
-    "rank": 9,
-    "title": "This folding Pilates reformer leaves users shaking and it’s $100 off pre-Prime Day",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/09/30/shopping/feel-the-burn-with-a-pilates-reformer-100-off-pre-prime-day/",
-    "publishedAt": "2025-09-30T16:40:28Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
-  },
-  {
-    "rank": 10,
-    "title": "If You’re Going to Buy One Thing This Fall, Make It Tory Burch’s Lee Radziwill Bag — Here’s Why",
-    "source": "WWD",
-    "url": "http://wwd.com/shop/shop-fashion/tory-burch-lee-radziwill-double-bag-fall-trend-buy-online-1238263813/",
-    "publishedAt": "2025-09-30T16:27:33Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-02T03:05:14.956Z"
+    "collectedAt": "2025-10-02T06:49:00.267Z"
   }
 ]
