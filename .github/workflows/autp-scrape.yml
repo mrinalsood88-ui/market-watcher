@@ -1,0 +1,58 @@
+name: 🤖 Auto Scrape All Sources (Every 6 Hours)
+
+on:
+  schedule:
+    # ⏰ Runs every 6 hours (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allow manual trigger
+  push:
+    paths:
+      - "scrapers/**/*.mjs"
+      - ".github/workflows/auto-scrape.yml"
+
+jobs:
+  auto-scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📦 Install dependencies
+        run: |
+          npm install axios
+          npm install google-trends-api
+          npm install dotenv
+
+      - name: 🔑 Load Environment Variables
+        env:
+          SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          echo "SERP_API_KEY=$SERP_API_KEY" >> .env
+          echo "NEWS_API_KEY=$NEWS_API_KEY" >> .env
+
+      - name: 🚀 Run All Scrapers
+        run: node scrapers/run_all.mjs
+
+      - name: 🛍️ Run Shopify Collector
+        run: node scrapers/shopify.mjs
+
+      - name: 💾 Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add products/*.json keywords/*.json
+          git commit -m "🤖 Auto scrape update (every 6 hours)" || echo "No changes to commit"
+
+      - name: 🚀 Push to main
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
