@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-03T13:15:40.598Z"
+    "collectedAt": "2025-10-03T13:17:04.456Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-03T13:15:40.598Z"
+    "collectedAt": "2025-10-03T13:17:04.456Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:15:44.061Z"
+    "collectedAt": "2025-10-03T13:17:04.503Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://weandthecolor.com/the-100-coolest-fonts-for-designers-in-2026/205892",
     "publishedAt": "2025-10-02T11:00:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/02/3160230/0/en/Erdene-Announces-Updated-Resource-for-the-Zuun-Mod-Molybdenum-Copper-Deposit.html",
     "publishedAt": "2025-10-02T11:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.skysociety.co/blog/WOW!%20A%20Look%20Behind%20Coach%20Viral%20Content%20Marketing%20Success",
     "publishedAt": "2025-10-02T05:48:56Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "http://digiday.com/marketing/tiktok-is-talking-to-brands-like-its-a-grocer-now/",
     "publishedAt": "2025-10-02T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.today.com/news/news/jane-goodall-dies-message-2024-interview-rcna235041",
     "publishedAt": "2025-10-01T22:32:50Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/solana-xrp-etfs-may-just-213119492.html",
     "publishedAt": "2025-10-01T21:31:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "http://wwd.com/shop/shop-fashion/naadam-the-original-cashmere-sweater-review-1238271610/",
     "publishedAt": "2025-10-01T21:18:09Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://www.menshealth.com/grooming/g68135293/best-mens-grooming-releases-october/",
     "publishedAt": "2025-10-01T20:42:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://millo.co/15-in-demand-freelance-skills-every-creative-should-learn-in-year",
     "publishedAt": "2025-10-01T20:38:27Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/news/2-great-ai-stocks-buy-203500206.html",
     "publishedAt": "2025-10-01T20:35:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:15:44.315Z"
+    "collectedAt": "2025-10-03T13:17:04.715Z"
   }
 ]
