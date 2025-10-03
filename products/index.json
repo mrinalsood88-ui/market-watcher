@@ -1,30 +1,30 @@
 [
   {
-    "file": "hot_all_2025-10-03.json",
-    "modified": "2025-10-03T18:46:44.469Z"
+    "file": "hot_all.json",
+    "modified": "2025-10-03T18:47:23.274Z"
   },
   {
-    "file": "hot_all.json",
-    "modified": "2025-10-03T18:46:44.468Z"
+    "file": "hot_all_2025-10-03.json",
+    "modified": "2025-10-03T18:47:23.274Z"
   },
   {
     "file": "news.json",
-    "modified": "2025-10-03T18:46:44.468Z"
-  },
-  {
-    "file": "hot_all_2025-10-01.json",
-    "modified": "2025-10-03T18:46:36.327Z"
-  },
-  {
-    "file": "hot_all_2025-10-02.json",
-    "modified": "2025-10-03T18:46:36.327Z"
+    "modified": "2025-10-03T18:47:23.274Z"
   },
   {
     "file": "index.json",
-    "modified": "2025-10-03T18:46:36.327Z"
+    "modified": "2025-10-03T18:47:16.923Z"
   },
   {
     "file": "shopify_products.json",
-    "modified": "2025-10-03T18:46:36.327Z"
+    "modified": "2025-10-03T18:47:16.923Z"
+  },
+  {
+    "file": "hot_all_2025-10-01.json",
+    "modified": "2025-10-03T18:47:16.922Z"
+  },
+  {
+    "file": "hot_all_2025-10-02.json",
+    "modified": "2025-10-03T18:47:16.922Z"
   }
 ]
