@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.456Z"
+    "collectedAt": "2025-10-03T18:46:44.178Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.456Z"
+    "collectedAt": "2025-10-03T18:46:44.178Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 4,
@@ -69,19 +69,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 5,
     "name": {
       "q": "/g/11y3nx3k8c",
-      "title": "YSL Y EDP For Men",
+      "title": "Yves Saint Laurent Men Y Eau De Parfum",
       "type": "Perfume",
       "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-03T13:17:04.503Z"
+    "collectedAt": "2025-10-03T18:46:44.204Z"
   },
   {
     "rank": 1,
+    "title": "Oura Ring’s new ceramic shades and portable charger might finally make me buy the damn thing",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/02/shopping/oura-ring-gets-a-glow-up-ceramic-shades-a-tiny-charger-more/",
+    "publishedAt": "2025-10-02T15:40:52Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-03T18:46:44.468Z"
+  },
+  {
+    "rank": 2,
+    "title": "What Are Ghost Lashes? How to Achieve the Trending Natural Eye Makeup Look",
+    "source": "Teen Vogue",
+    "url": "https://www.teenvogue.com/story/ghost-lashes-how-to",
+    "publishedAt": "2025-10-02T15:07:17Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-03T18:46:44.468Z"
+  },
+  {
+    "rank": 3,
+    "title": "Consumer lending’s future: When embedded finance meets smarter decisioning",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/event-info/580/consumer-lendings-future-when-embedded-finance-meets-smarter-decisioning",
+    "publishedAt": "2025-10-02T15:05:11Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-03T18:46:44.468Z"
+  },
+  {
+    "rank": 4,
+    "title": "Brand Impact Awards 2025: all the winners revealed",
+    "source": "Creative Bloq",
+    "url": "https://www.creativebloq.com/design/branding/brand-impact-awards-2025-winners-announced",
+    "publishedAt": "2025-10-02T14:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-03T18:46:44.468Z"
+  },
+  {
+    "rank": 5,
+    "title": "Go Viral: Unlock the Secret to 2025‘s Most Popular Pinterest Pins",
+    "source": "Webfx.com",
+    "url": "https://www.webfx.com/blog/social-media/most-popular-pinterest-pins/",
+    "publishedAt": "2025-10-02T13:54:59Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-03T18:46:44.468Z"
+  },
+  {
+    "rank": 6,
     "title": "The 100 Coolest Fonts for Designers in 2026",
     "source": "Weandthecolor.com",
     "url": "https://weandthecolor.com/the-100-coolest-fonts-for-designers-in-2026/205892",
     "publishedAt": "2025-10-02T11:00:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
+    "collectedAt": "2025-10-03T18:46:44.468Z"
   },
   {
-    "rank": 2,
+    "rank": 7,
     "title": "Erdene Announces Updated Resource for the Zuun Mod Molybdenum-Copper Deposit",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/02/3160230/0/en/Erdene-Announces-Updated-Resource-for-the-Zuun-Mod-Molybdenum-Copper-Deposit.html",
     "publishedAt": "2025-10-02T11:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
+    "collectedAt": "2025-10-03T18:46:44.468Z"
   },
   {
-    "rank": 3,
+    "rank": 8,
     "title": "WOW! A Look Behind Coach Viral Content Marketing Success",
     "source": "Skysociety.co",
     "url": "https://www.skysociety.co/blog/WOW!%20A%20Look%20Behind%20Coach%20Viral%20Content%20Marketing%20Success",
     "publishedAt": "2025-10-02T05:48:56Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
+    "collectedAt": "2025-10-03T18:46:44.468Z"
   },
   {
-    "rank": 4,
+    "rank": 9,
     "title": "TikTok is talking to brands like it’s a grocer now",
     "source": "Digiday",
     "url": "http://digiday.com/marketing/tiktok-is-talking-to-brands-like-its-a-grocer-now/",
     "publishedAt": "2025-10-02T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
+    "collectedAt": "2025-10-03T18:46:44.468Z"
   },
   {
-    "rank": 5,
+    "rank": 10,
     "title": "One Year Before Her Death, Jane Goodall Suggested People Do This 1 Thing",
     "source": "TODAY",
     "url": "https://www.today.com/news/news/jane-goodall-dies-message-2024-interview-rcna235041",
     "publishedAt": "2025-10-01T22:32:50Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
-  },
-  {
-    "rank": 6,
-    "title": "Solana, XRP ETFs May Be Just The Start: Why You Need To Brace For The Crypto ETF Avalanche",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/solana-xrp-etfs-may-just-213119492.html",
-    "publishedAt": "2025-10-01T21:31:19Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
-  },
-  {
-    "rank": 7,
-    "title": "Naadam’s Cult-Favorite Cashmere Sweater Can Now Be Yours for (Even) Less — With WWD’s Exclusive Code",
-    "source": "WWD",
-    "url": "http://wwd.com/shop/shop-fashion/naadam-the-original-cashmere-sweater-review-1238271610/",
-    "publishedAt": "2025-10-01T21:18:09Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
-  },
-  {
-    "rank": 8,
-    "title": "The Shape Up: The Best October Releases in Men's Grooming",
-    "source": "menshealth.com",
-    "url": "https://www.menshealth.com/grooming/g68135293/best-mens-grooming-releases-october/",
-    "publishedAt": "2025-10-01T20:42:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
-  },
-  {
-    "rank": 9,
-    "title": "15+ In-Demand Freelance Skills Every Creative Should Learn In 2025",
-    "source": "Millo.co",
-    "url": "https://millo.co/15-in-demand-freelance-skills-every-creative-should-learn-in-year",
-    "publishedAt": "2025-10-01T20:38:27Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
-  },
-  {
-    "rank": 10,
-    "title": "2 Great AI Stocks to Buy in October and Hold for 10 Years",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/2-great-ai-stocks-buy-203500206.html",
-    "publishedAt": "2025-10-01T20:35:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-03T13:17:04.715Z"
+    "collectedAt": "2025-10-03T18:46:44.468Z"
   }
 ]
