@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.385Z"
+    "collectedAt": "2025-10-04T06:44:46.248Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.385Z"
+    "collectedAt": "2025-10-04T06:44:46.248Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T06:42:12.959Z"
+    "collectedAt": "2025-10-04T06:44:46.305Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.ibtimes.com/emsense-reviews-consumer-reports-read-this-before-buying-emsense-ems-massager-3785364",
     "publishedAt": "2025-10-03T04:21:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.merca20.com/laredo-taco-company-celebrates-national-taco-day-check-out-the-deals/",
     "publishedAt": "2025-10-02T23:21:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.elitedaily.com/lifestyle/taylor-swift-life-of-a-showgirl-album-deals-uber-wendys",
     "publishedAt": "2025-10-02T21:19:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://www.elitedaily.com/lifestyle/how-much-it-costs-showgirl-miss-piggy-day-budget",
     "publishedAt": "2025-10-02T20:51:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://pagesix.com/2025/10/02/style/boho-fashion-trend-fall-2025-outfit-ideas/",
     "publishedAt": "2025-10-02T20:12:48Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://9to5mac.com/2025/10/02/rumor-replay-m5-macbook-pro-siri-app-apple-glasses-and-more/",
     "publishedAt": "2025-10-02T19:41:29Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://nypost.com/2025/10/02/shopping/oura-ring-gets-a-glow-up-ceramic-shades-a-tiny-charger-more/",
     "publishedAt": "2025-10-02T15:40:52Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://www.teenvogue.com/story/ghost-lashes-how-to",
     "publishedAt": "2025-10-02T15:07:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.finextra.com/event-info/580/consumer-lendings-future-when-embedded-finance-meets-smarter-decisioning",
     "publishedAt": "2025-10-02T15:05:11Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://www.creativebloq.com/design/branding/brand-impact-awards-2025-winners-announced",
     "publishedAt": "2025-10-02T14:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T06:42:13.066Z"
+    "collectedAt": "2025-10-04T06:44:46.575Z"
   }
 ]
