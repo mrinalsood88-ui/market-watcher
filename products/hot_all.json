@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.787Z"
+    "collectedAt": "2025-10-05T03:15:05.129Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.787Z"
+    "collectedAt": "2025-10-05T03:15:05.129Z"
   },
   {
     "rank": 1,
@@ -33,147 +33,147 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
+    "collectedAt": "2025-10-05T03:15:06.690Z"
   },
   {
     "rank": 2,
     "name": {
-      "q": "/g/11bwfw62z3",
-      "title": "Essentials of Organizational Behavior: An Evidence-Based Approach",
-      "type": "Book by Teresa Scandura",
-      "link": "https://trends.google.com/trends/explore?q=/g/11bwfw62z3",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
+      "q": "/g/11rxtwsnd7",
+      "title": "Stellar Blade",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11rxtwsnd7",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
+    "collectedAt": "2025-10-05T03:15:06.690Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11x95j771n",
-      "title": "Pop Mart Labubu THE MONSTERS Big Into Energy Series Vinyl Plush Blind Box",
-      "type": "Action figure",
-      "link": "https://trends.google.com/trends/explore?q=/g/11x95j771n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
-  },
-  {
-    "rank": 4,
-    "name": {
-      "q": "/g/11l2vdgyw7",
-      "title": "Garmin Vivoactive 5 Smartwatch",
-      "type": "Pedometer",
-      "link": "https://trends.google.com/trends/explore?q=/g/11l2vdgyw7",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
-  },
-  {
-    "rank": 5,
-    "name": {
       "q": "/g/11y3nx3k8c",
-      "title": "Yves Saint Laurent Men Y Eau De Parfum",
+      "title": "Yves Saint Laurent Y Eau De Parfum Men",
       "type": "Perfume",
       "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
+    "collectedAt": "2025-10-05T03:15:06.690Z"
+  },
+  {
+    "rank": 4,
+    "name": {
+      "q": "/g/11bxf39p9v",
+      "title": "Detroit: Become Human",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bxf39p9v",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-05T03:15:06.690Z"
+  },
+  {
+    "rank": 5,
+    "name": {
+      "q": "/g/11y4d3d2yb",
+      "title": "Dyson V15 Detect Absolute Cordless Vacuum",
+      "type": "Wet/dry vacuum",
+      "link": "https://trends.google.com/trends/explore?q=/g/11y4d3d2yb",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y4d3d2yb&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-05T03:15:06.690Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11q2m_3p_0",
-      "title": "Battlefield 2042",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11q2m_3p_0",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
+      "q": "/g/11k3tvfxlg",
+      "title": "Jean Paul Gaultier Le Male Le Parfum",
+      "type": "Product line",
+      "link": "https://trends.google.com/trends/explore?q=/g/11k3tvfxlg",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11k3tvfxlg&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-04T18:42:43.882Z"
+    "collectedAt": "2025-10-05T03:15:06.690Z"
   },
   {
     "rank": 1,
+    "title": "Here's How You Can Earn $100 In Passive Income By Investing In Hormel Foods Stock",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/heres-earn-100-passive-income-020105007.html",
+    "publishedAt": "2025-10-04T02:01:05Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-05T03:15:06.986Z"
+  },
+  {
+    "rank": 2,
+    "title": "Selena Gomez Reveals She Left Her Wedding 'A Little Earlier Than Most' in BTS Pics",
+    "source": "TODAY",
+    "url": "https://www.today.com/popculture/news/selena-gomez-wedding-day-bts-photos-rcna235563",
+    "publishedAt": "2025-10-04T01:35:16Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-05T03:15:06.987Z"
+  },
+  {
+    "rank": 3,
+    "title": "Over a pint, Prince William tells Eugene Levy: 'Change is on my agenda'",
+    "source": "National Post",
+    "url": "https://nationalpost.com/entertainment/over-a-pint-prince-william-tells-eugene-levy-change-is-on-my-agenda",
+    "publishedAt": "2025-10-03T18:49:28Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-05T03:15:06.987Z"
+  },
+  {
+    "rank": 4,
+    "title": "Trader Joe’s Joins List of Supermarket Recalls Over Listeria Concerns",
+    "source": "Men's Journal",
+    "url": "https://www.mensjournal.com/food/trader-joes-blackedn-chicken-pasta-recall-listeria-concerns",
+    "publishedAt": "2025-10-03T16:55:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-05T03:15:06.987Z"
+  },
+  {
+    "rank": 5,
     "title": "Connected Drug Delivery Devices Market Grows at 23.44% CAGR, Expected to Reach USD 61.08 billion by 2034",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/03/3161052/0/en/Connected-Drug-Delivery-Devices-Market-Grows-at-23-44-CAGR-Expected-to-Reach-USD-61-08-billion-by-2034.html",
     "publishedAt": "2025-10-03T15:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
+    "collectedAt": "2025-10-05T03:15:06.987Z"
   },
   {
-    "rank": 2,
+    "rank": 6,
     "title": "Courteney Cox Hosts a Weekly Sunday Night Dinner. Who's on the Guest List?",
     "source": "TODAY",
     "url": "https://www.today.com/popculture/courteney-cox-sunday-dinner-parties-rcna235236",
     "publishedAt": "2025-10-03T14:55:32Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
+    "collectedAt": "2025-10-05T03:15:06.987Z"
   },
   {
-    "rank": 3,
+    "rank": 7,
     "title": "Meet Costco's newest shoppers — young people on the hunt for deals and trending products",
     "source": "Biztoc.com",
     "url": "https://biztoc.com/x/611777a0502bc72e",
     "publishedAt": "2025-10-03T08:11:55Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
+    "collectedAt": "2025-10-05T03:15:06.987Z"
   },
   {
-    "rank": 4,
+    "rank": 8,
     "title": "Meet Costco's newest shoppers — young people on the hunt for deals and trending products",
     "source": "CBC News",
     "url": "https://www.cbc.ca/news/business/costco-young-shoppers-1.7649560",
     "publishedAt": "2025-10-03T08:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
+    "collectedAt": "2025-10-05T03:15:06.987Z"
   },
   {
-    "rank": 5,
+    "rank": 9,
     "title": "EMSense Reviews [CONSUMER REPORTS]: Read This Before Buying EMSense EMS Massager",
     "source": "International Business Times",
     "url": "https://www.ibtimes.com/emsense-reviews-consumer-reports-read-this-before-buying-emsense-ems-massager-3785364",
     "publishedAt": "2025-10-03T04:21:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
-  },
-  {
-    "rank": 6,
-    "title": "Laredo Taco Company celebrates National Taco Day! Check out the deals",
-    "source": "Merca20.com",
-    "url": "https://www.merca20.com/laredo-taco-company-celebrates-national-taco-day-check-out-the-deals/",
-    "publishedAt": "2025-10-02T23:21:04Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
-  },
-  {
-    "rank": 7,
-    "title": "Celebrate 'Life Of A Showgirl' With Deals From Uber, Wendy's, & More",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/lifestyle/taylor-swift-life-of-a-showgirl-album-deals-uber-wendys",
-    "publishedAt": "2025-10-02T21:19:58Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
-  },
-  {
-    "rank": 8,
-    "title": "How Much The Life Of A Showgirl Costs, According To Miss Piggy",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/lifestyle/how-much-it-costs-showgirl-miss-piggy-day-budget",
-    "publishedAt": "2025-10-02T20:51:13Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
-  },
-  {
-    "rank": 9,
-    "title": "The boho trend will be everywhere this fall — here’s how to wear it",
-    "source": "Page Six",
-    "url": "https://pagesix.com/2025/10/02/style/boho-fashion-trend-fall-2025-outfit-ideas/",
-    "publishedAt": "2025-10-02T20:12:48Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-04T18:42:44.107Z"
+    "collectedAt": "2025-10-05T03:15:06.987Z"
   }
 ]
