@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-05T18:40:40.769Z"
+    "collectedAt": "2025-10-05T18:42:02.347Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-05T18:40:40.769Z"
+    "collectedAt": "2025-10-05T18:42:02.347Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwfw62z3&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x95j771n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11l2vdgyw7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11q2m_3p_0&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-05T18:40:41.322Z"
+    "collectedAt": "2025-10-05T18:42:02.419Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/paypals-pyusd-stablecoin-tops-1-154543932.html",
     "publishedAt": "2025-10-04T15:45:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://finance.yahoo.com/news/china-just-hit-brakes-hong-134730530.html",
     "publishedAt": "2025-10-04T13:47:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.windowscentral.com/gaming/game-over-xbox-game-pass-the-one-size-fits-all-plan-has-destroyed-what-made-it-great",
     "publishedAt": "2025-10-04T12:33:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://nypost.com/2025/10/04/shopping/hate-cardio-this-cordless-jump-is-just-10-before-prime-day/",
     "publishedAt": "2025-10-04T12:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://indianexpress.com/article/lifestyle/anshula-kapoor-unsexy-essential-hygiene-habits-10267908/",
     "publishedAt": "2025-10-04T04:00:03Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/heres-earn-100-passive-income-020105007.html",
     "publishedAt": "2025-10-04T02:01:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.today.com/popculture/news/selena-gomez-wedding-day-bts-photos-rcna235563",
     "publishedAt": "2025-10-04T01:35:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://nationalpost.com/entertainment/over-a-pint-prince-william-tells-eugene-levy-change-is-on-my-agenda",
     "publishedAt": "2025-10-03T18:49:28Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   },
   {
     "rank": 9,
@@ -174,6 +174,6 @@
     "url": "https://www.mensjournal.com/food/trader-joes-blackedn-chicken-pasta-recall-listeria-concerns",
     "publishedAt": "2025-10-03T16:55:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-05T18:40:41.567Z"
+    "collectedAt": "2025-10-05T18:42:02.696Z"
   }
 ]
