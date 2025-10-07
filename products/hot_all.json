@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.383Z"
+    "collectedAt": "2025-10-07T18:49:15.618Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.383Z"
+    "collectedAt": "2025-10-07T18:49:15.618Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 5,
@@ -81,108 +81,108 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11yb4wkpr_",
-      "title": "Delina Parfums De Marly",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
+      "q": "/g/11lys64h6n",
+      "title": "La Roche Posay Cicaplast Baume B5+",
+      "type": "Topic",
+      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T13:37:45.480Z"
+    "collectedAt": "2025-10-07T18:49:16.599Z"
   },
   {
     "rank": 1,
+    "title": "Shop Spellbinding Disney Halloween Items Inspired by Your Favorite Witches",
+    "source": "Disneyparksblog.com",
+    "url": "https://disneyparksblog.com/products/shop-disney-halloween-products-inspired-by-disney-witches/",
+    "publishedAt": "2025-10-06T18:00:30Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-07T18:49:16.857Z"
+  },
+  {
+    "rank": 2,
+    "title": "Amazon Canada Prime Big Deal Days October 7-10 — Save Up to 70% on Tech, Home & More",
+    "source": "redflagdeals.com",
+    "url": "https://www.redflagdeals.com/deal/home-garden/amazon-canada-prime-big-deal-days/",
+    "publishedAt": "2025-10-06T14:37:01Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-07T18:49:16.857Z"
+  },
+  {
+    "rank": 3,
+    "title": "The serine protease HtrA regulates Group B Streptococcus virulence and affects the host response to infection",
+    "source": "Plos.org",
+    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013562",
+    "publishedAt": "2025-10-06T14:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-07T18:49:16.857Z"
+  },
+  {
+    "rank": 4,
     "title": "Sui price consolidates above $3.50 as inflows tick up",
     "source": "Coinjournal.net",
     "url": "https://coinjournal.net/news/sui-price-consolidates-above-3-50-as-inflows-tick-up/",
     "publishedAt": "2025-10-06T13:25:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 2,
+    "rank": 5,
     "title": "Positano Sunday Font Trio by Ivan Rosenberg",
     "source": "Weandthecolor.com",
     "url": "https://weandthecolor.com/positano-sunday-font-trio-ivan-rosenberg/206091",
     "publishedAt": "2025-10-06T12:59:37Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 3,
+    "rank": 6,
     "title": "The United States promotes an alliance with Argentina in artificial intelligence, nuclear energy, and critical minerals to counter China’s influence in the region",
     "source": "Gatewayhispanic.com",
     "url": "https://gatewayhispanic.com/2025/10/united-states-promotes-alliance-argentina-artificial-intelligence-nuclear/",
     "publishedAt": "2025-10-06T12:15:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 4,
+    "rank": 7,
     "title": "Study Reveals America's Most Searched Slang Words 2025 / OHIO; mayonnaise",
     "source": "Upenn.edu",
     "url": "https://languagelog.ldc.upenn.edu/nll/?p=71462",
     "publishedAt": "2025-10-06T11:57:48Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 5,
+    "rank": 8,
     "title": "The 60 Smartest, Cheapest Things For Women You Never Knew Existed",
     "source": "Elite Daily",
     "url": "https://www.elitedaily.com/shopping/the-smartest-cheapest-things-for-women-you-never-knew-existed",
     "publishedAt": "2025-10-06T00:00:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 6,
+    "rank": 9,
     "title": "MandalaChain Presale Joins Global Crypto Presale Lists — Investor Buzz Rising",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/05/3161346/0/en/MandalaChain-Presale-Joins-Global-Crypto-Presale-Lists-Investor-Buzz-Rising.html",
     "publishedAt": "2025-10-05T17:55:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   },
   {
-    "rank": 7,
+    "rank": 10,
     "title": "Recommender Systems: The Silent Architects of Modern Marketing",
     "source": "Linkedin.com",
     "url": "https://www.linkedin.com/pulse/recommender-systems-silent-architects-modern-manish-meshram-46tef",
     "publishedAt": "2025-10-05T14:52:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
-  },
-  {
-    "rank": 8,
-    "title": "How To Put $100 In Your Retirement Fund Each Month With Sysco Stock",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/put-100-retirement-fund-month-120114646.html",
-    "publishedAt": "2025-10-05T12:01:14Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
-  },
-  {
-    "rank": 9,
-    "title": "Flat white or flatlining? Costa needs a double shot of innovation",
-    "source": "Creative Bloq",
-    "url": "https://www.creativebloq.com/design/branding/flat-white-or-flatlining-costa-needs-a-double-shot-of-innovation",
-    "publishedAt": "2025-10-05T11:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
-  },
-  {
-    "rank": 10,
-    "title": "'The Baby Could Come Any Day,' Bloomberg Analyst Says Litecoin, Solana And XRP ETF Approval Odds Now At 100%",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/baby-could-come-day-bloomberg-193204618.html",
-    "publishedAt": "2025-10-04T19:32:04Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T13:37:45.723Z"
+    "collectedAt": "2025-10-07T18:49:16.857Z"
   }
 ]
