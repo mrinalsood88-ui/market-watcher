@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.123Z"
+    "collectedAt": "2025-10-07T06:51:35.857Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.123Z"
+    "collectedAt": "2025-10-07T06:51:35.857Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-07T06:49:36.946Z"
+    "collectedAt": "2025-10-07T06:51:35.938Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.elitedaily.com/shopping/the-smartest-cheapest-things-for-women-you-never-knew-existed",
     "publishedAt": "2025-10-06T00:00:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/05/3161346/0/en/MandalaChain-Presale-Joins-Global-Crypto-Presale-Lists-Investor-Buzz-Rising.html",
     "publishedAt": "2025-10-05T17:55:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.linkedin.com/pulse/recommender-systems-silent-architects-modern-manish-meshram-46tef",
     "publishedAt": "2025-10-05T14:52:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/put-100-retirement-fund-month-120114646.html",
     "publishedAt": "2025-10-05T12:01:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.creativebloq.com/design/branding/flat-white-or-flatlining-costa-needs-a-double-shot-of-innovation",
     "publishedAt": "2025-10-05T11:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/baby-could-come-day-bloomberg-193204618.html",
     "publishedAt": "2025-10-04T19:32:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://finance.yahoo.com/news/paypals-pyusd-stablecoin-tops-1-154543932.html",
     "publishedAt": "2025-10-04T15:45:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/china-just-hit-brakes-hong-134730530.html",
     "publishedAt": "2025-10-04T13:47:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.windowscentral.com/gaming/game-over-xbox-game-pass-the-one-size-fits-all-plan-has-destroyed-what-made-it-great",
     "publishedAt": "2025-10-04T12:33:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://nypost.com/2025/10/04/shopping/hate-cardio-this-cordless-jump-is-just-10-before-prime-day/",
     "publishedAt": "2025-10-04T12:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-07T06:49:37.200Z"
+    "collectedAt": "2025-10-07T06:51:36.187Z"
   }
 ]
