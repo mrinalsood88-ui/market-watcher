@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-08T06:51:52.981Z"
+    "collectedAt": "2025-10-08T13:42:19.273Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-08T06:51:52.981Z"
+    "collectedAt": "2025-10-08T13:42:19.273Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 2,
@@ -45,19 +45,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11x5hywf31",
-      "title": "Apple iPhone 16 Plus",
+      "q": "/g/11vsgfk1ln",
+      "title": "Restored Apple iPhone 14 Pro",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 4,
@@ -69,120 +69,120 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11m77dgpd2",
-      "title": "Mario Kart World",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11m77dgpd2",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
+      "q": "/g/11lys64h6n",
+      "title": "La Roche Posay Cicaplast Baume B5+",
+      "type": "Shoe insert",
+      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11vsgfk1ln",
-      "title": "ENDO LEDスポットライト 配線ダクトレール用 電球色 3000K 黒 非調光 CDM-TC70W相当 狭角 ERS5928BA (ランプ付)",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
+      "q": "/g/11yb4wkpr_",
+      "title": "Delina Parfums De Marly",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T06:51:53.079Z"
+    "collectedAt": "2025-10-08T13:42:19.312Z"
   },
   {
     "rank": 1,
-    "title": "Future Fuels Unlocks Historic Geophysical Survey Data; Marketing Update",
-    "source": "Morningstar.com",
-    "url": "https://www.morningstar.com/news/accesswire/1083752msn/future-fuels-unlocks-historic-geophysical-survey-data-marketing-update",
-    "publishedAt": "2025-10-07T02:13:17Z",
+    "title": "A red light helmet that regrows hair? Users say it works, and it’s $500 off for Prime Day",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/07/shopping/save-500-on-a-red-light-helmet-that-regrows-hair-for-prime-day/",
+    "publishedAt": "2025-10-07T13:28:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 2,
-    "title": "Shop Spellbinding Disney Halloween Items Inspired by Your Favorite Witches",
-    "source": "Disneyparksblog.com",
-    "url": "https://disneyparksblog.com/products/shop-disney-halloween-products-inspired-by-disney-witches/",
-    "publishedAt": "2025-10-06T18:00:30Z",
+    "title": "10 Ways Your Credit Card Can Be Your Best Financial Friend",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/10-ways-credit-card-best-132219629.html",
+    "publishedAt": "2025-10-07T13:22:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 3,
-    "title": "Amazon Canada Prime Big Deal Days October 7-10 — Save Up to 70% on Tech, Home & More",
-    "source": "redflagdeals.com",
-    "url": "https://www.redflagdeals.com/deal/home-garden/amazon-canada-prime-big-deal-days/",
-    "publishedAt": "2025-10-06T14:37:01Z",
+    "title": "Our vacuum pro says these are the best Prime Day robot vacuum deals — and some are the lowest price they've ever been",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/guides/deals/prime-day-robot-vacuum-deals-october-2025",
+    "publishedAt": "2025-10-07T13:15:21Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 4,
-    "title": "The serine protease HtrA regulates Group B Streptococcus virulence and affects the host response to infection",
-    "source": "Plos.org",
-    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013562",
-    "publishedAt": "2025-10-06T14:00:00Z",
+    "title": "These Kylie Jenner-Loved Medicube October Prime Day Deals Are 50% Off",
+    "source": "Eonline.com",
+    "url": "https://www.eonline.com/news/1423430/kylie-jenner-loved-medicube-october-prime-day-deals-2025",
+    "publishedAt": "2025-10-07T13:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 5,
-    "title": "Sui price consolidates above $3.50 as inflows tick up",
-    "source": "Coinjournal.net",
-    "url": "https://coinjournal.net/news/sui-price-consolidates-above-3-50-as-inflows-tick-up/",
-    "publishedAt": "2025-10-06T13:25:08Z",
+    "title": "BI 101: Self-Service, AI, and Predictive Analytics Trends for 2026",
+    "source": "Cloudtweaks.com",
+    "url": "https://cloudtweaks.com/2025/10/bi-101-self-service-analytics-trends/",
+    "publishedAt": "2025-10-07T11:29:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 6,
-    "title": "Positano Sunday Font Trio by Ivan Rosenberg",
-    "source": "Weandthecolor.com",
-    "url": "https://weandthecolor.com/positano-sunday-font-trio-ivan-rosenberg/206091",
-    "publishedAt": "2025-10-06T12:59:37Z",
+    "title": "Can A Dealership Sell You A Car With An Open Recall?",
+    "source": "Jalopnik",
+    "url": "https://www.jalopnik.com/1986038/can-a-dealership-sell-car-with-open-recall/",
+    "publishedAt": "2025-10-07T11:25:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 7,
-    "title": "The United States promotes an alliance with Argentina in artificial intelligence, nuclear energy, and critical minerals to counter China’s influence in the region",
-    "source": "Gatewayhispanic.com",
-    "url": "https://gatewayhispanic.com/2025/10/united-states-promotes-alliance-argentina-artificial-intelligence-nuclear/",
-    "publishedAt": "2025-10-06T12:15:00Z",
+    "title": "Alix Earle’s Fave Skincare Product Is on Sale for October Prime Day",
+    "source": "Eonline.com",
+    "url": "https://www.eonline.com/news/1423444/alix-earles-favorite-skincare-is-on-sale-for-october-prime-day-2025",
+    "publishedAt": "2025-10-07T10:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 8,
-    "title": "Study Reveals America's Most Searched Slang Words 2025 / OHIO; mayonnaise",
-    "source": "Upenn.edu",
-    "url": "https://languagelog.ldc.upenn.edu/nll/?p=71462",
-    "publishedAt": "2025-10-06T11:57:48Z",
+    "title": "I found Prime Day boot deals on trending fall styles from kitten heels to rain boots",
+    "source": "New York Post",
+    "url": "https://nypost.com/shopping/amazon-prime-big-deal-days-boots-deals-2025/",
+    "publishedAt": "2025-10-07T10:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 9,
-    "title": "The 60 Smartest, Cheapest Things For Women You Never Knew Existed",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/shopping/the-smartest-cheapest-things-for-women-you-never-knew-existed",
-    "publishedAt": "2025-10-06T00:00:24Z",
+    "title": "Kindle Unlimited Deal: Get 3 Months Free With This Prime Day Sale",
+    "source": "Decider",
+    "url": "https://decider.com/2025/10/07/kindle-unlimited-prime-day-deal-sign-up-for-3-months-free/",
+    "publishedAt": "2025-10-07T09:10:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   },
   {
     "rank": 10,
-    "title": "MandalaChain Presale Joins Global Crypto Presale Lists — Investor Buzz Rising",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/05/3161346/0/en/MandalaChain-Presale-Joins-Global-Crypto-Presale-Lists-Investor-Buzz-Rising.html",
-    "publishedAt": "2025-10-05T17:55:00Z",
+    "title": "Hack your holiday hosting with a private chef’s top 30+ Prime Day kitchen deals",
+    "source": "New York Post",
+    "url": "https://nypost.com/shopping/best-amazon-prime-big-deal-days-kitchen-deals-2025/",
+    "publishedAt": "2025-10-07T07:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T06:51:53.341Z"
+    "collectedAt": "2025-10-08T13:42:19.630Z"
   }
 ]
