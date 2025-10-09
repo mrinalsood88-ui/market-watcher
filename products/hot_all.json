@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.174Z"
+    "collectedAt": "2025-10-09T03:07:51.841Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.175Z"
+    "collectedAt": "2025-10-09T03:07:51.841Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 2,
@@ -45,19 +45,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11vsgfk1ln",
-      "title": "Restored Apple iPhone 14 Pro",
+      "q": "/g/11x5hywf31",
+      "title": "Apple iPhone 16 Plus",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 4,
@@ -69,120 +69,120 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
+      "q": "/g/11m77dgpd2",
+      "title": "Mario Kart World",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11m77dgpd2",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11yb4wkpr_",
-      "title": "Delina Parfums De Marly",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
+      "q": "/g/11vsgfk1ln",
+      "title": "ENDO LEDスポットライト 配線ダクトレール用 電球色 3000K 黒 非調光 CDM-TC70W相当 狭角 ERS5928BA (ランプ付)",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-08T18:56:51.200Z"
+    "collectedAt": "2025-10-09T03:07:53.501Z"
   },
   {
     "rank": 1,
-    "title": "Irrespective of Judicial Ruling, Trump Has Options to Maintain Tariffs",
-    "source": "Thegatewaypundit.com",
-    "url": "https://www.thegatewaypundit.com/2025/10/irrespective-judicial-ruling-trump-has-options-maintain-tariffs/",
-    "publishedAt": "2025-10-07T18:40:22Z",
+    "title": "Shop the trending deals taking over Prime Big Deal Days",
+    "source": "Boston Herald",
+    "url": "https://www.bostonherald.com/2025/10/07/shop-the-trending-deals-taking-over-prime-big-deal-days/",
+    "publishedAt": "2025-10-08T02:38:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 2,
-    "title": "See Your Site Through AI: WordPress.com Now Supports MCP",
-    "source": "Wordpress.com",
-    "url": "https://wordpress.com/blog/2025/10/07/mcp/",
-    "publishedAt": "2025-10-07T18:40:00Z",
+    "title": "Trump Administration Now Holds Stakes In 5 Public Companies: Here's A List—INTC, MP, LAC And More",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/trump-administration-now-holds-stakes-023008085.html",
+    "publishedAt": "2025-10-08T02:30:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 3,
-    "title": "Prime Day Deal Alert: Kathy Hilton’s Neck Cream That 'Actually Works'",
-    "source": "Eonline.com",
-    "url": "https://www.eonline.com/news/1423474/kathy-hiltons-favorite-neck-cream-is-on-sale-for-october-prime-day-2025",
-    "publishedAt": "2025-10-07T18:30:00Z",
+    "title": "Interactive ad: ALDI: ALDIfy",
+    "source": "Bestadsontv.com",
+    "url": "https://bestadsontv.com/ad/185655/ALDI-ALDIfy",
+    "publishedAt": "2025-10-07T23:24:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 4,
-    "title": "50,000 units of Trump’s staple COVID supplement sold this month — It’s just $7 on Prime Day",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/10/07/health/trumps-go-to-covid-supplement-is-just-7-for-october-prime-day/",
-    "publishedAt": "2025-10-07T17:37:00Z",
+    "title": "Dolly Parton’s Sister Begs Fans to Pray for Her Health",
+    "source": "Daily Beast",
+    "url": "https://www.thedailybeast.com/dolly-partons-sister-begs-fans-to-pray-for-her-health/",
+    "publishedAt": "2025-10-07T23:24:28Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 5,
-    "title": "These are the 25 best Prime Day deals I've found for 50% off or more, after searching all morning",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/guides/deals/prime-day-deals-50-off-or-more-october-2025",
-    "publishedAt": "2025-10-07T17:30:41Z",
+    "title": "QVC Has Rare MacKenzie-Childs Fall Decor I Can’t Find Anywhere Else",
+    "source": "Apartment Therapy",
+    "url": "https://www.apartmenttherapy.com/qvc-mackenzie-childs-toile-pumpkin-2025-37511600",
+    "publishedAt": "2025-10-07T23:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 6,
-    "title": "Something Weird Is Happening With Halloween Chocolate",
-    "source": "The Atlantic",
-    "url": "https://www.theatlantic.com/health/2025/10/chocolate-shortage-candy-flavors-halloween/684476/",
-    "publishedAt": "2025-10-07T16:14:48Z",
+    "title": "All the Amazon Prime Day Beauty Deals — From Shark, Sol de Janeiro, Supergoop, and More — That Are Actually Worth Your Time",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-beauty/amazon-prime-big-deal-days-beauty-deals-sales-1238289246/",
+    "publishedAt": "2025-10-07T22:08:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 7,
-    "title": "COSRX Snail Mucin Drops to $12 for October Prime Day",
+    "title": "This Cream Is 'A Mini Facelift in a Tube' & It’s on Sale for Prime Day",
     "source": "Eonline.com",
-    "url": "https://www.eonline.com/news/1423438/prime-day-2025-deal-k-beauty-favorite-cosrx-snail-mucin-drops-to-s12",
-    "publishedAt": "2025-10-07T16:00:00Z",
+    "url": "https://www.eonline.com/news/1423503/october-prime-day-2025-deal-viral-peter-thomas-roth-face-cream-is-30-off",
+    "publishedAt": "2025-10-07T22:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 8,
-    "title": "As a home editor, I sorted through hundreds of Prime Day furniture deals. Here are the best savings on sofas, beds, rugs, and more.",
-    "source": "Business Insider",
-    "url": "https://www.businessinsider.com/guides/deals/prime-day-furniture-deals-october-2025",
-    "publishedAt": "2025-10-07T15:31:00Z",
+    "title": "Stanley Cup Just Dropped to $24 for October Prime Day",
+    "source": "Eonline.com",
+    "url": "https://www.eonline.com/news/1423519/october-prime-day-2025-has-s24-stanley-cups",
+    "publishedAt": "2025-10-07T21:45:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 9,
-    "title": "The SEC Just Unleashed A Product Storm That Could Add 3,000 New ETFs To Your Watchlist—Here's What's Coming",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/sec-just-unleashed-product-storm-151601331.html",
-    "publishedAt": "2025-10-07T15:16:01Z",
+    "title": "Uptober in Full Swing as Crypto Market Tops $4.3 Trillion: Here's What to Expect",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/343319/uptober-full-swing-crypto-market-what-to-expect",
+    "publishedAt": "2025-10-07T21:21:11Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   },
   {
     "rank": 10,
-    "title": "Holiday ecommerce to hit record $253 billion – here’s what’s driving it",
-    "source": "Search Engine Land",
-    "url": "https://searchengineland.com/holiday-ecommerce-to-hit-record-253-billion-heres-whats-driving-it-463057",
-    "publishedAt": "2025-10-07T15:03:34Z",
+    "title": "GLPro Blood Sugar Support Formula Gains Recognition as Gut-Metabolic Axis Research Surges in Modern Wellness Conversations",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/07/3162992/0/en/GLPro-Blood-Sugar-Support-Formula-Gains-Recognition-as-Gut-Metabolic-Axis-Research-Surges-in-Modern-Wellness-Conversations.html",
+    "publishedAt": "2025-10-07T21:13:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-08T18:56:51.495Z"
+    "collectedAt": "2025-10-09T03:07:53.773Z"
   }
 ]
