@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.536Z"
+    "collectedAt": "2025-10-09T18:49:56.775Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.536Z"
+    "collectedAt": "2025-10-09T18:49:56.777Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
+    "collectedAt": "2025-10-09T18:49:56.813Z"
   },
   {
     "rank": 2,
@@ -45,10 +45,22 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
+    "collectedAt": "2025-10-09T18:49:56.813Z"
   },
   {
     "rank": 3,
+    "name": {
+      "q": "/g/11vsgfk1ln",
+      "title": "Restored Apple iPhone 14 Pro",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-09T18:49:56.813Z"
+  },
+  {
+    "rank": 4,
     "name": {
       "q": "/g/11rxtwsnd7",
       "title": "Stellar Blade",
@@ -57,132 +69,120 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
+    "collectedAt": "2025-10-09T18:49:56.813Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
+    "name": {
+      "q": "/g/11m77dgpd2",
+      "title": "Mario Kart World",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11m77dgpd2",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-09T18:49:56.813Z"
+  },
+  {
+    "rank": 6,
     "name": {
       "q": "/g/11lys64h6n",
       "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Shoe insert",
+      "type": "Topic",
       "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
-  },
-  {
-    "rank": 5,
-    "name": {
-      "q": "/g/11yb4wkpr_",
-      "title": "Delina Parfums De Marly",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
-  },
-  {
-    "rank": 6,
-    "name": {
-      "q": "/g/11y3nx3k8c",
-      "title": "Yves Saint Laurent Y Eau De Parfum Men",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-09T13:38:49.623Z"
+    "collectedAt": "2025-10-09T18:49:56.813Z"
   },
   {
     "rank": 1,
-    "title": "Analyst Says Concerns About NVIDIA (NVDA) ‘Circle of CapEx Spending’ Are Not ‘Accurate’",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/analyst-says-concerns-nvidia-nvda-130537234.html",
-    "publishedAt": "2025-10-08T13:05:37Z",
+    "title": "The absolute best Madewell Prime Day deals, from Katie Holmes’ bag to classic jeans",
+    "source": "Page Six",
+    "url": "https://pagesix.com/2025/10/08/style/the-best-madewell-prime-day-deals-from-katie-holmes-bag-to-classic-jeans/",
+    "publishedAt": "2025-10-08T18:42:54Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 2,
-    "title": "Analyst Says End of EV Tax Credits Positive for Tesla (TSLA) Amid ‘Catch-22’ Of Competitors",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/analyst-says-end-ev-tax-125553408.html",
-    "publishedAt": "2025-10-08T12:55:53Z",
+    "title": "Don't hit snooze on this deal: The Hatch Restore helped me get into a better sleep routine, and it's $30 off for Prime Day",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/guides/deals/prime-day-hatch-restore-sunrise-alarm-clock-deal-2025-10-08",
+    "publishedAt": "2025-10-08T18:32:50Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 3,
-    "title": "GREEN ARMY? Pentagon to Force Millions of Plant-Based Rations on U.S. Troops Beginning in 2027",
-    "source": "Thegatewaypundit.com",
-    "url": "https://www.thegatewaypundit.com/2025/10/green-army-pentagon-force-millions-plant-based-rations/",
-    "publishedAt": "2025-10-08T12:45:15Z",
+    "title": "RFK Jr. wants you in a wearable— Dodge tech prices with Prime deals and hack your health now",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/08/health/rfk-wants-you-in-a-wearable-save-100-on-prime-day-smartwatches/",
+    "publishedAt": "2025-10-08T18:11:31Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 4,
-    "title": "Obagi Medical Launches Nu-Cil® BioStim™ Scalp Serum",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/08/3163253/0/en/Obagi-Medical-Launches-Nu-Cil-BioStim-Scalp-Serum.html",
-    "publishedAt": "2025-10-08T12:00:00Z",
+    "title": "How to Use LinkedIn: A guide for marketers, brands and teams",
+    "source": "Sproutsocial.com",
+    "url": "https://sproutsocial.com/insights/how-to-use-linkedin/",
+    "publishedAt": "2025-10-08T17:50:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 5,
-    "title": "These Are Whole Foods Market’s Top Food And Beverage Trends For 2026",
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/claudiaalarcon/2025/10/08/these-are-whole-foods-markets-top-food-and-beverage-trends-for-2026/",
-    "publishedAt": "2025-10-08T11:30:17Z",
+    "title": "Everyone in Hollywood is Talking About 'Verticals'...But What Are They?",
+    "source": "Nofilmschool.com",
+    "url": "https://nofilmschool.com/what-are-verticals",
+    "publishedAt": "2025-10-08T17:34:40Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 6,
-    "title": "Nordstrom is having its own huge sale during Prime Day: Save on Béis, Ray-Ban and more star staples",
-    "source": "Page Six",
-    "url": "https://pagesix.com/style/nordstrom-competing-amazon-prime-day-sale-october-2025/",
-    "publishedAt": "2025-10-08T11:20:40Z",
+    "title": "October Prime Day SPF Deals: Vacation, CeraVe, Paula's Choice+",
+    "source": "Eonline.com",
+    "url": "https://www.eonline.com/news/1423498/best-october-prime-day-2025-sunscreen-deals-cerave-paulas-choice-more",
+    "publishedAt": "2025-10-08T17:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 7,
-    "title": "The Truth Behind Darkseid in The Daily LITG, 8th of October 2025",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/the-truth-behind-darkseid-in-the-daily-litg-8th-of-october-2025/",
-    "publishedAt": "2025-10-08T08:13:05Z",
+    "title": "Make a Living by Working Just 20 Hours a Week — Financial Expert Shares Her Method",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/just-20-hours-week-real-115705020.html",
+    "publishedAt": "2025-10-08T16:57:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 8,
-    "title": "USDA warns about possible Listeria contamination in Blue Apron, Marley Spoon meals",
-    "source": "WSB Atlanta",
-    "url": "https://www.wsbtv.com/news/national/usda-warns-about-possible-listeria-contamination-blue-apron-marley-spoon-meals/AXCB6ZGM65B6BBAW5CPYVNH3TY/",
-    "publishedAt": "2025-10-08T06:23:45Z",
+    "title": "Get TikTok-Loved ‘Botox in a Bottle’ Eye Cream for $18 at Prime Day",
+    "source": "Eonline.com",
+    "url": "https://www.eonline.com/news/1423546/prime-day-2025-beauty-deal-tiktok-viral-lilyana-naturals-eye-cream-is-s19",
+    "publishedAt": "2025-10-08T16:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 9,
-    "title": "Can’t Sleep? These Prime Day Deals Are a Dream Come True",
-    "source": "Eonline.com",
-    "url": "https://www.eonline.com/news/1423392/best-october-amazon-prime-day-2025-deals-for-people-who-cant-sleep",
-    "publishedAt": "2025-10-08T04:00:00Z",
+    "title": "Organic frozen spinach recalled due to potential listeria contamination",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/organic-frozen-spinach-recall-listeria-sno-pac-foods/",
+    "publishedAt": "2025-10-08T15:31:32Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   },
   {
     "rank": 10,
-    "title": "Shop the trending deals taking over Prime Big Deal Days",
-    "source": "Boston Herald",
-    "url": "https://www.bostonherald.com/2025/10/07/shop-the-trending-deals-taking-over-prime-big-deal-days/",
-    "publishedAt": "2025-10-08T02:38:10Z",
+    "title": "Should You Buy Pfizer (PFE) Before a Breakout Begins?",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/buy-pfizer-pfe-breakout-begins-152835315.html",
+    "publishedAt": "2025-10-08T15:28:35Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-09T13:38:50.001Z"
+    "collectedAt": "2025-10-09T18:49:57.082Z"
   }
 ]
