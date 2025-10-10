@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-10T18:47:14.174Z"
+    "collectedAt": "2025-10-10T18:53:13.269Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-10T18:47:14.174Z"
+    "collectedAt": "2025-10-10T18:53:13.269Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T18:47:15.225Z"
+    "collectedAt": "2025-10-10T18:53:13.295Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/09/3164503/0/en/ProDentim-Formulation-Addresses-Emerging-Research-on-Oral-Microbiome-Health-and-Probiotic-Supplementation.html",
     "publishedAt": "2025-10-09T18:31:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.546Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://pagesix.com/2025/10/09/style/taylor-swift-hoka-sneakers-are-on-sale-for-20-off/",
     "publishedAt": "2025-10-09T17:56:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "http://wwd.com/shop/shop-fashion/nordstrom-fall-savings-event-shop-best-fashion-deals-1238292200/",
     "publishedAt": "2025-10-09T17:45:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://www.today.com/health/recall/frozen-spinach-recall-sno-pac-del-mar-rcna236672",
     "publishedAt": "2025-10-09T16:55:52Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/klarnas-bnpl-debit-card-got-151607802.html",
     "publishedAt": "2025-10-09T15:16:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.finextra.com/event-info/580/on-demand--consumer-lendings-future-when-embedded-finance-meets-smarter-decisioning",
     "publishedAt": "2025-10-09T15:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://nypost.com/2025/10/09/shopping/these-viral-lymphatic-drainage-brushes-are-just-6-post-prime-day/",
     "publishedAt": "2025-10-09T14:34:39Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://socialnomics.net/2025/10/09/5-proven-strategies-for-improving-your-instagram-story-reach/",
     "publishedAt": "2025-10-09T13:00:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.factcheck.org/2025/10/bidens-final-numbers/",
     "publishedAt": "2025-10-09T12:42:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.469Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://www.finextra.com/blogposting/29540/what-is-hot-or-not-with-fintech-media",
     "publishedAt": "2025-10-09T12:14:09Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T18:47:15.470Z"
+    "collectedAt": "2025-10-10T18:53:13.547Z"
   }
 ]
