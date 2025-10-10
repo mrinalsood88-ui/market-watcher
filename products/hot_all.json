@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-10T13:40:02.990Z"
+    "collectedAt": "2025-10-10T18:47:14.174Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-10T13:40:02.990Z"
+    "collectedAt": "2025-10-10T18:47:14.174Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
+    "collectedAt": "2025-10-10T18:47:15.225Z"
   },
   {
     "rank": 2,
@@ -45,22 +45,10 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
+    "collectedAt": "2025-10-10T18:47:15.225Z"
   },
   {
     "rank": 3,
-    "name": {
-      "q": "/g/11x5hywf31",
-      "title": "Apple iPhone 16 Plus",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
-  },
-  {
-    "rank": 4,
     "name": {
       "q": "/g/11rxtwsnd7",
       "title": "Stellar Blade",
@@ -69,111 +57,132 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
+    "collectedAt": "2025-10-10T18:47:15.225Z"
+  },
+  {
+    "rank": 4,
+    "name": {
+      "q": "/g/11lys64h6n",
+      "title": "La Roche Posay Cicaplast Baume B5+",
+      "type": "Shoe insert",
+      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-10T18:47:15.225Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11m77dgpd2",
-      "title": "Mario Kart World",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11m77dgpd2",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11m77dgpd2&tz=420"
+      "q": "/g/11yb4wkpr_",
+      "title": "Delina Parfums De Marly",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
+    "collectedAt": "2025-10-10T18:47:15.225Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11vsgfk1ln",
-      "title": "ENDO LEDスポットライト 配線ダクトレール用 電球色 3000K 黒 非調光 CDM-TC70W相当 狭角 ERS5928BA (ランプ付)",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
+      "q": "/g/11y3nx3k8c",
+      "title": "Yves Saint Laurent Y Eau De Parfum Men",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-10T13:40:03.015Z"
+    "collectedAt": "2025-10-10T18:47:15.225Z"
   },
   {
     "rank": 1,
+    "title": "ProDentim Formulation Addresses Emerging Research on Oral Microbiome Health and Probiotic Supplementation",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/09/3164503/0/en/ProDentim-Formulation-Addresses-Emerging-Research-on-Oral-Microbiome-Health-and-Probiotic-Supplementation.html",
+    "publishedAt": "2025-10-09T18:31:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 2,
+    "title": "Taylor Swift wore these Hoka sneakers while recording ‘The Life of a Showgirl’ — and they’re 20% off",
+    "source": "Page Six",
+    "url": "https://pagesix.com/2025/10/09/style/taylor-swift-hoka-sneakers-are-on-sale-for-20-off/",
+    "publishedAt": "2025-10-09T17:56:47Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 3,
+    "title": "At Nordstrom’s Fall Savings Event, Get 25% Off Trending Women’s Styles to Wear All Autumn Long",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-fashion/nordstrom-fall-savings-event-shop-best-fashion-deals-1238292200/",
+    "publishedAt": "2025-10-09T17:45:23Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 4,
+    "title": "Frozen Spinach Recalled Over Listeria Concerns",
+    "source": "TODAY",
+    "url": "https://www.today.com/health/recall/frozen-spinach-recall-sno-pac-del-mar-rcna236672",
+    "publishedAt": "2025-10-09T16:55:52Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 5,
+    "title": "Klarna's New BNPL Debit Card Got 1 Million Sign-Ups In 11 Weeks. Here's How It Can Change Consumer Spending.",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/klarnas-bnpl-debit-card-got-151607802.html",
+    "publishedAt": "2025-10-09T15:16:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 6,
+    "title": "On-Demand – Consumer lending’s future: When embedded finance meets smarter decisioning",
+    "source": "Finextra",
+    "url": "https://www.finextra.com/event-info/580/on-demand--consumer-lendings-future-when-embedded-finance-meets-smarter-decisioning",
+    "publishedAt": "2025-10-09T15:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 7,
+    "title": "Facelift? Nah, TikTok swears by lymphatic drainage brushes that are $6 after Prime Day",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/09/shopping/these-viral-lymphatic-drainage-brushes-are-just-6-post-prime-day/",
+    "publishedAt": "2025-10-09T14:34:39Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-10T18:47:15.469Z"
+  },
+  {
+    "rank": 8,
     "title": "5 Proven Strategies for Improving Your Instagram Story Reach",
     "source": "Socialnomics.net",
     "url": "https://socialnomics.net/2025/10/09/5-proven-strategies-for-improving-your-instagram-story-reach/",
     "publishedAt": "2025-10-09T13:00:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
+    "collectedAt": "2025-10-10T18:47:15.469Z"
   },
   {
-    "rank": 2,
+    "rank": 9,
     "title": "Biden’s Final Numbers",
     "source": "FactCheck.org",
     "url": "https://www.factcheck.org/2025/10/bidens-final-numbers/",
     "publishedAt": "2025-10-09T12:42:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
+    "collectedAt": "2025-10-10T18:47:15.469Z"
   },
   {
-    "rank": 3,
+    "rank": 10,
     "title": "What is hot or not with fintech media? (Daniel Lowther)",
     "source": "Finextra",
     "url": "https://www.finextra.com/blogposting/29540/what-is-hot-or-not-with-fintech-media",
     "publishedAt": "2025-10-09T12:14:09Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 4,
-    "title": "New Moon Knight Series for 2026 in The Daily LITG, 9th of October 2025",
-    "source": "Bleeding Cool News",
-    "url": "https://bleedingcool.com/comics/new-moon-knight-series-for-2026-in-the-daily-litg-9th-of-october-2025/",
-    "publishedAt": "2025-10-09T10:46:05Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 5,
-    "title": "Rep. Chip Roy on Spending, Immigration, and the American Dream",
-    "source": "Reason",
-    "url": "https://reason.com/2025/10/09/rep-chip-roy-sometimes-disagrees-with-his-libertarian-brothers-and-sisters/",
-    "publishedAt": "2025-10-09T10:00:43Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 6,
-    "title": "mocha mousse, pantone color of the year 2025, matches LAUFEN bathroom design",
-    "source": "Designboom",
-    "url": "https://www.designboom.com/design/pantone-color-of-the-year-2025-mocha-mousse-laufen-bathroom-design-10-09-2025/",
-    "publishedAt": "2025-10-09T09:24:41Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 7,
-    "title": "Skyscanner: The seven trends shaping travel in 2026",
-    "source": "Hospitality Net",
-    "url": "https://www.hospitalitynet.org/news/4129275.html",
-    "publishedAt": "2025-10-09T07:52:09Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 8,
-    "title": "The Prime Day Deal Kylie Jenner Influenced Me to Buy + More Steals",
-    "source": "Eonline.com",
-    "url": "https://www.eonline.com/news/1423588/last-minute-prime-day-2025-deals-plus-my-kylie-jenner-loved-skincare-buy",
-    "publishedAt": "2025-10-09T02:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
-  },
-  {
-    "rank": 9,
-    "title": "Y Combinator and Coinbase Venture Backed Cypher Protocol Unlocks On-Chain Payments and Rewards to the Mainstream",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/08/3163703/0/en/Y-Combinator-and-Coinbase-Venture-Backed-Cypher-Protocol-Unlocks-On-Chain-Payments-and-Rewards-to-the-Mainstream.html",
-    "publishedAt": "2025-10-08T19:19:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-10T13:40:03.282Z"
+    "collectedAt": "2025-10-10T18:47:15.470Z"
   }
 ]
