@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.742Z"
+    "collectedAt": "2025-10-11T06:44:02.358Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.742Z"
+    "collectedAt": "2025-10-11T06:44:02.358Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
+    "collectedAt": "2025-10-11T06:44:02.374Z"
   },
   {
     "rank": 2,
@@ -45,22 +45,10 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
+    "collectedAt": "2025-10-11T06:44:02.374Z"
   },
   {
     "rank": 3,
-    "name": {
-      "q": "/g/11vsgfk1ln",
-      "title": "Restored Apple iPhone 14 Pro",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
-  },
-  {
-    "rank": 4,
     "name": {
       "q": "/g/11rxtwsnd7",
       "title": "Stellar Blade",
@@ -69,22 +57,22 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
+    "collectedAt": "2025-10-11T06:44:02.374Z"
+  },
+  {
+    "rank": 4,
+    "name": {
+      "q": "/g/11cmvly6vm",
+      "title": "La Roche Posay Cicaplast Baume B5",
+      "type": "Facial moisturizer",
+      "link": "https://trends.google.com/trends/explore?q=/g/11cmvly6vm",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-11T06:44:02.374Z"
   },
   {
     "rank": 5,
-    "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
-  },
-  {
-    "rank": 6,
     "name": {
       "q": "/g/11yb4wkpr_",
       "title": "Delina Parfums De Marly",
@@ -93,7 +81,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T03:04:07.761Z"
+    "collectedAt": "2025-10-11T06:44:02.374Z"
+  },
+  {
+    "rank": 6,
+    "name": {
+      "q": "/g/11y3nx3k8c",
+      "title": "Yves Saint Laurent Eau De Parfum",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-11T06:44:02.374Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/1099-k-rules-changing-again-010108851.html",
     "publishedAt": "2025-10-10T01:01:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.cnbc.com/2025/10/09/microsoft-engineer-resigns-over-cloud-business-from-israeli-military.html",
     "publishedAt": "2025-10-10T00:20:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://finance.yahoo.com/news/keybanc-reaffirms-buy-nvidia-ahead-211538708.html",
     "publishedAt": "2025-10-09T21:15:38Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://pagesix.com/2025/10/09/style/taylor-swift-wears-rings-from-the-catbird-x-the-summer-i-turned-pretty-collection/",
     "publishedAt": "2025-10-09T21:14:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/morgan-stanley-raises-amd-price-210811876.html",
     "publishedAt": "2025-10-09T21:08:11Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/snowflake-snow-vertical-ai-expansion-210530996.html",
     "publishedAt": "2025-10-09T21:05:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://finance.yahoo.com/news/ibm-unveils-agentic-ai-infrastructure-210126984.html",
     "publishedAt": "2025-10-09T21:01:26Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://creativenews.io/content-marketing/20-effective-video-marketing-strategies/",
     "publishedAt": "2025-10-09T20:52:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.elitedaily.com/lifestyle/bustle-covergirl-wnba-finals-party-photos",
     "publishedAt": "2025-10-09T20:43:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-183103489.html",
     "publishedAt": "2025-10-09T18:31:03Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T03:04:07.814Z"
+    "collectedAt": "2025-10-11T06:44:02.583Z"
   }
 ]
