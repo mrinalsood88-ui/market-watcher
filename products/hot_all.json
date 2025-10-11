@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-11T18:38:21.731Z"
+    "collectedAt": "2025-10-11T18:39:42.557Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-11T18:38:21.731Z"
+    "collectedAt": "2025-10-11T18:39:42.557Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-11T18:38:23.302Z"
+    "collectedAt": "2025-10-11T18:39:42.590Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://screenrant.com/mha-anime-era-crunchyroll-gachiakuta-replacement/",
     "publishedAt": "2025-10-10T18:00:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-500-points-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-164432249.html",
     "publishedAt": "2025-10-10T16:44:32Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.iphoneincanada.ca/2025/10/10/prime-big-deal-days-canada-ends-at-midnight-final-deals-are-here/",
     "publishedAt": "2025-10-10T16:43:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://oilprice.com/Energy/Energy-General/Oil-Drops-Below-60-on-Gaza-Ceasefire.html",
     "publishedAt": "2025-10-10T15:48:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/oil-drops-below-60-gaza-154819364.html",
     "publishedAt": "2025-10-10T15:48:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/10/3164971/0/en/TVCMALL-Showcases-iPhone-17-Accessories-and-Expands-Brand-Distribution-as-Europe-s-leading-Wholesaler-at-Global-Sources-Hong-Kong-Shows.html",
     "publishedAt": "2025-10-10T14:53:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/10/3164943/28124/en/U-S-Next-Gen-Home-Security-Market-2025-Competition-Innovation-New-Services-Report.html",
     "publishedAt": "2025-10-10T14:20:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://tomandlorenzo.com/2025/10/t-lounge-for-october-10th-2025/",
     "publishedAt": "2025-10-10T13:11:48Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.bolde.com/14-supposedly-healthy-habits-that-are-way-more-harmful-than-helpful/",
     "publishedAt": "2025-10-10T13:00:42Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://www.nbcnews.com/news/us-news/ceasefire-begins-gaza-trump-foe-indicted-bank-fraud-morning-rundown-rcna236807",
     "publishedAt": "2025-10-10T11:11:54Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-11T18:38:23.644Z"
+    "collectedAt": "2025-10-11T18:39:42.891Z"
   }
 ]
