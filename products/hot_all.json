@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-12T13:01:54.486Z"
+    "collectedAt": "2025-10-12T13:03:31.611Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-12T13:01:54.486Z"
+    "collectedAt": "2025-10-12T13:03:31.611Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-12T13:01:55.190Z"
+    "collectedAt": "2025-10-12T13:03:31.632Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/meta-timing-creates-buying-opportunity-120540951.html",
     "publishedAt": "2025-10-11T12:05:40Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.elitedaily.com/lifestyle/tom-holland-robert-downey-jr-coffee-bero-review",
     "publishedAt": "2025-10-11T12:01:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://finance.yahoo.com/news/much-earn-100-month-air-020105144.html",
     "publishedAt": "2025-10-11T02:01:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/coinbase-takes-major-step-towards-230106015.html",
     "publishedAt": "2025-10-10T23:01:06Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.thegatewaypundit.com/2025/10/president-trump-announces-100-tariffs-china/",
     "publishedAt": "2025-10-10T22:40:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.yahoo.com/lifestyle/articles/10-best-student-discounts-2025-220053960.html",
     "publishedAt": "2025-10-10T22:00:53Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-throw-blanket/",
     "publishedAt": "2025-10-10T21:40:32Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-see-worst-day-since-april-as-trumps-renewed-tariff-threats-spook-wall-street-200026352.html",
     "publishedAt": "2025-10-10T20:00:26Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-clobbered-as-trumps-renewed-tariff-threats-jolt-wall-street-200026724.html",
     "publishedAt": "2025-10-10T20:00:26Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-700-points-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-192456998.html",
     "publishedAt": "2025-10-10T19:24:56Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-12T13:01:55.307Z"
+    "collectedAt": "2025-10-12T13:03:31.865Z"
   }
 ]
