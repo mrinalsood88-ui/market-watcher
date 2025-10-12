@@ -1,62 +1,62 @@
 [
   {
     "file": "hot_all.json",
-    "modified": "2025-10-11T18:39:42.892Z"
+    "modified": "2025-10-12T03:13:43.420Z"
   },
   {
-    "file": "hot_all_2025-10-11.json",
-    "modified": "2025-10-11T18:39:42.892Z"
+    "file": "hot_all_2025-10-12.json",
+    "modified": "2025-10-12T03:13:43.420Z"
   },
   {
     "file": "news.json",
-    "modified": "2025-10-11T18:39:42.891Z"
-  },
-  {
-    "file": "shopify_products.json",
-    "modified": "2025-10-11T18:39:34.111Z"
-  },
-  {
-    "file": "hot_all_2025-10-01.json",
-    "modified": "2025-10-11T18:39:34.110Z"
-  },
-  {
-    "file": "hot_all_2025-10-02.json",
-    "modified": "2025-10-11T18:39:34.110Z"
-  },
-  {
-    "file": "hot_all_2025-10-03.json",
-    "modified": "2025-10-11T18:39:34.110Z"
-  },
-  {
-    "file": "hot_all_2025-10-04.json",
-    "modified": "2025-10-11T18:39:34.110Z"
-  },
-  {
-    "file": "hot_all_2025-10-05.json",
-    "modified": "2025-10-11T18:39:34.110Z"
-  },
-  {
-    "file": "hot_all_2025-10-06.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:43.419Z"
   },
   {
     "file": "hot_all_2025-10-07.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:34.353Z"
   },
   {
     "file": "hot_all_2025-10-08.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:34.353Z"
   },
   {
     "file": "hot_all_2025-10-09.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:34.353Z"
   },
   {
     "file": "hot_all_2025-10-10.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:34.353Z"
+  },
+  {
+    "file": "hot_all_2025-10-11.json",
+    "modified": "2025-10-12T03:13:34.353Z"
   },
   {
     "file": "index.json",
-    "modified": "2025-10-11T18:39:34.110Z"
+    "modified": "2025-10-12T03:13:34.353Z"
+  },
+  {
+    "file": "shopify_products.json",
+    "modified": "2025-10-12T03:13:34.353Z"
+  },
+  {
+    "file": "hot_all_2025-10-01.json",
+    "modified": "2025-10-12T03:13:34.352Z"
+  },
+  {
+    "file": "hot_all_2025-10-02.json",
+    "modified": "2025-10-12T03:13:34.352Z"
+  },
+  {
+    "file": "hot_all_2025-10-03.json",
+    "modified": "2025-10-12T03:13:34.352Z"
+  },
+  {
+    "file": "hot_all_2025-10-04.json",
+    "modified": "2025-10-12T03:13:34.352Z"
+  },
+  {
+    "file": "hot_all_2025-10-05.json",
+    "modified": "2025-10-12T03:13:34.352Z"
   }
 ]
