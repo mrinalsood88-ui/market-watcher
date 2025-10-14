@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.107Z"
+    "collectedAt": "2025-10-14T06:49:29.581Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.107Z"
+    "collectedAt": "2025-10-14T06:49:29.581Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T03:09:54.631Z"
+    "collectedAt": "2025-10-14T06:49:30.269Z"
   },
   {
     "rank": 1,
+    "title": "Q3 2025 Qualitative Update: Tecan reports mid-single-digit local currency growth in the third quarter and confirms full-year 2025 outlook",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/13/3165271/0/en/Q3-2025-Qualitative-Update-Tecan-reports-mid-single-digit-local-currency-growth-in-the-third-quarter-and-confirms-full-year-2025-outlook.html",
+    "publishedAt": "2025-10-13T04:30:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-14T06:49:30.522Z"
+  },
+  {
+    "rank": 2,
     "title": "Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html",
     "publishedAt": "2025-10-12T23:10:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Masterclass Founder Reveals His AI Tool Stack, Says 'You Are Holding Yourself Back' If You Don't Use AI",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/masterclass-founder-reveals-ai-tool-133259461.html",
     "publishedAt": "2025-10-12T13:32:59Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Optimizing For AI-Generated Search Results: A Universal Guide | The Marketing Tutor",
     "source": "Marketing-tutor.com",
     "url": "https://marketing-tutor.com/blog/optimizing-for-ai-generated-search-results-a-universal-guide/",
     "publishedAt": "2025-10-12T11:34:32Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "META Stock Target Raised to $900 by Citizens, Citing Strong AI-Driven Growth",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/meta-stock-target-raised-900-221955035.html",
     "publishedAt": "2025-10-11T22:19:55Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "No survivors after explosion at Tennessee factory, sheriff says",
     "source": "WSB Atlanta",
     "url": "https://www.wsbtv.com/news/national/no-survivors-after-explosion-tennessee-factory-sheriff-says/R4ACC3FZGZAADEECPEF5R4DWDQ/",
     "publishedAt": "2025-10-11T19:11:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Priests for Life: Call on the FDA to End Death by Chemical Abortion",
     "source": "Thegatewaypundit.com",
     "url": "https://www.thegatewaypundit.com/2025/10/priests-life-call-fda-end-death-chemical-abortion/",
     "publishedAt": "2025-10-11T19:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "I Asked Grok for the Best Passive Income Ideas of 2025 — Here Are Grok’s Top 7",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/asked-grok-best-passive-income-140008678.html",
     "publishedAt": "2025-10-11T14:00:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Meta Timing Creates Buying Opportunity in Penguin Solutions (PENG), Analyst Says",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/meta-timing-creates-buying-opportunity-120540951.html",
     "publishedAt": "2025-10-11T12:05:40Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.522Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "I Tried Tom Holland & Robert Downey Jr.'s Coffee Bero Collab",
     "source": "Elite Daily",
     "url": "https://www.elitedaily.com/lifestyle/tom-holland-robert-downey-jr-coffee-bero-review",
     "publishedAt": "2025-10-11T12:01:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
-  },
-  {
-    "rank": 10,
-    "title": "How Much Would It Take To Earn $100 A Month From Air Products And Chemicals Stock",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/much-earn-100-month-air-020105144.html",
-    "publishedAt": "2025-10-11T02:01:05Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T03:09:54.918Z"
+    "collectedAt": "2025-10-14T06:49:30.523Z"
   }
 ]
