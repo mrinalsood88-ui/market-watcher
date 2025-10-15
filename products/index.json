@@ -1,62 +1,62 @@
 [
   {
-    "file": "hot_all_2025-10-15.json",
-    "modified": "2025-10-15T13:41:23.466Z"
+    "file": "hot_all.json",
+    "modified": "2025-10-15T18:27:32.124Z"
   },
   {
-    "file": "hot_all.json",
-    "modified": "2025-10-15T13:41:23.465Z"
+    "file": "hot_all_2025-10-15.json",
+    "modified": "2025-10-15T18:27:32.124Z"
   },
   {
     "file": "news.json",
-    "modified": "2025-10-15T13:41:23.465Z"
-  },
-  {
-    "file": "hot_all_2025-10-07.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "hot_all_2025-10-08.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "hot_all_2025-10-09.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "hot_all_2025-10-10.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "hot_all_2025-10-11.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "hot_all_2025-10-12.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "index.json",
-    "modified": "2025-10-15T13:41:15.197Z"
-  },
-  {
-    "file": "shopify_products.json",
-    "modified": "2025-10-15T13:41:15.197Z"
+    "modified": "2025-10-15T18:27:32.124Z"
   },
   {
     "file": "hot_all_2025-10-01.json",
-    "modified": "2025-10-15T13:41:15.196Z"
+    "modified": "2025-10-15T18:27:21.777Z"
   },
   {
     "file": "hot_all_2025-10-02.json",
-    "modified": "2025-10-15T13:41:15.196Z"
+    "modified": "2025-10-15T18:27:21.777Z"
   },
   {
     "file": "hot_all_2025-10-03.json",
-    "modified": "2025-10-15T13:41:15.196Z"
+    "modified": "2025-10-15T18:27:21.777Z"
   },
   {
     "file": "hot_all_2025-10-04.json",
-    "modified": "2025-10-15T13:41:15.196Z"
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-07.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-08.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-09.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-10.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-11.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "hot_all_2025-10-12.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "index.json",
+    "modified": "2025-10-15T18:27:21.777Z"
+  },
+  {
+    "file": "shopify_products.json",
+    "modified": "2025-10-15T18:27:21.777Z"
   }
 ]

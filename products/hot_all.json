@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-15T18:15:11.298Z"
+    "collectedAt": "2025-10-15T18:27:31.831Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-15T18:15:11.298Z"
+    "collectedAt": "2025-10-15T18:27:31.832Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T18:15:12.318Z"
+    "collectedAt": "2025-10-15T18:27:31.890Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/tom-lee-says-nvidia-nvda-180522890.html",
     "publishedAt": "2025-10-14T18:05:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.today.com/food/news/trader-joes-uncrustables-lawsuit-rcna237567",
     "publishedAt": "2025-10-14T17:57:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.mentalfloss.com/holidays/halloween/halloween-makeup-trends",
     "publishedAt": "2025-10-14T16:02:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://www.retaildive.com/news/on-demand-fashion-aka-brands-ceo-princess-polly/802683/",
     "publishedAt": "2025-10-14T15:48:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/",
     "publishedAt": "2025-10-14T15:12:42Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://elearningindustry.com/advertise/elearning-marketing-resources/blog/newsletter-marketing-strategies-for-b2b-software-ways-to-accelerate-sales",
     "publishedAt": "2025-10-14T13:00:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://finance.yahoo.com/news/history-lesson-nvidia-nvda-stock-130012713.html",
     "publishedAt": "2025-10-14T13:00:12Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/analyst-says-likes-howmet-aerospace-123542934.html",
     "publishedAt": "2025-10-14T12:35:42Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://finance.yahoo.com/news/analyst-likes-beaten-down-dividend-115951845.html",
     "publishedAt": "2025-10-14T11:59:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=171913",
     "publishedAt": "2025-10-14T11:25:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T18:15:12.730Z"
+    "collectedAt": "2025-10-15T18:27:32.124Z"
   }
 ]
