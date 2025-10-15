@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.081Z"
+    "collectedAt": "2025-10-15T13:39:56.624Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.081Z"
+    "collectedAt": "2025-10-15T13:39:56.624Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
+    "collectedAt": "2025-10-15T13:39:59.130Z"
   },
   {
     "rank": 2,
@@ -45,22 +45,10 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
+    "collectedAt": "2025-10-15T13:39:59.130Z"
   },
   {
     "rank": 3,
-    "name": {
-      "q": "/g/11vsgfk1ln",
-      "title": "Restored Apple iPhone 14 Pro",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vsgfk1ln",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
-  },
-  {
-    "rank": 4,
     "name": {
       "q": "/g/11rxtwsnd7",
       "title": "Stellar Blade",
@@ -69,22 +57,22 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
+    "collectedAt": "2025-10-15T13:39:59.130Z"
+  },
+  {
+    "rank": 4,
+    "name": {
+      "q": "/g/11cmvly6vm",
+      "title": "La Roche Posay Cicaplast Baume B5",
+      "type": "Facial moisturizer",
+      "link": "https://trends.google.com/trends/explore?q=/g/11cmvly6vm",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-15T13:39:59.130Z"
   },
   {
     "rank": 5,
-    "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
-  },
-  {
-    "rank": 6,
     "name": {
       "q": "/g/11yb4wkpr_",
       "title": "Delina Parfums De Marly",
@@ -93,96 +81,108 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-15T06:49:57.790Z"
+    "collectedAt": "2025-10-15T13:39:59.130Z"
+  },
+  {
+    "rank": 6,
+    "name": {
+      "q": "/g/11y3nx3k8c",
+      "title": "Yves Saint Laurent Eau De Parfum",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-15T13:39:59.130Z"
   },
   {
     "rank": 1,
+    "title": "Newsletter Marketing Strategies For B2B Software: 7 Ways To Accelerate Sales",
+    "source": "Elearningindustry.com",
+    "url": "https://elearningindustry.com/advertise/elearning-marketing-resources/blog/newsletter-marketing-strategies-for-b2b-software-ways-to-accelerate-sales",
+    "publishedAt": "2025-10-14T13:00:14Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 2,
+    "title": "‘History Lesson’ – Nvidia (NVDA) Stock Up 4,600% Since Jim Cramer First Recommended It",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/history-lesson-nvidia-nvda-stock-130012713.html",
+    "publishedAt": "2025-10-14T13:00:12Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 3,
+    "title": "Analyst Says He Likes Howmet Aerospace (HWM) – Here’s Why",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/analyst-says-likes-howmet-aerospace-123542934.html",
+    "publishedAt": "2025-10-14T12:35:42Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 4,
+    "title": "Analyst Likes This ‘Beaten Down’ Dividend Stock With 7% Yield",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/analyst-likes-beaten-down-dividend-115951845.html",
+    "publishedAt": "2025-10-14T11:59:51Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 5,
+    "title": "AWS GM of M&E Samira Panah Bakhtiar Talks Gen AI and Interactive Sports Streaming",
+    "source": "Streamingmedia.com",
+    "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=171913",
+    "publishedAt": "2025-10-14T11:25:13Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 6,
     "title": "Why 1440 is evolving from a newsletter company to a destination of explainers",
     "source": "Digiday",
     "url": "http://digiday.com/media/why-1440-is-evolving-from-a-newsletter-company-to-a-destination-of-explainers/",
     "publishedAt": "2025-10-14T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
+    "collectedAt": "2025-10-15T13:39:59.391Z"
   },
   {
-    "rank": 2,
+    "rank": 7,
     "title": "Beauty Veterans Victoria Jackson and Alli Webb Share Lessons in Reinvention",
     "source": "WWD",
     "url": "http://wwd.com/beauty-industry-news/beauty-features/victoria-jackson-allie-webb-return-beauty-industry-1238292954/",
     "publishedAt": "2025-10-14T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
+    "collectedAt": "2025-10-15T13:39:59.391Z"
   },
   {
-    "rank": 3,
+    "rank": 8,
+    "title": "Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-600-points-sp-500-nasdaq-soar-as-wall-street-rebounds-from-tariff-fueled-rout-200627651.html",
+    "publishedAt": "2025-10-13T20:06:27Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-15T13:39:59.391Z"
+  },
+  {
+    "rank": 9,
     "title": "US Leads Global Crypto Charge With $5B ETF Bet—Here's Why American Investors Are Suddenly All-In On Bitcoin",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/us-leads-global-crypto-charge-193104048.html",
     "publishedAt": "2025-10-13T19:31:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
+    "collectedAt": "2025-10-15T13:39:59.391Z"
   },
   {
-    "rank": 4,
+    "rank": 10,
     "title": "Jaeger-LeCoultre Focuses on Brand Elevation, Complications, Storytelling",
     "source": "WWD",
     "url": "http://wwd.com/accessories-news/watches/jaeger-lecoultre-ceo-interview-brand-storytelling-1238299838/",
     "publishedAt": "2025-10-13T19:01:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 5,
-    "title": "Grain Traders Are Shocked by Unexpected Deterioration in U.S.-China Relations. 5 Things to Watch for a Turnaround.",
-    "source": "Barchart.com",
-    "url": "https://www.barchart.com/story/news/35412892/grain-traders-are-shocked-by-unexpected-deterioration-in-u-s-china-relations-5-things-to-watch-for-a-turnaround",
-    "publishedAt": "2025-10-13T19:00:02Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 6,
-    "title": "How much does a $300,000 HELOC cost monthly in today's rate environment?",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/how-much-does-a-300000-heloc-cost-monthly-in-todays-rate-environment/",
-    "publishedAt": "2025-10-13T15:17:34Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 7,
-    "title": "Frozen spinach recalled over possible listeria contamination. See products.",
-    "source": "USA Today",
-    "url": "https://www.usatoday.com/story/money/food/2025/10/13/frozen-spinach-recall-listeria/86669219007/",
-    "publishedAt": "2025-10-13T14:24:43Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 8,
-    "title": "2025 Victoria’s Secret Fashion Show: How to Watch Online for Free",
-    "source": "WWD",
-    "url": "http://wwd.com/shop/shop-fashion/victorias-secret-fashion-show-2025-livestream-free-online-1238298989/",
-    "publishedAt": "2025-10-13T13:09:16Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 9,
-    "title": "How Middle-Class Retirees Can Make Their Money Last 25 Years or Longer",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/middle-class-retirees-money-last-130208225.html",
-    "publishedAt": "2025-10-13T13:02:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
-  },
-  {
-    "rank": 10,
-    "title": "The Apple Watch upgrade cycle is more trick than treat",
-    "source": "Macworld",
-    "url": "https://www.macworld.com/article/2930450/the-apple-watch-upgrade-cycle-is-more-trick-than-treat.html",
-    "publishedAt": "2025-10-13T10:30:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-15T06:49:58.081Z"
+    "collectedAt": "2025-10-15T13:39:59.391Z"
   }
 ]
