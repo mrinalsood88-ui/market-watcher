@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-14T06:49:29.581Z"
+    "collectedAt": "2025-10-15T06:49:57.081Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-14T06:49:29.581Z"
+    "collectedAt": "2025-10-15T06:49:57.081Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vsgfk1ln&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-14T06:49:30.269Z"
+    "collectedAt": "2025-10-15T06:49:57.790Z"
   },
   {
     "rank": 1,
-    "title": "Q3 2025 Qualitative Update: Tecan reports mid-single-digit local currency growth in the third quarter and confirms full-year 2025 outlook",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/13/3165271/0/en/Q3-2025-Qualitative-Update-Tecan-reports-mid-single-digit-local-currency-growth-in-the-third-quarter-and-confirms-full-year-2025-outlook.html",
-    "publishedAt": "2025-10-13T04:30:00Z",
+    "title": "Why 1440 is evolving from a newsletter company to a destination of explainers",
+    "source": "Digiday",
+    "url": "http://digiday.com/media/why-1440-is-evolving-from-a-newsletter-company-to-a-destination-of-explainers/",
+    "publishedAt": "2025-10-14T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 2,
-    "title": "Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html",
-    "publishedAt": "2025-10-12T23:10:10Z",
+    "title": "Beauty Veterans Victoria Jackson and Alli Webb Share Lessons in Reinvention",
+    "source": "WWD",
+    "url": "http://wwd.com/beauty-industry-news/beauty-features/victoria-jackson-allie-webb-return-beauty-industry-1238292954/",
+    "publishedAt": "2025-10-14T04:01:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 3,
-    "title": "Masterclass Founder Reveals His AI Tool Stack, Says 'You Are Holding Yourself Back' If You Don't Use AI",
+    "title": "US Leads Global Crypto Charge With $5B ETF Bet—Here's Why American Investors Are Suddenly All-In On Bitcoin",
     "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/masterclass-founder-reveals-ai-tool-133259461.html",
-    "publishedAt": "2025-10-12T13:32:59Z",
+    "url": "https://finance.yahoo.com/news/us-leads-global-crypto-charge-193104048.html",
+    "publishedAt": "2025-10-13T19:31:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 4,
-    "title": "Optimizing For AI-Generated Search Results: A Universal Guide | The Marketing Tutor",
-    "source": "Marketing-tutor.com",
-    "url": "https://marketing-tutor.com/blog/optimizing-for-ai-generated-search-results-a-universal-guide/",
-    "publishedAt": "2025-10-12T11:34:32Z",
+    "title": "Jaeger-LeCoultre Focuses on Brand Elevation, Complications, Storytelling",
+    "source": "WWD",
+    "url": "http://wwd.com/accessories-news/watches/jaeger-lecoultre-ceo-interview-brand-storytelling-1238299838/",
+    "publishedAt": "2025-10-13T19:01:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 5,
-    "title": "META Stock Target Raised to $900 by Citizens, Citing Strong AI-Driven Growth",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/meta-stock-target-raised-900-221955035.html",
-    "publishedAt": "2025-10-11T22:19:55Z",
+    "title": "Grain Traders Are Shocked by Unexpected Deterioration in U.S.-China Relations. 5 Things to Watch for a Turnaround.",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/35412892/grain-traders-are-shocked-by-unexpected-deterioration-in-u-s-china-relations-5-things-to-watch-for-a-turnaround",
+    "publishedAt": "2025-10-13T19:00:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 6,
-    "title": "No survivors after explosion at Tennessee factory, sheriff says",
-    "source": "WSB Atlanta",
-    "url": "https://www.wsbtv.com/news/national/no-survivors-after-explosion-tennessee-factory-sheriff-says/R4ACC3FZGZAADEECPEF5R4DWDQ/",
-    "publishedAt": "2025-10-11T19:11:05Z",
+    "title": "How much does a $300,000 HELOC cost monthly in today's rate environment?",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/how-much-does-a-300000-heloc-cost-monthly-in-todays-rate-environment/",
+    "publishedAt": "2025-10-13T15:17:34Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 7,
-    "title": "Priests for Life: Call on the FDA to End Death by Chemical Abortion",
-    "source": "Thegatewaypundit.com",
-    "url": "https://www.thegatewaypundit.com/2025/10/priests-life-call-fda-end-death-chemical-abortion/",
-    "publishedAt": "2025-10-11T19:00:00Z",
+    "title": "Frozen spinach recalled over possible listeria contamination. See products.",
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/money/food/2025/10/13/frozen-spinach-recall-listeria/86669219007/",
+    "publishedAt": "2025-10-13T14:24:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 8,
-    "title": "I Asked Grok for the Best Passive Income Ideas of 2025 — Here Are Grok’s Top 7",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/asked-grok-best-passive-income-140008678.html",
-    "publishedAt": "2025-10-11T14:00:08Z",
+    "title": "2025 Victoria’s Secret Fashion Show: How to Watch Online for Free",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-fashion/victorias-secret-fashion-show-2025-livestream-free-online-1238298989/",
+    "publishedAt": "2025-10-13T13:09:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 9,
-    "title": "Meta Timing Creates Buying Opportunity in Penguin Solutions (PENG), Analyst Says",
+    "title": "How Middle-Class Retirees Can Make Their Money Last 25 Years or Longer",
     "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/meta-timing-creates-buying-opportunity-120540951.html",
-    "publishedAt": "2025-10-11T12:05:40Z",
+    "url": "https://finance.yahoo.com/news/middle-class-retirees-money-last-130208225.html",
+    "publishedAt": "2025-10-13T13:02:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.522Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   },
   {
     "rank": 10,
-    "title": "I Tried Tom Holland & Robert Downey Jr.'s Coffee Bero Collab",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/lifestyle/tom-holland-robert-downey-jr-coffee-bero-review",
-    "publishedAt": "2025-10-11T12:01:24Z",
+    "title": "The Apple Watch upgrade cycle is more trick than treat",
+    "source": "Macworld",
+    "url": "https://www.macworld.com/article/2930450/the-apple-watch-upgrade-cycle-is-more-trick-than-treat.html",
+    "publishedAt": "2025-10-13T10:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-14T06:49:30.523Z"
+    "collectedAt": "2025-10-15T06:49:58.081Z"
   }
 ]
