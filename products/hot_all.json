@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T12:20:00.011Z"
+    "collectedAt": "2025-10-16T12:39:14.513Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T12:20:00.011Z"
+    "collectedAt": "2025-10-16T12:39:14.513Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:20:05.981Z"
+    "collectedAt": "2025-10-16T12:39:14.555Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/why-terreno-realty-trinity-industries-120108453.html",
     "publishedAt": "2025-10-15T12:01:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.cnet.com/health/features/doctors-vs-influencers-whos-shaping-our-health-and-at-what-cost/",
     "publishedAt": "2025-10-15T09:00:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.wsbtv.com/news/local/atlanta/2-us-lumber-giants-plan-merge-move-new-hq-atlanta/UWB4GSCA6JBYZLMAJQBH2IDOAQ/",
     "publishedAt": "2025-10-15T05:41:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/2-us-lumber-giants-plan-053401121.html",
     "publishedAt": "2025-10-15T05:34:01Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://articles.mercola.com/sites/articles/archive/2025/10/15/anti-inflammatory-drinks-nerve-pain.aspx",
     "publishedAt": "2025-10-15T00:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html",
     "publishedAt": "2025-10-14T23:11:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html",
     "publishedAt": "2025-10-14T23:11:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/blackrocks-ceo-says-crypto-grow-213120122.html",
     "publishedAt": "2025-10-14T21:31:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   },
   {
     "rank": 9,
@@ -174,6 +174,6 @@
     "url": "http://wwd.com/shop/shop-shoes/fall-2025-boot-trends-best-styles-shop-online-1238301230/",
     "publishedAt": "2025-10-14T21:02:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:20:06.159Z"
+    "collectedAt": "2025-10-16T12:39:14.746Z"
   }
 ]
