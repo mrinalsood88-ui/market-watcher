@@ -1,62 +1,62 @@
 [
   {
-    "file": "hot_all.json",
-    "modified": "2025-10-15T18:27:32.124Z"
+    "file": "hot_all_2025-10-16.json",
+    "modified": "2025-10-16T01:20:34.160Z"
   },
   {
-    "file": "hot_all_2025-10-15.json",
-    "modified": "2025-10-15T18:27:32.124Z"
+    "file": "hot_all.json",
+    "modified": "2025-10-16T01:20:34.159Z"
   },
   {
     "file": "news.json",
-    "modified": "2025-10-15T18:27:32.124Z"
-  },
-  {
-    "file": "hot_all_2025-10-01.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-02.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-03.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-04.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-07.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-08.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-09.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-10.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-11.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "hot_all_2025-10-12.json",
-    "modified": "2025-10-15T18:27:21.777Z"
-  },
-  {
-    "file": "index.json",
-    "modified": "2025-10-15T18:27:21.777Z"
+    "modified": "2025-10-16T01:20:34.159Z"
   },
   {
     "file": "shopify_products.json",
-    "modified": "2025-10-15T18:27:21.777Z"
+    "modified": "2025-10-16T01:20:27.491Z"
+  },
+  {
+    "file": "hot_all_2025-10-01.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-02.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-03.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-04.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-07.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-08.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-09.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-10.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-11.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-12.json",
+    "modified": "2025-10-16T01:20:27.490Z"
+  },
+  {
+    "file": "hot_all_2025-10-15.json",
+    "modified": "2025-10-16T01:20:27.490Z"
   }
 ]
