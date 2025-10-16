@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.513Z"
+    "collectedAt": "2025-10-16T18:26:32.987Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.513Z"
+    "collectedAt": "2025-10-16T18:26:32.987Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 2,
@@ -45,46 +45,22 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11cmvly6vm",
-      "title": "La Roche Posay Cicaplast Baume B5",
-      "type": "Facial moisturizer",
-      "link": "https://trends.google.com/trends/explore?q=/g/11cmvly6vm",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
+      "q": "/g/11lys64h6n",
+      "title": "La Roche Posay Cicaplast Baume B5+",
+      "type": "Shoe insert",
+      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 4,
-    "name": {
-      "q": "/g/11yb4wkpr_",
-      "title": "Delina Eau De Parfum Parfums De Marly",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
-  },
-  {
-    "rank": 5,
-    "name": {
-      "q": "/g/11y3nx3k8c",
-      "title": "Perfume Y Ysl Eau De Parfum 100Ml Masculino",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
-  },
-  {
-    "rank": 6,
     "name": {
       "q": "/g/11bxf39p9v",
       "title": "Detroit: Become Human",
@@ -93,87 +69,120 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T12:39:14.555Z"
-  },
-  {
-    "rank": 1,
-    "title": "Why Terreno Realty, Trinity Industries, And Stanley Black & Decker Are Winners For Passive Income",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/why-terreno-realty-trinity-industries-120108453.html",
-    "publishedAt": "2025-10-15T12:01:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
-  },
-  {
-    "rank": 2,
-    "title": "Doctors vs. Influencers: Who's Shaping Our Health and at What Cost?",
-    "source": "CNET",
-    "url": "https://www.cnet.com/health/features/doctors-vs-influencers-whos-shaping-our-health-and-at-what-cost/",
-    "publishedAt": "2025-10-15T09:00:05Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
-  },
-  {
-    "rank": 3,
-    "title": "2 US lumber giants plan to merge and move new HQ to Atlanta",
-    "source": "WSB Atlanta",
-    "url": "https://www.wsbtv.com/news/local/atlanta/2-us-lumber-giants-plan-merge-move-new-hq-atlanta/UWB4GSCA6JBYZLMAJQBH2IDOAQ/",
-    "publishedAt": "2025-10-15T05:41:58Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
-  },
-  {
-    "rank": 4,
-    "title": "2 US lumber giants plan to merge and move new HQ to Atlanta",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/2-us-lumber-giants-plan-053401121.html",
-    "publishedAt": "2025-10-15T05:34:01Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 5,
-    "title": "These Beverages Help Reduce Nerve Pain and Chronic Inflammation",
-    "source": "Mercola.com",
-    "url": "https://articles.mercola.com/sites/articles/archive/2025/10/15/anti-inflammatory-drinks-nerve-pain.aspx",
-    "publishedAt": "2025-10-15T00:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "name": {
+      "q": "/g/11g_rlctt4",
+      "title": "Sony α6400",
+      "type": "Mirrorless system camera",
+      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 6,
-    "title": "Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html",
-    "publishedAt": "2025-10-14T23:11:43Z",
+    "name": {
+      "q": "/g/11k3tvfxlg",
+      "title": "Jean Paul Gaultier Le Male Le Parfum",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11k3tvfxlg",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11k3tvfxlg&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-16T18:26:33.045Z"
+  },
+  {
+    "rank": 1,
+    "title": "Ilana Glazer’s essentials include a ‘delicious’ heel, a ‘big ‘ol’ Telfar bag and a facial cupping tool",
+    "source": "Page Six",
+    "url": "https://pagesix.com/2025/10/15/style/ilana-glazer-shares-her-fashion-and-beauty-favorites/",
+    "publishedAt": "2025-10-15T18:18:21Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 2,
+    "title": "Effortlessly Cool Haircuts for Men with Straight Hair",
+    "source": "Fashionbeans.com",
+    "url": "https://www.fashionbeans.com/article/straight-hair-haircuts/",
+    "publishedAt": "2025-10-15T17:41:33Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 3,
+    "title": "Forget Traditional 'Buy Now, Pay Later': This Startup Says There's a Better Way to Build Credit",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/forget-traditional-buy-now-pay-173107194.html",
+    "publishedAt": "2025-10-15T17:31:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 4,
+    "title": "Apple to increase Chinese investments amid US-China trade tension",
+    "source": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension",
+    "publishedAt": "2025-10-15T16:34:20Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 5,
+    "title": "Bank of America Downgrades Intel (INTC) to Underperform After $80B Market Cap Surge",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/bank-america-downgrades-intel-intc-160358792.html",
+    "publishedAt": "2025-10-15T16:03:58Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 6,
+    "title": "Broadcom (AVGO) Price Target Raised on Massive OpenAI Custom Chip Partnership",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/broadcom-avgo-price-target-raised-160017824.html",
+    "publishedAt": "2025-10-15T15:58:15Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
     "rank": 7,
-    "title": "Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html",
-    "publishedAt": "2025-10-14T23:11:43Z",
+    "title": "Semrush AI SEO: How to Audit Your AI Search Visibility",
+    "source": "Backlinko.com",
+    "url": "https://backlinko.com/ai-seo",
+    "publishedAt": "2025-10-15T15:22:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
     "rank": 8,
-    "title": "BlackRock's CEO Says Crypto Will Grow 'Rapidly' — Here's How",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/blackrocks-ceo-says-crypto-grow-213120122.html",
-    "publishedAt": "2025-10-14T21:31:20Z",
+    "title": "YOUTUBE Just Ate TV. It's Only Getting Started...",
+    "source": "Hollywood Reporter",
+    "url": "http://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/",
+    "publishedAt": "2025-10-15T15:04:39Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
     "rank": 9,
-    "title": "Zappos Unveils 2025 ‘Boot Guide’ With the 5 Trending It-Styles to Shop This Season",
-    "source": "WWD",
-    "url": "http://wwd.com/shop/shop-shoes/fall-2025-boot-trends-best-styles-shop-online-1238301230/",
-    "publishedAt": "2025-10-14T21:02:24Z",
+    "title": "Thumzup Media explores Dogecoin for user rewards: what it could mean for DOGE",
+    "source": "Coinjournal.net",
+    "url": "https://coinjournal.net/news/thumzup-media-explores-dogecoin-for-user-rewards-what-it-could-mean-for-doge/",
+    "publishedAt": "2025-10-15T15:02:41Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T12:39:14.746Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 10,
+    "title": "Global burden of Alzheimer’s disease and other dementias attributable to smoking in 204 countries and territories, 1990–2021",
+    "source": "Plos.org",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334619",
+    "publishedAt": "2025-10-15T14:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   }
 ]

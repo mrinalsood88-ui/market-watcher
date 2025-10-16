@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T18:14:28.332Z"
+    "collectedAt": "2025-10-16T18:26:32.987Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-16T18:14:28.332Z"
+    "collectedAt": "2025-10-16T18:26:32.987Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11k3tvfxlg&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-16T18:14:29.210Z"
+    "collectedAt": "2025-10-16T18:26:33.045Z"
   },
   {
     "rank": 1,
+    "title": "Ilana Glazer’s essentials include a ‘delicious’ heel, a ‘big ‘ol’ Telfar bag and a facial cupping tool",
+    "source": "Page Six",
+    "url": "https://pagesix.com/2025/10/15/style/ilana-glazer-shares-her-fashion-and-beauty-favorites/",
+    "publishedAt": "2025-10-15T18:18:21Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-16T18:26:33.282Z"
+  },
+  {
+    "rank": 2,
     "title": "Effortlessly Cool Haircuts for Men with Straight Hair",
     "source": "Fashionbeans.com",
     "url": "https://www.fashionbeans.com/article/straight-hair-haircuts/",
     "publishedAt": "2025-10-15T17:41:33Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Forget Traditional 'Buy Now, Pay Later': This Startup Says There's a Better Way to Build Credit",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/forget-traditional-buy-now-pay-173107194.html",
     "publishedAt": "2025-10-15T17:31:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Apple to increase Chinese investments amid US-China trade tension",
     "source": "Al Jazeera English",
     "url": "https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension",
     "publishedAt": "2025-10-15T16:34:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Bank of America Downgrades Intel (INTC) to Underperform After $80B Market Cap Surge",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/bank-america-downgrades-intel-intc-160358792.html",
     "publishedAt": "2025-10-15T16:03:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Broadcom (AVGO) Price Target Raised on Massive OpenAI Custom Chip Partnership",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/broadcom-avgo-price-target-raised-160017824.html",
     "publishedAt": "2025-10-15T15:58:15Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Semrush AI SEO: How to Audit Your AI Search Visibility",
     "source": "Backlinko.com",
     "url": "https://backlinko.com/ai-seo",
     "publishedAt": "2025-10-15T15:22:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "YOUTUBE Just Ate TV. It's Only Getting Started...",
     "source": "Hollywood Reporter",
     "url": "http://www.hollywoodreporter.com/business/digital/youtube-impact-tv-sports-late-night-comedy-shows-1236400353/",
     "publishedAt": "2025-10-15T15:04:39Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Thumzup Media explores Dogecoin for user rewards: what it could mean for DOGE",
     "source": "Coinjournal.net",
     "url": "https://coinjournal.net/news/thumzup-media-explores-dogecoin-for-user-rewards-what-it-could-mean-for-doge/",
     "publishedAt": "2025-10-15T15:02:41Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "Global burden of Alzheimer’s disease and other dementias attributable to smoking in 204 countries and territories, 1990–2021",
     "source": "Plos.org",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334619",
     "publishedAt": "2025-10-15T14:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.376Z"
-  },
-  {
-    "rank": 10,
-    "title": "Why Terreno Realty, Trinity Industries, And Stanley Black & Decker Are Winners For Passive Income",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/why-terreno-realty-trinity-industries-120108453.html",
-    "publishedAt": "2025-10-15T12:01:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-16T18:14:29.377Z"
+    "collectedAt": "2025-10-16T18:26:33.282Z"
   }
 ]
