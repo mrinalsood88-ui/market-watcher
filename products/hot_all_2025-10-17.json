@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.228Z"
+    "collectedAt": "2025-10-17T06:26:38.201Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.228Z"
+    "collectedAt": "2025-10-17T06:26:38.201Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
+    "collectedAt": "2025-10-17T06:26:38.379Z"
   },
   {
     "rank": 2,
@@ -45,22 +45,46 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
+    "collectedAt": "2025-10-17T06:26:38.379Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
+      "q": "/g/11cmvly6vm",
+      "title": "La Roche Posay Cicaplast Baume B5",
+      "type": "Facial moisturizer",
+      "link": "https://trends.google.com/trends/explore?q=/g/11cmvly6vm",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
+    "collectedAt": "2025-10-17T06:26:38.379Z"
   },
   {
     "rank": 4,
+    "name": {
+      "q": "/g/11yb4wkpr_",
+      "title": "Delina Eau De Parfum Parfums De Marly",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11yb4wkpr_",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-17T06:26:38.379Z"
+  },
+  {
+    "rank": 5,
+    "name": {
+      "q": "/g/11y3nx3k8c",
+      "title": "Perfume Y Ysl Eau De Parfum 100Ml Masculino",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11y3nx3k8c",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-17T06:26:38.379Z"
+  },
+  {
+    "rank": 6,
     "name": {
       "q": "/g/11bxf39p9v",
       "title": "Detroit: Become Human",
@@ -69,31 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
-  },
-  {
-    "rank": 5,
-    "name": {
-      "q": "/g/11g_rlctt4",
-      "title": "Sony α6400",
-      "type": "Mirrorless system camera",
-      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
-  },
-  {
-    "rank": 6,
-    "name": {
-      "q": "/g/11k3tvfxlg",
-      "title": "Jean Paul Gaultier Le Male Le Parfum",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11k3tvfxlg",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11k3tvfxlg&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T01:20:30.256Z"
+    "collectedAt": "2025-10-17T06:26:38.379Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.usatoday.com/story/money/2025/10/15/trader-joes-sued-allegedly-copying-smuckers-uncrustables/86711857007/",
     "publishedAt": "2025-10-15T22:46:53Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "http://wwd.com/shop/shop-fashion/meghan-markle-polene-earrings-where-to-buy-online-1238304397/",
     "publishedAt": "2025-10-15T20:32:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/10/15/3167447/0/en/Korean-Pink-Salt-Trick-Study-Released-by-LipoVive-Highlights-Natural-GLP-1-Pathway-Support-Through-Hydration-and-Nutrient-Signaling.html",
     "publishedAt": "2025-10-15T19:39:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://pagesix.com/2025/10/15/style/ilana-glazer-shares-her-fashion-and-beauty-favorites/",
     "publishedAt": "2025-10-15T18:18:21Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.fashionbeans.com/article/straight-hair-haircuts/",
     "publishedAt": "2025-10-15T17:41:33Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/forget-traditional-buy-now-pay-173107194.html",
     "publishedAt": "2025-10-15T17:31:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.aljazeera.com/economy/2025/10/15/apple-to-increase-chinese-investments-amid-us-china-trade-tension",
     "publishedAt": "2025-10-15T16:34:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/bank-america-downgrades-intel-intc-160358792.html",
     "publishedAt": "2025-10-15T16:03:58Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://finance.yahoo.com/news/broadcom-avgo-price-target-raised-160017824.html",
     "publishedAt": "2025-10-15T15:58:15Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://backlinko.com/ai-seo",
     "publishedAt": "2025-10-15T15:22:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T01:20:30.447Z"
+    "collectedAt": "2025-10-17T06:26:38.680Z"
   }
 ]
