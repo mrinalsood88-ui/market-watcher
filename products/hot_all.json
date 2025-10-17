@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T12:19:07.585Z"
+    "collectedAt": "2025-10-17T12:37:19.319Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T12:19:07.585Z"
+    "collectedAt": "2025-10-17T12:37:19.319Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T12:19:08.552Z"
+    "collectedAt": "2025-10-17T12:37:19.340Z"
   },
   {
     "rank": 1,
+    "title": "Top 10 Graphic Design Blogs to Follow in 2026",
+    "source": "Weandthecolor.com",
+    "url": "https://weandthecolor.com/top-10-graphic-design-blogs-to-follow-in-2026/206279",
+    "publishedAt": "2025-10-16T12:35:54Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-17T12:37:19.449Z"
+  },
+  {
+    "rank": 2,
     "title": "Ariana Greenblatt On Her IRL 'Barbie' Style, Rory's BFs, & Revolve",
     "source": "Elite Daily",
     "url": "https://www.elitedaily.com/fashion/ariana-greenblatt-barbie-style-inspiration-revolve-fall-2025-campaign-interview",
     "publishedAt": "2025-10-16T12:01:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Customer Satisfaction Gap Widens Between Big 5 and Midsize Banks in Canada, J.D. Power Finds",
     "source": "Financial Post",
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/customer-satisfaction-gap-widens-between-big-5-and-midsize-banks-in-canada-j-d-power-finds",
     "publishedAt": "2025-10-16T10:07:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Nancy Pelosi And Warren Buffett Are Betting On The Same 4 Stocks—Here's What They Know",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/nancy-pelosi-warren-buffett-betting-094607489.html",
     "publishedAt": "2025-10-16T09:46:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "From Snake Oil to Wellness Influencers: The Rise and Rise of Health Misinformation",
     "source": "CNET",
     "url": "https://www.cnet.com/health/features/snake-oil-wellness-influencers-rise-health-misinformation/",
     "publishedAt": "2025-10-16T07:20:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "K.M. and the regulation about the Unknown Soldier, PASOK aiming for bronze (after Tsipras), the nerves of the MPs, Grimaldi and Syvota, the German and Wahba",
     "source": "Protothema.gr",
     "url": "https://en.protothema.gr/2025/10/16/k-m-and-the-regulation-about-the-unknown-soldier-pasok-aiming-for-bronze-after-tsipras-the-nerves-of-the-mps-grimaldi-and-syvota-the-german-and-wahba/",
     "publishedAt": "2025-10-16T06:37:36Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Trader Joe's sued by Smucker's over alleged Uncrustables 'copycats'",
     "source": "USA Today",
     "url": "https://www.usatoday.com/story/money/2025/10/15/trader-joes-sued-allegedly-copying-smuckers-uncrustables/86711857007/",
     "publishedAt": "2025-10-15T22:46:53Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "Meghan Markle Just Wore Earrings From Polène That Are the Epitome of French-Girl Sophistication — Here’s Where to Find Her Exact Pair",
     "source": "WWD",
     "url": "http://wwd.com/shop/shop-fashion/meghan-markle-polene-earrings-where-to-buy-online-1238304397/",
     "publishedAt": "2025-10-15T20:32:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Korean Pink Salt Trick Study Released by LipoVive Highlights Natural GLP-1 Pathway Support Through Hydration and Nutrient Signaling",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/15/3167447/0/en/Korean-Pink-Salt-Trick-Study-Released-by-LipoVive-Highlights-Natural-GLP-1-Pathway-Support-Through-Hydration-and-Nutrient-Signaling.html",
     "publishedAt": "2025-10-15T19:39:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "Ilana Glazer’s essentials include a ‘delicious’ heel, a ‘big ‘ol’ Telfar bag and a facial cupping tool",
     "source": "Page Six",
     "url": "https://pagesix.com/2025/10/15/style/ilana-glazer-shares-her-fashion-and-beauty-favorites/",
     "publishedAt": "2025-10-15T18:18:21Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
-  },
-  {
-    "rank": 10,
-    "title": "Effortlessly Cool Haircuts for Men with Straight Hair",
-    "source": "Fashionbeans.com",
-    "url": "https://www.fashionbeans.com/article/straight-hair-haircuts/",
-    "publishedAt": "2025-10-15T17:41:33Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T12:19:08.740Z"
+    "collectedAt": "2025-10-17T12:37:19.449Z"
   }
 ]
