@@ -1,62 +1,62 @@
 [
   {
     "file": "hot_all.json",
-    "modified": "2025-10-16T18:26:33.282Z"
+    "modified": "2025-10-17T01:20:30.447Z"
   },
   {
-    "file": "hot_all_2025-10-16.json",
-    "modified": "2025-10-16T18:26:33.282Z"
+    "file": "hot_all_2025-10-17.json",
+    "modified": "2025-10-17T01:20:30.447Z"
   },
   {
     "file": "news.json",
-    "modified": "2025-10-16T18:26:33.282Z"
-  },
-  {
-    "file": "hot_all_2025-10-07.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-08.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-09.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-10.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-11.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-12.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "hot_all_2025-10-15.json",
-    "modified": "2025-10-16T18:26:30.232Z"
-  },
-  {
-    "file": "index.json",
-    "modified": "2025-10-16T18:26:30.232Z"
+    "modified": "2025-10-17T01:20:30.446Z"
   },
   {
     "file": "shopify_products.json",
-    "modified": "2025-10-16T18:26:30.232Z"
+    "modified": "2025-10-17T01:20:21.004Z"
   },
   {
     "file": "hot_all_2025-10-01.json",
-    "modified": "2025-10-16T18:26:30.231Z"
+    "modified": "2025-10-17T01:20:21.003Z"
   },
   {
     "file": "hot_all_2025-10-02.json",
-    "modified": "2025-10-16T18:26:30.231Z"
+    "modified": "2025-10-17T01:20:21.003Z"
   },
   {
     "file": "hot_all_2025-10-03.json",
-    "modified": "2025-10-16T18:26:30.231Z"
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-07.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-08.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-09.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-10.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-11.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-12.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-15.json",
+    "modified": "2025-10-17T01:20:21.003Z"
+  },
+  {
+    "file": "hot_all_2025-10-16.json",
+    "modified": "2025-10-17T01:20:21.003Z"
   }
 ]
