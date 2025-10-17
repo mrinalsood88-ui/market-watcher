@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T18:12:24.292Z"
+    "collectedAt": "2025-10-17T18:23:39.643Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-17T18:12:24.292Z"
+    "collectedAt": "2025-10-17T18:23:39.643Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11whfzz8nl&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11cmvly6vm&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11yb4wkpr_&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11y3nx3k8c&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-17T18:12:25.048Z"
+    "collectedAt": "2025-10-17T18:23:39.660Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://fortune.com/2025/10/16/this-26-year-olds-tiktok-like-ai-app-makes-playful-creative-short-videos-from-just-a-few-words-its-built-for-gen-z/",
     "publishedAt": "2025-10-16T18:10:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://nypost.com/2025/10/16/health/bladder-issues-this-27-pumpkin-seed-oil-on-amazon-could-help/",
     "publishedAt": "2025-10-16T18:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://nypost.com/2025/10/16/shopping/fall-for-this-tiktoks-trendiest-finds-for-the-coziest-season-yet/",
     "publishedAt": "2025-10-16T17:32:50Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/crypto-industrys-rush-tokenize-stocks-170114880.html",
     "publishedAt": "2025-10-16T17:01:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.creativebloq.com/3d/video-game-design/indie-developer-hilariously-shows-how-not-to-market-a-video-game",
     "publishedAt": "2025-10-16T14:20:40Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://finance.yahoo.com/news/mark-cuban-backed-fintech-startup-134605986.html",
     "publishedAt": "2025-10-16T13:46:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://weandthecolor.com/top-10-graphic-design-blogs-to-follow-in-2026/206279",
     "publishedAt": "2025-10-16T12:35:54Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://www.elitedaily.com/fashion/ariana-greenblatt-barbie-style-inspiration-revolve-fall-2025-campaign-interview",
     "publishedAt": "2025-10-16T12:01:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/customer-satisfaction-gap-widens-between-big-5-and-midsize-banks-in-canada-j-d-power-finds",
     "publishedAt": "2025-10-16T10:07:44Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/news/nancy-pelosi-warren-buffett-betting-094607489.html",
     "publishedAt": "2025-10-16T09:46:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-17T18:12:25.214Z"
+    "collectedAt": "2025-10-17T18:23:39.752Z"
   }
 ]
