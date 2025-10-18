@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.259Z"
+    "collectedAt": "2025-10-18T12:33:28.541Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.259Z"
+    "collectedAt": "2025-10-18T12:33:28.541Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T12:16:47.928Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://www.webfx.com/blog/ai/meta-vibes-ai-videos/",
     "publishedAt": "2025-10-17T12:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes",
     "publishedAt": "2025-10-17T10:18:34Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.dreamhost.com/blog/brand-mentions/",
     "publishedAt": "2025-10-17T10:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://www.the-independent.com/life-style/fashion/extras-inside-haircare-sol-de-janeiro-color-wow-b2847127.html",
     "publishedAt": "2025-10-17T06:30:27Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/vertical-software-stocks-q2-results-033414050.html",
     "publishedAt": "2025-10-17T03:34:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.ibtimes.com/halo-grow-reviews-consumer-reports-all-you-need-know-about-halogrow-hair-growth-spray-3787357",
     "publishedAt": "2025-10-17T00:39:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.ciwebgroup.com/blog/the-ultimate-guide-to-ai-powered-digital-marketing",
     "publishedAt": "2025-10-16T21:21:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://finance.yahoo.com/news/analyst-explains-why-tjx-companies-210808021.html",
     "publishedAt": "2025-10-16T21:08:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
     "rank": 9,
@@ -174,6 +174,6 @@
     "url": "https://finance.yahoo.com/news/xrp-awaits-etf-decisions-push-203118305.html",
     "publishedAt": "2025-10-16T20:31:18Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T12:16:48.201Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   }
 ]

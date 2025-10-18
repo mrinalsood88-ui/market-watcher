@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.561Z"
+    "collectedAt": "2025-10-18T12:33:28.541Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.561Z"
+    "collectedAt": "2025-10-18T12:33:28.541Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,87 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:24:25.581Z"
+    "collectedAt": "2025-10-18T12:33:28.572Z"
   },
   {
     "rank": 1,
+    "title": "Meta Vibes Is Here and It’s About To Shake Up Short-Form Content (+ How It Opens New Doors for Brands)",
+    "source": "Webfx.com",
+    "url": "https://www.webfx.com/blog/ai/meta-vibes-ai-videos/",
+    "publishedAt": "2025-10-17T12:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-18T12:33:28.890Z"
+  },
+  {
+    "rank": 2,
+    "title": "S&P Futures Trim Losses as Trump Eases Trade Concerns",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes",
+    "publishedAt": "2025-10-17T10:18:34Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-18T12:33:28.890Z"
+  },
+  {
+    "rank": 3,
+    "title": "How and Why To Capitalize on Brand Mentions in the AI Era",
+    "source": "Dreamhost.com",
+    "url": "https://www.dreamhost.com/blog/brand-mentions/",
+    "publishedAt": "2025-10-17T10:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-18T12:33:28.890Z"
+  },
+  {
+    "rank": 4,
+    "title": "5 best beauty advent calendars of 2025",
+    "source": "The-independent.com",
+    "url": "https://www.the-independent.com/life-style/fashion/extras-inside-haircare-sol-de-janeiro-color-wow-b2847127.html",
+    "publishedAt": "2025-10-17T06:30:27Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-18T12:33:28.890Z"
+  },
+  {
+    "rank": 5,
     "title": "Vertical Software Stocks Q2 Results: Benchmarking Q2 Holdings (NYSE:QTWO)",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/vertical-software-stocks-q2-results-033414050.html",
     "publishedAt": "2025-10-17T03:34:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
-    "rank": 2,
+    "rank": 6,
     "title": "Halo Grow Reviews [CONSUMER REPORTS]: All You Need to Know About HaloGrow Hair Growth Spray",
     "source": "International Business Times",
     "url": "https://www.ibtimes.com/halo-grow-reviews-consumer-reports-all-you-need-know-about-halogrow-hair-growth-spray-3787357",
     "publishedAt": "2025-10-17T00:39:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
-    "rank": 3,
+    "rank": 7,
     "title": "The Ultimate Guide to AI Marketing: Supercharge Your Strategy",
     "source": "Ciwebgroup.com",
     "url": "https://www.ciwebgroup.com/blog/the-ultimate-guide-to-ai-powered-digital-marketing",
     "publishedAt": "2025-10-16T21:21:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
-    "rank": 4,
+    "rank": 8,
     "title": "Analyst Explains Why TJX Companies (TJX) ‘Continues to Win’",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/analyst-explains-why-tjx-companies-210808021.html",
     "publishedAt": "2025-10-16T21:08:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   },
   {
-    "rank": 5,
+    "rank": 9,
     "title": "XRP Awaits ETF Decisions: Is A Push To $3 Coming?",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/xrp-awaits-etf-decisions-push-203118305.html",
     "publishedAt": "2025-10-16T20:31:18Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
-  },
-  {
-    "rank": 6,
-    "title": "Paige DeSorbo is ‘shook’ over this $70 bag: ‘Never seen anything so gorgeous’",
-    "source": "Page Six",
-    "url": "https://pagesix.com/2025/10/16/style/paige-desorbo-is-shook-over-this-gorgeous-70-bag-from-amazon/",
-    "publishedAt": "2025-10-16T19:42:51Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
-  },
-  {
-    "rank": 7,
-    "title": "Top Venezuelan Regime Henchman: Maria Corina Machado 'Bought' Her Nobel Peace Prize",
-    "source": "Breitbart News",
-    "url": "https://www.breitbart.com/latin-america/2025/10/16/top-venezuelan-regime-henchman-maria-corina-machado-bought-her-nobel-peace-prize/",
-    "publishedAt": "2025-10-16T19:00:56Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
-  },
-  {
-    "rank": 8,
-    "title": "Link Building Strategies: How to Acquire High-Quality Backlinks | Product Launch List - Premium SEO & Link Building Hub",
-    "source": "Productlaunchlist.com",
-    "url": "https://productlaunchlist.com/blog/link-building-strategies-how-to-acquire-high-quality-backlinks",
-    "publishedAt": "2025-10-16T18:58:22Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
-  },
-  {
-    "rank": 9,
-    "title": "This 26-year-old’s TikTok-like AI app makes playful, creative short videos from just a few words—it’s built for Gen Z",
-    "source": "Fortune",
-    "url": "https://fortune.com/2025/10/16/this-26-year-olds-tiktok-like-ai-app-makes-playful-creative-short-videos-from-just-a-few-words-its-built-for-gen-z/",
-    "publishedAt": "2025-10-16T18:10:16Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
-  },
-  {
-    "rank": 10,
-    "title": "Pumpkin spice, who? Studies show this fall fave could help with bathroom woes — users call it ‘magic’",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/10/16/health/bladder-issues-this-27-pumpkin-seed-oil-on-amazon-could-help/",
-    "publishedAt": "2025-10-16T18:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:24:25.764Z"
+    "collectedAt": "2025-10-18T12:33:28.890Z"
   }
 ]
