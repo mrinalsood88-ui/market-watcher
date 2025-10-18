@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.047Z"
+    "collectedAt": "2025-10-18T18:22:26.008Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.047Z"
+    "collectedAt": "2025-10-18T18:22:26.008Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11k3tvfxlg&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T18:12:10.971Z"
+    "collectedAt": "2025-10-18T18:22:26.067Z"
   },
   {
     "rank": 1,
+    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html",
+    "publishedAt": "2025-10-17T18:20:20Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-18T18:22:26.246Z"
+  },
+  {
+    "rank": 2,
     "title": "Health Care Has a Trust Problem. Influencers Aren't the Answer",
     "source": "CNET",
     "url": "https://www.cnet.com/health/features/health-care-trust-problem-influencers-arent-answer/",
     "publishedAt": "2025-10-17T17:45:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Bloomingdale’s big beauty event has arrived — here’s what I’m buying",
     "source": "Page Six",
     "url": "https://pagesix.com/2025/10/17/style/what-to-buy-during-bloomingdales-beauty-benefits-event/",
     "publishedAt": "2025-10-17T16:19:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "Hokas are being dumped for $45 slip-on shoes from Amazon — the ‘cushioning is next level’",
     "source": "New York Post",
     "url": "https://nypost.com/2025/10/17/shopping/hokas-are-being-dumped-for-45-cloud-like-sneakers-on-amazon/",
     "publishedAt": "2025-10-17T16:10:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Trending In London This Fall: Diwali At Harrods, Cherry Stem Perfume, And Collagen Smoothies",
     "source": "Forbes",
     "url": "https://www.forbes.com/sites/angelalei/2025/10/17/trending-in-london-this-fall-diwali-at-harrods-cherry-stem-perfume-and-collagen-smoothies/",
     "publishedAt": "2025-10-17T15:47:39Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Micron to cease chip sales to China, bitcoin sinks to 4-month low",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/video/micron-cease-chip-sales-china-144527158.html",
     "publishedAt": "2025-10-17T14:45:27Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "These small bags pack big style for travel and every day",
     "source": "Fox News",
     "url": "https://www.foxnews.com/deals/small-travel-bags",
     "publishedAt": "2025-10-17T14:20:37Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "Gift Ideas That Actually Work for Women You’re Dating",
     "source": "Incrediblethings.com",
     "url": "https://incrediblethings.com/shopping/gifts/gift-ideas-that-actually-work-for-women-youre-dating/",
     "publishedAt": "2025-10-17T14:05:37Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Meta Vibes Is Here and It’s About To Shake Up Short-Form Content (+ How It Opens New Doors for Brands)",
     "source": "Webfx.com",
     "url": "https://www.webfx.com/blog/ai/meta-vibes-ai-videos/",
     "publishedAt": "2025-10-17T12:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "S&P Futures Trim Losses as Trump Eases Trade Concerns",
     "source": "Barchart.com",
     "url": "https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes",
     "publishedAt": "2025-10-17T10:18:34Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
-  },
-  {
-    "rank": 10,
-    "title": "How and Why To Capitalize on Brand Mentions in the AI Era",
-    "source": "Dreamhost.com",
-    "url": "https://www.dreamhost.com/blog/brand-mentions/",
-    "publishedAt": "2025-10-17T10:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T18:12:11.111Z"
+    "collectedAt": "2025-10-18T18:22:26.246Z"
   }
 ]
