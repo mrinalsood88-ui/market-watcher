@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T06:13:20.923Z"
+    "collectedAt": "2025-10-18T06:24:25.561Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-18T06:13:20.923Z"
+    "collectedAt": "2025-10-18T06:24:25.561Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-18T06:13:21.911Z"
+    "collectedAt": "2025-10-18T06:24:25.581Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/vertical-software-stocks-q2-results-033414050.html",
     "publishedAt": "2025-10-17T03:34:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.ibtimes.com/halo-grow-reviews-consumer-reports-all-you-need-know-about-halogrow-hair-growth-spray-3787357",
     "publishedAt": "2025-10-17T00:39:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://www.ciwebgroup.com/blog/the-ultimate-guide-to-ai-powered-digital-marketing",
     "publishedAt": "2025-10-16T21:21:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/analyst-explains-why-tjx-companies-210808021.html",
     "publishedAt": "2025-10-16T21:08:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/xrp-awaits-etf-decisions-push-203118305.html",
     "publishedAt": "2025-10-16T20:31:18Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://pagesix.com/2025/10/16/style/paige-desorbo-is-shook-over-this-gorgeous-70-bag-from-amazon/",
     "publishedAt": "2025-10-16T19:42:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://www.breitbart.com/latin-america/2025/10/16/top-venezuelan-regime-henchman-maria-corina-machado-bought-her-nobel-peace-prize/",
     "publishedAt": "2025-10-16T19:00:56Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://productlaunchlist.com/blog/link-building-strategies-how-to-acquire-high-quality-backlinks",
     "publishedAt": "2025-10-16T18:58:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://fortune.com/2025/10/16/this-26-year-olds-tiktok-like-ai-app-makes-playful-creative-short-videos-from-just-a-few-words-its-built-for-gen-z/",
     "publishedAt": "2025-10-16T18:10:16Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://nypost.com/2025/10/16/health/bladder-issues-this-27-pumpkin-seed-oil-on-amazon-could-help/",
     "publishedAt": "2025-10-16T18:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-18T06:13:22.073Z"
+    "collectedAt": "2025-10-18T06:24:25.764Z"
   }
 ]
