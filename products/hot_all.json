@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T06:14:25.676Z"
+    "collectedAt": "2025-10-19T06:25:36.324Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T06:14:25.676Z"
+    "collectedAt": "2025-10-19T06:25:36.324Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.879Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.879Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.880Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.880Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.880Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T06:14:26.880Z"
+    "collectedAt": "2025-10-19T06:25:36.435Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/looking-yields-philip-morris-southern-020113014.html",
     "publishedAt": "2025-10-18T02:01:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.706Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "https://www.yahoo.com/lifestyle/articles/scott-galloway-reveals-young-successful-230122459.html",
     "publishedAt": "2025-10-17T23:01:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://finance.yahoo.com/news/donald-trump-said-call-bitcoin-183119375.html",
     "publishedAt": "2025-10-17T18:31:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html",
     "publishedAt": "2025-10-17T18:20:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-weekly-wins-after-volatile-week-as-trump-signals-china-talks-back-on-track-182020560.html",
     "publishedAt": "2025-10-17T18:20:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.cnet.com/health/features/health-care-trust-problem-influencers-arent-answer/",
     "publishedAt": "2025-10-17T17:45:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://pagesix.com/2025/10/17/style/what-to-buy-during-bloomingdales-beauty-benefits-event/",
     "publishedAt": "2025-10-17T16:19:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://nypost.com/2025/10/17/shopping/hokas-are-being-dumped-for-45-cloud-like-sneakers-on-amazon/",
     "publishedAt": "2025-10-17T16:10:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://www.forbes.com/sites/angelalei/2025/10/17/trending-in-london-this-fall-diwali-at-harrods-cherry-stem-perfume-and-collagen-smoothies/",
     "publishedAt": "2025-10-17T15:47:39Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/video/micron-cease-chip-sales-china-144527158.html",
     "publishedAt": "2025-10-17T14:45:27Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T06:14:27.194Z"
+    "collectedAt": "2025-10-19T06:25:36.707Z"
   }
 ]
