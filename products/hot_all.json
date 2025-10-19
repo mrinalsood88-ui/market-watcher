@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.361Z"
+    "collectedAt": "2025-10-19T18:12:22.582Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.361Z"
+    "collectedAt": "2025-10-19T18:12:22.582Z"
   },
   {
     "rank": 1,
@@ -33,19 +33,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
+    "collectedAt": "2025-10-19T18:12:23.036Z"
   },
   {
     "rank": 2,
     "name": {
-      "q": "/g/11vhqwpgql",
-      "title": "Restored Apple iPhone 15 Pro Max",
+      "q": "/g/11vryzb5_n",
+      "title": "Samsung Galaxy S24 Ultra",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vhqwpgql",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11vryzb5_n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
+    "collectedAt": "2025-10-19T18:12:23.036Z"
   },
   {
     "rank": 3,
@@ -57,132 +57,132 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
+    "collectedAt": "2025-10-19T18:12:23.036Z"
   },
   {
     "rank": 4,
     "name": {
-      "q": "/g/11md4s_lw9",
-      "title": "Madden NFL 26",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11md4s_lw9",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11md4s_lw9&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
-  },
-  {
-    "rank": 5,
-    "name": {
       "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
-      "type": "Facial moisturizer",
+      "title": "La Roche Posay Cicaplast Baume B5 + Ultra Repairing Soothing Balm 40 ml",
+      "type": "Shoe insert",
       "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
+    "collectedAt": "2025-10-19T18:12:23.036Z"
+  },
+  {
+    "rank": 5,
+    "name": {
+      "q": "/g/11bxf39p9v",
+      "title": "Detroit: Become Human",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bxf39p9v",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-19T18:12:23.036Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11bwh01m6k",
-      "title": "CeraVe Cream Moisturizing",
-      "type": "Facial moisturizer",
-      "link": "https://trends.google.com/trends/explore?q=/g/11bwh01m6k",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwh01m6k&tz=420"
+      "q": "/g/11g_rlctt4",
+      "title": "Sony α6400",
+      "type": "Mirrorless system camera",
+      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T12:33:09.445Z"
+    "collectedAt": "2025-10-19T18:12:23.036Z"
   },
   {
     "rank": 1,
+    "title": "UK's Biggest Retail Investment Platform Warns Against Including Bitcoin In Your Portfolio: 'Not An Asset Class,' 'No Intrinsic Value'",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/uks-biggest-retail-investment-platform-163207875.html",
+    "publishedAt": "2025-10-18T16:32:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-19T18:12:23.227Z"
+  },
+  {
+    "rank": 2,
+    "title": "Elon Musk’s $1 trillion stock award gets more ridiculous the more you look at it",
+    "source": "Electrek",
+    "url": "http://electrek.co/2025/10/18/elon-musks-1-trillion-stock-award-gets-more-ridiculous-the-more-you-look-into-it/",
+    "publishedAt": "2025-10-18T14:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-19T18:12:23.227Z"
+  },
+  {
+    "rank": 3,
     "title": "More Than Half Of American Workers Are Putting In More Hours Than They Did Six Months Ago To Stabilize Their Finances",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/more-half-american-workers-putting-123145803.html",
     "publishedAt": "2025-10-18T12:31:45Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Post Beauty Report: The 11+ best beauty deals, per our expert",
     "source": "New York Post",
     "url": "https://nypost.com/shopping/best-beauty-deals-sales/",
     "publishedAt": "2025-10-18T12:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Tariff tousles result in UPS destroying, not delivering some packages",
     "source": "USA Today",
     "url": "https://www.usatoday.com/story/money/2025/10/18/ups-destroying-packages-tariffs/86748183007/",
     "publishedAt": "2025-10-18T10:05:37Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "title": "39 Marketing Terms Every Business Owner Should Know (2025) - Shopify",
     "source": "Shopify.com",
     "url": "https://www.shopify.com/blog/marketing-terms",
     "publishedAt": "2025-10-18T09:35:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "title": "Looking For Yields: Philip Morris, Southern Company, And Clorox Are Consistent Moneymakers",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/looking-yields-philip-morris-southern-020113014.html",
     "publishedAt": "2025-10-18T02:01:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "title": "Scott Galloway Reveals What Young Successful People Have In Common: 'They're The Ones That Like Other People The Most'",
     "source": "Yahoo Entertainment",
     "url": "https://www.yahoo.com/lifestyle/articles/scott-galloway-reveals-young-successful-230122459.html",
     "publishedAt": "2025-10-17T23:01:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "Donald Trump Said 'They Call Me The Bitcoin President' — Is Britain's Nigel Farage About To Become A 'Crypto Champion'?",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/donald-trump-said-call-bitcoin-183119375.html",
     "publishedAt": "2025-10-17T18:31:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html",
     "publishedAt": "2025-10-17T18:20:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
-  },
-  {
-    "rank": 9,
-    "title": "Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-weekly-wins-after-volatile-week-as-trump-signals-china-talks-back-on-track-182020560.html",
-    "publishedAt": "2025-10-17T18:20:20Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
-  },
-  {
-    "rank": 10,
-    "title": "Health Care Has a Trust Problem. Influencers Aren't the Answer",
-    "source": "CNET",
-    "url": "https://www.cnet.com/health/features/health-care-trust-problem-influencers-arent-answer/",
-    "publishedAt": "2025-10-17T17:45:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T12:33:09.711Z"
+    "collectedAt": "2025-10-19T18:12:23.227Z"
   }
 ]
