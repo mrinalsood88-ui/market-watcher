@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T18:12:22.582Z"
+    "collectedAt": "2025-10-19T18:22:44.750Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-19T18:12:22.582Z"
+    "collectedAt": "2025-10-19T18:22:44.750Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 6,
@@ -93,7 +93,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-19T18:12:23.036Z"
+    "collectedAt": "2025-10-19T18:22:44.770Z"
   },
   {
     "rank": 1,
@@ -102,7 +102,7 @@
     "url": "https://finance.yahoo.com/news/uks-biggest-retail-investment-platform-163207875.html",
     "publishedAt": "2025-10-18T16:32:07Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 2,
@@ -111,7 +111,7 @@
     "url": "http://electrek.co/2025/10/18/elon-musks-1-trillion-stock-award-gets-more-ridiculous-the-more-you-look-into-it/",
     "publishedAt": "2025-10-18T14:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 3,
@@ -120,7 +120,7 @@
     "url": "https://finance.yahoo.com/news/more-half-american-workers-putting-123145803.html",
     "publishedAt": "2025-10-18T12:31:45Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 4,
@@ -129,7 +129,7 @@
     "url": "https://nypost.com/shopping/best-beauty-deals-sales/",
     "publishedAt": "2025-10-18T12:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 5,
@@ -138,7 +138,7 @@
     "url": "https://www.usatoday.com/story/money/2025/10/18/ups-destroying-packages-tariffs/86748183007/",
     "publishedAt": "2025-10-18T10:05:37Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 6,
@@ -147,7 +147,7 @@
     "url": "https://www.shopify.com/blog/marketing-terms",
     "publishedAt": "2025-10-18T09:35:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 7,
@@ -156,7 +156,7 @@
     "url": "https://finance.yahoo.com/news/looking-yields-philip-morris-southern-020113014.html",
     "publishedAt": "2025-10-18T02:01:13Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 8,
@@ -165,7 +165,7 @@
     "url": "https://www.yahoo.com/lifestyle/articles/scott-galloway-reveals-young-successful-230122459.html",
     "publishedAt": "2025-10-17T23:01:22Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 9,
@@ -174,7 +174,7 @@
     "url": "https://finance.yahoo.com/news/donald-trump-said-call-bitcoin-183119375.html",
     "publishedAt": "2025-10-17T18:31:19Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   },
   {
     "rank": 10,
@@ -183,6 +183,6 @@
     "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html",
     "publishedAt": "2025-10-17T18:20:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-19T18:12:23.227Z"
+    "collectedAt": "2025-10-19T18:22:44.938Z"
   }
 ]
