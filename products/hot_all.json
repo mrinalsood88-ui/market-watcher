@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-21T12:20:12.502Z"
+    "collectedAt": "2025-10-21T18:13:55.610Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-21T12:20:12.503Z"
+    "collectedAt": "2025-10-21T18:13:55.611Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 3,
@@ -57,19 +57,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 4,
     "name": {
       "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5+",
+      "title": "La Roche Posay Cicaplast Baume B5 + Ultra Repairing Soothing Balm 40 ml",
       "type": "Shoe insert",
       "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-21T12:20:15.216Z"
+    "collectedAt": "2025-10-21T18:13:56.493Z"
   },
   {
     "rank": 1,
+    "title": "The beauty industry has its head up your butt",
+    "source": "Salon",
+    "url": "https://www.salon.com/2025/10/20/the-beauty-industry-has-its-head-up-your-butt/",
+    "publishedAt": "2025-10-20T16:00:18Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-21T18:13:56.735Z"
+  },
+  {
+    "rank": 2,
+    "title": "Riley Tiernan On Her Post-Game Routine, Self-Care Faves, & Playlist",
+    "source": "Elite Daily",
+    "url": "https://www.elitedaily.com/wellness/riley-tiernan-post-game-routine-self-care-products",
+    "publishedAt": "2025-10-20T15:47:17Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-21T18:13:56.735Z"
+  },
+  {
+    "rank": 3,
     "title": "Strip humanity to its essence and you’ll build a durable business",
     "source": "Businessesgrow.com",
     "url": "https://businessesgrow.com/2025/10/20/durable-business/",
     "publishedAt": "2025-10-20T12:00:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "Important Notice to Long-Term Shareholders of Amylyx Pharmaceuticals, Inc. (NASDAQ: AMLX); Baxter International Inc. (NYSE: BAX); Five Below, Inc. (NASDAQ: FIVE); and Humana Inc. (NYSE: HUM): Grabar Law Office is Investigating Claims on Your Behalf",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/20/3169274/0/en/Important-Notice-to-Long-Term-Shareholders-of-Amylyx-Pharmaceuticals-Inc-NASDAQ-AMLX-Baxter-International-Inc-NYSE-BAX-Five-Below-Inc-NASDAQ-FIVE-and-Humana-Inc-NYSE-HUM-Grabar-Law.html",
     "publishedAt": "2025-10-20T11:49:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Godrej Group company plans third debt sale in three months, eyeing $230 million",
     "source": "The Times of India",
     "url": "https://economictimes.indiatimes.com/markets/bonds/godrej-group-company-plans-third-debt-sale-in-three-months-eyeing-230-million/articleshow/124704744.cms",
     "publishedAt": "2025-10-20T11:46:57Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "title": "The ‘Anti-Woke’ Tax That All Americans Are Paying",
     "source": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2025/10/anti-woke-tax-tariffs-trump/684593/",
     "publishedAt": "2025-10-20T11:31:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "title": "Podcast: Cloud and DevOps InfoQ Trends Report 2025",
     "source": "InfoQ.com",
     "url": "https://www.infoq.com/podcasts/cloud-devops-trends-2025/",
     "publishedAt": "2025-10-20T11:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "title": "The M5 is nice but I’m more interested in what’s coming next",
     "source": "Macworld",
     "url": "https://www.macworld.com/article/2939079/the-m5-is-nice-but-im-more-interested-in-whats-coming-next.html",
     "publishedAt": "2025-10-20T10:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "From screens to shopping carts: Decoding entertainment’s retail ripple effect",
     "source": "Retail Dive",
     "url": "https://www.retaildive.com/spons/from-screens-to-shopping-carts-decoding-entertainments-retail-ripple-effe/802338/",
     "publishedAt": "2025-10-20T09:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Automation Software Stocks Q2 Earnings: SoundHound AI (NASDAQ:SOUN) Best of the Bunch",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/automation-software-stocks-q2-earnings-033351218.html",
     "publishedAt": "2025-10-20T03:33:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
-  },
-  {
-    "rank": 9,
-    "title": "How Altria, PepsiCo, And Brookfield Infrastructure Partners Can Put Cash In Your Pocket",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/altria-pepsico-brookfield-infrastructure-partners-020104540.html",
-    "publishedAt": "2025-10-20T02:01:04Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
-  },
-  {
-    "rank": 10,
-    "title": "My 74-Year-Old Dad Has $800K In His 401(k), And My Brother Keeps Telling Him to Move It Into An Annuity. Is This A Smart Move?",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/74-old-dad-800k-401-140122636.html",
-    "publishedAt": "2025-10-19T14:01:22Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-21T12:20:15.333Z"
+    "collectedAt": "2025-10-21T18:13:56.735Z"
   }
 ]
