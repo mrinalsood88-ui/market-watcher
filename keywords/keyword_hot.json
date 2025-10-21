@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-21T06:15:46.118Z"
+    "collectedAt": "2025-10-21T12:20:12.502Z"
   },
   {
     "rank": 2,
@@ -21,6 +21,6 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-21T06:15:46.119Z"
+    "collectedAt": "2025-10-21T12:20:12.503Z"
   }
 ]
