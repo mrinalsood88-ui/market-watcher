@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.182Z"
+    "collectedAt": "2025-10-22T18:15:49.374Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.183Z"
+    "collectedAt": "2025-10-22T18:15:49.374Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,87 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T12:20:05.738Z"
+    "collectedAt": "2025-10-22T18:15:49.803Z"
   },
   {
     "rank": 1,
+    "title": "Retail’s Holiday 2025: More Sales, Profits, And AI-Driven Commerce",
+    "source": "Forrester.com",
+    "url": "https://www.forrester.com/blogs/retails-holiday-2025-more-sales-profits-and-ai-driven-commerce/",
+    "publishedAt": "2025-10-21T17:38:28Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 2,
+    "title": "Crown Holdings: Is A Guidance Boost Enough To Lift The Stock?",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/sasirekhasubramanian/2025/10/21/crown-holdings-is-a-guidance-boost-enough-to-lift-the-stock/",
+    "publishedAt": "2025-10-21T17:24:43Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 3,
+    "title": "An Honest Review Of Kylie Jenner's King Kylie Cosmetics Collection",
+    "source": "Elite Daily",
+    "url": "https://www.elitedaily.com/beauty/kylie-jenner-king-kylie-cosmetics-collection-review",
+    "publishedAt": "2025-10-21T16:10:34Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 4,
+    "title": "Adidas’ Collection of Brown Sneakers, Slides, Hiking Shoes, and Accessories Lets You Tap Into Fall’s Hottest Hue",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-shoes/adidas-best-brown-shoes-fall-collection-shop-online-1238314159/",
+    "publishedAt": "2025-10-21T16:01:48Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 5,
+    "title": "Is BTC/DOGE/XRP skyrocketing or is it a bubble? Industry insiders offer their latest analysis!",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/21/3170391/0/en/Is-BTC-DOGE-XRP-skyrocketing-or-is-it-a-bubble-Industry-insiders-offer-their-latest-analysis.html",
+    "publishedAt": "2025-10-21T14:24:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 6,
+    "title": "Important Notice to Long-Term Shareholders of Baxter International Inc. (NYSE: BAX); Five Below, Inc. (NASDAQ: FIVE); and Humana Inc. (NYSE: HUM); and Ibotta, Inc. (NYSE: IBTA): Grabar Law Office is Investigating Claims on Your Behalf",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/21/3170314/0/en/Important-Notice-to-Long-Term-Shareholders-of-Baxter-International-Inc-NYSE-BAX-Five-Below-Inc-NASDAQ-FIVE-and-Humana-Inc-NYSE-HUM-and-Ibotta-Inc-NYSE-IBTA-Grabar-Law-Office-is-Inv.html",
+    "publishedAt": "2025-10-21T13:21:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T18:15:49.985Z"
+  },
+  {
+    "rank": 7,
     "title": "If You Invested $10K In PotlatchDeltic Stock 10 Years Ago, How Much Would You Have Now?",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/invested-10k-potlatchdeltic-stock-10-120110023.html",
     "publishedAt": "2025-10-21T12:01:10Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
+    "collectedAt": "2025-10-22T18:15:49.985Z"
   },
   {
-    "rank": 2,
+    "rank": 8,
     "title": "Best Meme Coins Live News Today: Latest Degen Alpha & Market Updates (October 21)",
     "source": "Bitcoinist",
     "url": "https://bitcoinist.com/best-meme-coins-live-news-today-october-21-2025/",
     "publishedAt": "2025-10-21T10:00:14Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
+    "collectedAt": "2025-10-22T18:15:49.985Z"
   },
   {
-    "rank": 3,
+    "rank": 9,
     "title": "TikTok Marketing: The Complete 2025 Guide to Form Your Strategy (For Creators and Brands)",
     "source": "Buffer.com",
     "url": "https://buffer.com/resources/tiktok-marketing/",
     "publishedAt": "2025-10-21T10:00:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 4,
-    "title": "Synchrony Rides Walmart Alliance to No. 1 in Credit Card Apps",
-    "source": "pymnts.com",
-    "url": "https://www.pymnts.com/mobile-applications/2025/synchrony-rides-walmart-alliance-to-no-1-in-credit-card-apps/",
-    "publishedAt": "2025-10-21T08:00:52Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 5,
-    "title": "Diwali, diyas & the digital life: The festival of lights is no more like your childhood days",
-    "source": "The Times of India",
-    "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/diwali-diyas-the-digital-life-the-festival-of-lights-is-no-more-like-your-childhood-days/articleshow/124713121.cms",
-    "publishedAt": "2025-10-21T05:16:30Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 6,
-    "title": "Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-jump-as-apple-leads-tech-stocks-higher-ahead-of-busy-earnings-week-200047280.html",
-    "publishedAt": "2025-10-20T20:00:47Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 7,
-    "title": "Onboarding Funnel: How To Plan And Build",
-    "source": "Elearningindustry.com",
-    "url": "https://elearningindustry.com/onboarding-funnel-how-to-plan-and-build",
-    "publishedAt": "2025-10-20T19:00:30Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 8,
-    "title": "The beauty industry has its head up your butt",
-    "source": "Salon",
-    "url": "https://www.salon.com/2025/10/20/the-beauty-industry-has-its-head-up-your-butt/",
-    "publishedAt": "2025-10-20T16:00:18Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 9,
-    "title": "Riley Tiernan On Her Post-Game Routine, Self-Care Faves, & Playlist",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/wellness/riley-tiernan-post-game-routine-self-care-products",
-    "publishedAt": "2025-10-20T15:47:17Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
-  },
-  {
-    "rank": 10,
-    "title": "Analyst Explains Why NVIDIA (NVDA) is Investing In Its Own Customers",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-nvda-131720993.html",
-    "publishedAt": "2025-10-20T13:17:20Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T12:20:05.951Z"
+    "collectedAt": "2025-10-22T18:15:49.985Z"
   }
 ]
