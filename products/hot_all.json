@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.094Z"
+    "collectedAt": "2025-10-22T06:15:52.173Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.094Z"
+    "collectedAt": "2025-10-22T06:15:52.173Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-22T00:48:14.676Z"
+    "collectedAt": "2025-10-22T06:15:53.095Z"
   },
   {
     "rank": 1,
+    "title": "Diwali, diyas & the digital life: The festival of lights is no more like your childhood days",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/diwali-diyas-the-digital-life-the-festival-of-lights-is-no-more-like-your-childhood-days/articleshow/124713121.cms",
+    "publishedAt": "2025-10-21T05:16:30Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-22T06:15:53.376Z"
+  },
+  {
+    "rank": 2,
     "title": "Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-jump-as-apple-leads-tech-stocks-higher-ahead-of-busy-earnings-week-200047280.html",
     "publishedAt": "2025-10-20T20:00:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "title": "Onboarding Funnel: How To Plan And Build",
     "source": "Elearningindustry.com",
     "url": "https://elearningindustry.com/onboarding-funnel-how-to-plan-and-build",
     "publishedAt": "2025-10-20T19:00:30Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "title": "The beauty industry has its head up your butt",
     "source": "Salon",
     "url": "https://www.salon.com/2025/10/20/the-beauty-industry-has-its-head-up-your-butt/",
     "publishedAt": "2025-10-20T16:00:18Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "title": "Riley Tiernan On Her Post-Game Routine, Self-Care Faves, & Playlist",
     "source": "Elite Daily",
     "url": "https://www.elitedaily.com/wellness/riley-tiernan-post-game-routine-self-care-products",
     "publishedAt": "2025-10-20T15:47:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "title": "Analyst Explains Why NVIDIA (NVDA) is Investing In Its Own Customers",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-nvda-131720993.html",
     "publishedAt": "2025-10-20T13:17:20Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "title": "Strip humanity to its essence and you’ll build a durable business",
     "source": "Businessesgrow.com",
     "url": "https://businessesgrow.com/2025/10/20/durable-business/",
     "publishedAt": "2025-10-20T12:00:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "title": "Important Notice to Long-Term Shareholders of Amylyx Pharmaceuticals, Inc. (NASDAQ: AMLX); Baxter International Inc. (NYSE: BAX); Five Below, Inc. (NASDAQ: FIVE); and Humana Inc. (NYSE: HUM): Grabar Law Office is Investigating Claims on Your Behalf",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/20/3169274/0/en/Important-Notice-to-Long-Term-Shareholders-of-Amylyx-Pharmaceuticals-Inc-NASDAQ-AMLX-Baxter-International-Inc-NYSE-BAX-Five-Below-Inc-NASDAQ-FIVE-and-Humana-Inc-NYSE-HUM-Grabar-Law.html",
     "publishedAt": "2025-10-20T11:49:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "title": "Godrej Group company plans third debt sale in three months, eyeing $230 million",
     "source": "The Times of India",
     "url": "https://economictimes.indiatimes.com/markets/bonds/godrej-group-company-plans-third-debt-sale-in-three-months-eyeing-230-million/articleshow/124704744.cms",
     "publishedAt": "2025-10-20T11:46:57Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "title": "The ‘Anti-Woke’ Tax That All Americans Are Paying",
     "source": "The Atlantic",
     "url": "https://www.theatlantic.com/ideas/archive/2025/10/anti-woke-tax-tariffs-trump/684593/",
     "publishedAt": "2025-10-20T11:31:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
-  },
-  {
-    "rank": 10,
-    "title": "Podcast: Cloud and DevOps InfoQ Trends Report 2025",
-    "source": "InfoQ.com",
-    "url": "https://www.infoq.com/podcasts/cloud-devops-trends-2025/",
-    "publishedAt": "2025-10-20T11:00:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-22T00:48:14.860Z"
+    "collectedAt": "2025-10-22T06:15:53.376Z"
   }
 ]
