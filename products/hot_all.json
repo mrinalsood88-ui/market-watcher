@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-23T06:15:37.427Z"
+    "collectedAt": "2025-10-23T12:19:52.336Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-23T06:15:37.427Z"
+    "collectedAt": "2025-10-23T12:19:52.336Z"
   },
   {
     "rank": 1,
@@ -33,19 +33,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 2,
     "name": {
-      "q": "/g/11vhqwpgql",
-      "title": "Restored Apple iPhone 15 Pro Max",
+      "q": "/g/11vryzb5_n",
+      "title": "Samsung Galaxy S24 Ultra",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vhqwpgql",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11vryzb5_n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 3,
@@ -57,132 +57,123 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 4,
     "name": {
-      "q": "/g/11x5hywf31",
-      "title": "Apple iPhone 16 Plus 256GB 5G Mobile phone with Apple Intelligence",
-      "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
+      "q": "/g/11lys64h6n",
+      "title": "La Roche Posay Cicaplast Baume B5+",
+      "type": "Shoe insert",
+      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11sjbnj771",
-      "title": "Libre Eau De Parfum Yves Saint Laurent",
-      "type": "Perfume",
-      "link": "https://trends.google.com/trends/explore?q=/g/11sjbnj771",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11sjbnj771&tz=420"
+      "q": "/g/11bxf39p9v",
+      "title": "Detroit: Become Human",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bxf39p9v",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11rxtwsnd7",
-      "title": "Stellar Blade",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11rxtwsnd7",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
+      "q": "/g/11g_rlctt4",
+      "title": "Sony α6400",
+      "type": "Mirrorless system camera",
+      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T06:15:38.898Z"
+    "collectedAt": "2025-10-23T12:19:53.995Z"
   },
   {
     "rank": 1,
+    "title": "Why CareTrust REIT, Hess Midstream, And Kimberly-Clark Are Winners For Passive Income",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/why-caretrust-reit-hess-midstream-120104531.html",
+    "publishedAt": "2025-10-22T12:01:04Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T12:19:54.290Z"
+  },
+  {
+    "rank": 2,
+    "title": "The Era of AI Solopreneurship Starts Now",
+    "source": "Businessesgrow.com",
+    "url": "https://businessesgrow.com/2025/10/22/ai-solopreneurship/",
+    "publishedAt": "2025-10-22T12:00:51Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T12:19:54.290Z"
+  },
+  {
+    "rank": 3,
+    "title": "A Word on Omarchy",
+    "source": "Xn--gckvb8fzb.com",
+    "url": "https://xn--gckvb8fzb.com/a-word-on-omarchy/",
+    "publishedAt": "2025-10-22T11:43:06Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T12:19:54.290Z"
+  },
+  {
+    "rank": 4,
+    "title": "Instant Noodles Strategic Business Report 2025: Competitive Intelligence on Key Players in the Instant Noodles Market and their Strategic Trajectories",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/22/3170912/28124/en/Instant-Noodles-Strategic-Business-Report-2025-Competitive-Intelligence-on-Key-Players-in-the-Instant-Noodles-Market-and-their-Strategic-Trajectories.html",
+    "publishedAt": "2025-10-22T10:40:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T12:19:54.290Z"
+  },
+  {
+    "rank": 5,
     "title": "Teck Reports Unaudited Third Quarter Results for 2025",
     "source": "GlobeNewswire",
     "url": "https://www.globenewswire.com/news-release/2025/10/22/3170796/0/en/Teck-Reports-Unaudited-Third-Quarter-Results-for-2025.html",
     "publishedAt": "2025-10-22T05:02:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
+    "collectedAt": "2025-10-23T12:19:54.290Z"
   },
   {
-    "rank": 2,
+    "rank": 6,
     "title": "Walmart is selling a 'very luxurious' $104 3-piece comforter set for only $47",
     "source": "TheStreet",
     "url": "https://www.thestreet.com/deals/u-by-bedsure-fluffy-3-piece-comforter-set-walmart-sale",
     "publishedAt": "2025-10-22T04:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
+    "collectedAt": "2025-10-23T12:19:54.290Z"
   },
   {
-    "rank": 3,
+    "rank": 7,
     "title": "Productivity Software Stocks Q2 Results: Benchmarking Asana (NYSE:ASAN)",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/productivity-software-stocks-q2-results-033217595.html",
     "publishedAt": "2025-10-22T03:32:17Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
+    "collectedAt": "2025-10-23T12:19:54.290Z"
   },
   {
-    "rank": 4,
+    "rank": 8,
     "title": "Amazon Memos Point To Robot Takeover — 600,000 Jobs Could Vanish (UPDATED)",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/amazon-memos-point-robot-takeover-023103790.html",
     "publishedAt": "2025-10-22T02:31:03Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
+    "collectedAt": "2025-10-23T12:19:54.290Z"
   },
   {
-    "rank": 5,
+    "rank": 9,
     "title": "Warner Bros. Discovery confirms it has received buyout interest and is considering its options",
     "source": "PBS",
     "url": "https://www.pbs.org/newshour/economy/warner-bros-discovery-confirms-it-has-received-buyout-interest-and-is-considering-its-options",
     "publishedAt": "2025-10-21T21:14:53Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
-  },
-  {
-    "rank": 6,
-    "title": "Users argue this Amazon smartwatch is better than a Fitbit — the price feels illegal",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/10/21/shopping/users-say-this-30-amazon-smartwatch-is-better-than-a-fitbit/",
-    "publishedAt": "2025-10-21T20:47:16Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
-  },
-  {
-    "rank": 7,
-    "title": "IAB is giving creators their own upfronts",
-    "source": "Tubefilter",
-    "url": "https://www.tubefilter.com/2025/10/21/iab-creator-upfronts-newfronts-economy-ads/",
-    "publishedAt": "2025-10-21T20:45:14Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
-  },
-  {
-    "rank": 8,
-    "title": "Amaze CEO Aaron Day on acquiring Food Channel to power next wave of food media",
-    "source": "The Drum",
-    "url": "https://www.thedrum.com/news/2025/10/21/amaze-ceo-aaron-day-acquiring-food-channel-power-next-wave-food-media",
-    "publishedAt": "2025-10-21T20:30:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
-  },
-  {
-    "rank": 9,
-    "title": "Retail’s Holiday 2025: More Sales, Profits, And AI-Driven Commerce",
-    "source": "Forrester.com",
-    "url": "https://www.forrester.com/blogs/retails-holiday-2025-more-sales-profits-and-ai-driven-commerce/",
-    "publishedAt": "2025-10-21T17:38:28Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
-  },
-  {
-    "rank": 10,
-    "title": "Crown Holdings: Is A Guidance Boost Enough To Lift The Stock?",
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/sasirekhasubramanian/2025/10/21/crown-holdings-is-a-guidance-boost-enough-to-lift-the-stock/",
-    "publishedAt": "2025-10-21T17:24:43Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T06:15:39.181Z"
+    "collectedAt": "2025-10-23T12:19:54.290Z"
   }
 ]
