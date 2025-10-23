@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-23T12:19:52.336Z"
+    "collectedAt": "2025-10-23T18:14:53.116Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-23T12:19:52.336Z"
+    "collectedAt": "2025-10-23T18:14:53.116Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 6,
@@ -93,87 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-23T12:19:53.995Z"
+    "collectedAt": "2025-10-23T18:14:54.986Z"
   },
   {
     "rank": 1,
+    "title": "Deion Sanders Announces Update Beyond College Football",
+    "source": "Athlon Sports",
+    "url": "https://athlonsports.com/college-football/deion-sanders-business-move-ahead-colorado-utah-game",
+    "publishedAt": "2025-10-22T18:09:10Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 2,
+    "title": "Black Friday is coming: Preview the biggest sales of 2025, plus expert predictions",
+    "source": "New York Post",
+    "url": "https://nypost.com/shopping/black-friday-2025-preview-expert-predictions-and-deals-we-expect/",
+    "publishedAt": "2025-10-22T17:20:23Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 3,
+    "title": "Kanye West and Kim Kardashian’s 12-Year-Old Daughter, North West, Ignites Concern Over New Look",
+    "source": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG",
+    "url": "https://www.legit.ng/entertainment/music/1679799-kanye-west-kim-kardashians-12-year-daughter-north-west-ignites-concern-look/",
+    "publishedAt": "2025-10-22T16:27:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 4,
+    "title": "Show HN: Open-source CLI based Browsing Agent(not based on Firefox and Chromium)",
+    "source": "Github.com",
+    "url": "https://github.com/harishsg993010/OpenAtlas-Agent",
+    "publishedAt": "2025-10-22T15:48:44Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 5,
+    "title": "Why Is Crypto Down Today? – October 22, 2025",
+    "source": "Cryptonews",
+    "url": "https://cryptonews.com/news/why-is-crypto-down-today-october-22-2025/",
+    "publishedAt": "2025-10-22T14:57:35Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 6,
+    "title": "AI Optimization: How to Rank in AI Search (+ Checklist)",
+    "source": "Backlinko.com",
+    "url": "https://backlinko.com/ai-optimization",
+    "publishedAt": "2025-10-22T14:05:19Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 7,
+    "title": "Electric Wheelchair Market to Reach US$19.12 Billion by 2033 | Astute Analytica",
+    "source": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2025/10/22/3171217/0/en/Electric-Wheelchair-Market-to-Reach-US-19-12-Billion-by-2033-Astute-Analytica.html",
+    "publishedAt": "2025-10-22T13:30:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 8,
+    "title": "25 Social Media Marketing Tips for Music Producers: Build Your Brand, Grow Your Fanbase, and Attract Opportunities — Elizabeth Records",
+    "source": "Elizabethrecords.net",
+    "url": "https://www.elizabethrecords.net/blog/25-social-media-marketing-tips-for-music-producers-build-your-brand-grow-your-fanbase-and-attract-opportunities",
+    "publishedAt": "2025-10-22T13:19:15Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-23T18:14:55.137Z"
+  },
+  {
+    "rank": 9,
     "title": "Why CareTrust REIT, Hess Midstream, And Kimberly-Clark Are Winners For Passive Income",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/why-caretrust-reit-hess-midstream-120104531.html",
     "publishedAt": "2025-10-22T12:01:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
+    "collectedAt": "2025-10-23T18:14:55.137Z"
   },
   {
-    "rank": 2,
+    "rank": 10,
     "title": "The Era of AI Solopreneurship Starts Now",
     "source": "Businessesgrow.com",
     "url": "https://businessesgrow.com/2025/10/22/ai-solopreneurship/",
     "publishedAt": "2025-10-22T12:00:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 3,
-    "title": "A Word on Omarchy",
-    "source": "Xn--gckvb8fzb.com",
-    "url": "https://xn--gckvb8fzb.com/a-word-on-omarchy/",
-    "publishedAt": "2025-10-22T11:43:06Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 4,
-    "title": "Instant Noodles Strategic Business Report 2025: Competitive Intelligence on Key Players in the Instant Noodles Market and their Strategic Trajectories",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/22/3170912/28124/en/Instant-Noodles-Strategic-Business-Report-2025-Competitive-Intelligence-on-Key-Players-in-the-Instant-Noodles-Market-and-their-Strategic-Trajectories.html",
-    "publishedAt": "2025-10-22T10:40:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 5,
-    "title": "Teck Reports Unaudited Third Quarter Results for 2025",
-    "source": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/news-release/2025/10/22/3170796/0/en/Teck-Reports-Unaudited-Third-Quarter-Results-for-2025.html",
-    "publishedAt": "2025-10-22T05:02:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 6,
-    "title": "Walmart is selling a 'very luxurious' $104 3-piece comforter set for only $47",
-    "source": "TheStreet",
-    "url": "https://www.thestreet.com/deals/u-by-bedsure-fluffy-3-piece-comforter-set-walmart-sale",
-    "publishedAt": "2025-10-22T04:30:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 7,
-    "title": "Productivity Software Stocks Q2 Results: Benchmarking Asana (NYSE:ASAN)",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/productivity-software-stocks-q2-results-033217595.html",
-    "publishedAt": "2025-10-22T03:32:17Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 8,
-    "title": "Amazon Memos Point To Robot Takeover — 600,000 Jobs Could Vanish (UPDATED)",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/amazon-memos-point-robot-takeover-023103790.html",
-    "publishedAt": "2025-10-22T02:31:03Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
-  },
-  {
-    "rank": 9,
-    "title": "Warner Bros. Discovery confirms it has received buyout interest and is considering its options",
-    "source": "PBS",
-    "url": "https://www.pbs.org/newshour/economy/warner-bros-discovery-confirms-it-has-received-buyout-interest-and-is-considering-its-options",
-    "publishedAt": "2025-10-21T21:14:53Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-23T12:19:54.290Z"
+    "collectedAt": "2025-10-23T18:14:55.137Z"
   }
 ]
