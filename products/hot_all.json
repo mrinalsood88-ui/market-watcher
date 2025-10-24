@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-24T12:19:48.955Z"
+    "collectedAt": "2025-10-24T18:14:54.335Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-24T12:19:48.956Z"
+    "collectedAt": "2025-10-24T18:14:54.335Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 2,
@@ -45,7 +45,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 3,
@@ -57,7 +57,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 4,
@@ -69,7 +69,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 5,
@@ -81,7 +81,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 6,
@@ -93,96 +93,96 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T12:19:49.842Z"
+    "collectedAt": "2025-10-24T18:14:54.990Z"
   },
   {
     "rank": 1,
+    "title": "The 13 Best Teen Makeup Brands, Picked by Teens Themselves",
+    "source": "Teen Vogue",
+    "url": "https://www.teenvogue.com/story/best-teen-makeup-brands",
+    "publishedAt": "2025-10-23T17:58:02Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 2,
+    "title": "I test supplements for a living — this CBD is the only thing selling me on ‘Sober October’",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/23/health/meet-tribe-tokes-the-cbd-gummies-selling-me-on-sober-october/",
+    "publishedAt": "2025-10-23T17:54:11Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 3,
+    "title": "Columbia’s New Amaze Puff Jacket Is the Only Puffer Our Editor Is Wearing This Fall — Here’s Why",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-fashion/columbia-amaze-puff-puffer-jacket-review-where-to-shop-1238322473/",
+    "publishedAt": "2025-10-23T17:40:08Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 4,
+    "title": "Stacy Rasgon Explains Why Advanced Micro Devices (AMD) Deal With OpenAI ‘Raises Eyebrows’",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/stacy-rasgon-explains-why-advanced-154902862.html",
+    "publishedAt": "2025-10-23T15:49:02Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 5,
+    "title": "Reddit trends in 2025: How marketers can track what’s next",
+    "source": "Hootsuite.com",
+    "url": "https://blog.hootsuite.com/reddit-trends/",
+    "publishedAt": "2025-10-23T14:32:18Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 6,
+    "title": "American Airlines, Honeywell, Dow: Latest earnings in focus",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/video/american-airlines-honeywell-dow-latest-132251754.html",
+    "publishedAt": "2025-10-23T13:22:51Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 7,
+    "title": "Advantages of Using Instagram for Small Businesses – Unlock the Latest Trend to Achieve Success",
+    "source": "Socialnomics.net",
+    "url": "https://socialnomics.net/2025/10/23/advantages-of-using-instagram-for-small-businesses-unlock-the-latest-trend-to-achieve-success/",
+    "publishedAt": "2025-10-23T13:00:05Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 8,
+    "title": "Show HN: Fastest-growing OSS startups for every quarter since Q2 2020",
+    "source": "Github.com",
+    "url": "https://github.com/RunaCapital/ROSS-Index",
+    "publishedAt": "2025-10-23T12:36:49Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-24T18:14:55.262Z"
+  },
+  {
+    "rank": 9,
     "title": "How Cadence Bank, LCI Industries, And Hormel Foods Can Put Cash In Your Pocket",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/cadence-bank-lci-industries-hormel-120106848.html",
     "publishedAt": "2025-10-23T12:01:06Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
+    "collectedAt": "2025-10-24T18:14:55.262Z"
   },
   {
-    "rank": 2,
+    "rank": 10,
     "title": "At-home meal kit surges in popularity, plus cruise line nixes beverage bonus at island stop",
     "source": "Fox News",
     "url": "https://www.foxnews.com/lifestyle/at-home-meal-kit-surges-popularity-plus-cruise-line-nixes-beverage-bonus-island-stop",
     "publishedAt": "2025-10-23T11:58:23Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 3,
-    "title": "Is Novo Nordisk (NVO) The Best Weight-Loss Stock to Buy?",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-best-weight-114020864.html",
-    "publishedAt": "2025-10-23T11:40:20Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 4,
-    "title": "Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation",
-    "source": "CNET",
-    "url": "https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/",
-    "publishedAt": "2025-10-23T07:41:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 5,
-    "title": "Tesla's Q3 Results Divides Analysts: Tom Nash Says Stock Is Going To $900 In 12 Months 'At Most'",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/teslas-q3-results-divides-analysts-033108508.html",
-    "publishedAt": "2025-10-23T03:31:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 6,
-    "title": "Do We Believe in the $6,000 Lyma Laser Pro?",
-    "source": "The Cut",
-    "url": "http://www.thecut.com/article/lyma-laser-pro-review-we-tried-it.html",
-    "publishedAt": "2025-10-22T21:21:54Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 7,
-    "title": "20 years of YouTube: 2024 brought us the “influencer election” — and a vision of the future",
-    "source": "Tubefilter",
-    "url": "https://www.tubefilter.com/?p=188860",
-    "publishedAt": "2025-10-22T21:16:12Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 8,
-    "title": "An Honest Pavoi Jewelry Review From a Shopping Editor Who Actually Wore the Pieces",
-    "source": "Cosmopolitan.com",
-    "url": "https://www.cosmopolitan.com/style-beauty/fashion/a67961491/pavoi-jewelry-review/",
-    "publishedAt": "2025-10-22T20:03:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 9,
-    "title": "Majority of Canadians would pay more for groceries from Canada, even if U.S. products cost less: poll",
-    "source": "National Post",
-    "url": "https://nationalpost.com/news/buy-canadian-committment-poll",
-    "publishedAt": "2025-10-22T18:58:33Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
-  },
-  {
-    "rank": 10,
-    "title": "I Tried Bliss' 'Gilmore Girls' Anniversary Skin Care Collection",
-    "source": "Elite Daily",
-    "url": "https://www.elitedaily.com/beauty/bliss-gilmore-skin-care-collection-review",
-    "publishedAt": "2025-10-22T18:38:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T12:19:49.942Z"
+    "collectedAt": "2025-10-24T18:14:55.262Z"
   }
 ]
