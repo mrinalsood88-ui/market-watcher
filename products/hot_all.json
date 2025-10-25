@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-25T12:16:30.026Z"
+    "collectedAt": "2025-10-25T18:12:35.523Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-25T12:16:30.026Z"
+    "collectedAt": "2025-10-25T18:12:35.524Z"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
+    "collectedAt": "2025-10-25T18:12:41.561Z"
   },
   {
     "rank": 2,
@@ -45,144 +45,144 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
+    "collectedAt": "2025-10-25T18:12:41.561Z"
   },
   {
     "rank": 3,
     "name": {
+      "q": "/g/11fctqqz2z",
+      "title": "iPhone XR",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11fctqqz2z",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-25T18:12:41.561Z"
+  },
+  {
+    "rank": 4,
+    "name": {
       "q": "/g/11x5hywf31",
-      "title": "Restored Apple iPhone 16 Plus",
+      "title": "Apple iPhone 16 Plus 256GB 5G Mobile phone with Apple Intelligence",
       "type": "Mobile phone",
       "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
-  },
-  {
-    "rank": 4,
-    "name": {
-      "q": "/g/11bwh01m6k",
-      "title": "CeraVe Cream Moisturizing",
-      "type": "Facial moisturizer",
-      "link": "https://trends.google.com/trends/explore?q=/g/11bwh01m6k",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwh01m6k&tz=420"
-    },
-    "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
+    "collectedAt": "2025-10-25T18:12:41.561Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11bxf39p9v",
-      "title": "Detroit: Become Human",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11bxf39p9v",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
+      "q": "/g/11sjbnj771",
+      "title": "Libre Eau De Parfum Yves Saint Laurent",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11sjbnj771",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11sjbnj771&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
+    "collectedAt": "2025-10-25T18:12:41.561Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11vx4w_gwx",
-      "title": "CeraVe Facial Foaming Cleanser",
-      "type": "Skin care",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vx4w_gwx",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vx4w_gwx&tz=420"
+      "q": "/g/11rxtwsnd7",
+      "title": "Stellar Blade",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11rxtwsnd7",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T12:16:31.094Z"
+    "collectedAt": "2025-10-25T18:12:41.561Z"
   },
   {
     "rank": 1,
+    "title": "5 Renovation Trends You're Going to See in Every Home in 2026, According to Pros",
+    "source": "Thespruce.com",
+    "url": "https://www.thespruce.com/2026-renovation-trends-11833686",
+    "publishedAt": "2025-10-24T15:46:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 2,
+    "title": "ESPN programs could be removed from YouTube TV if new deal isn't met",
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/money/2025/10/24/espn-disney-youtube-tv-google-contract-agreement/86874691007/",
+    "publishedAt": "2025-10-24T15:45:33Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 3,
+    "title": "If Labubus Are Out, Beauty Bag Charms Are In — Here Are the 8 Best Ones We Recommend Buying",
+    "source": "WWD",
+    "url": "http://wwd.com/shop/shop-beauty/beauty-bag-charms-trend-accessories-shop-online-1238323915/",
+    "publishedAt": "2025-10-24T15:31:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 4,
+    "title": "The 13 Best Teen Makeup Brands, Picked by Teens Themselves",
+    "source": "Teen Vogue",
+    "url": "https://www.teenvogue.com/story/best-teen-makeup-brands-picked-by-teens-themselves",
+    "publishedAt": "2025-10-24T15:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 5,
+    "title": "Olivia Rodrigo Dances Into Miu Miu Mode With Ballet Flats and Crystals at New York City Concert",
+    "source": "WWD",
+    "url": "http://wwd.com/footwear-news/shoe-trends/olivia-rodrigo-miu-miu-ballet-flats-nyc-concert-1238324238/",
+    "publishedAt": "2025-10-24T14:25:31Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 6,
+    "title": "LIC raises stake in Tata Consumer to 8.64%, ups holding in Dabur to 6.98%",
+    "source": "The Times of India",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-raises-stake-in-tata-consumer-to-8-64-ups-holding-in-dabur-to-6-98/articleshow/124787708.cms",
+    "publishedAt": "2025-10-24T14:19:23Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T18:12:41.765Z"
+  },
+  {
+    "rank": 7,
     "title": "Taylor Cassidy Tracks Her Screen Time Before Her Book Launch",
     "source": "Elite Daily",
     "url": "https://www.elitedaily.com/lifestyle/taylor-cassidy-weekly-screen-time-diary-book-launch",
     "publishedAt": "2025-10-24T12:01:24Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
+    "collectedAt": "2025-10-25T18:12:41.765Z"
   },
   {
-    "rank": 2,
+    "rank": 8,
     "title": "The Top Brands Our Readers Are Shopping This Month",
     "source": "Camillestyles.com",
     "url": "https://camillestyles.com/style/trend-report/brands-our-readers-are-shopping-this-month/",
     "publishedAt": "2025-10-24T10:30:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
+    "collectedAt": "2025-10-25T18:12:41.765Z"
   },
   {
-    "rank": 3,
+    "rank": 9,
     "title": "Enhanced risk-control framework helps MEXC cut organised crime by 36% in Q3 2025",
     "source": "Coinjournal.net",
     "url": "https://coinjournal.net/news/enhanced-risk-control-framework-helps-mexc-cut-organised-crime-by-36-in-q3-2025/",
     "publishedAt": "2025-10-24T09:07:43Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
+    "collectedAt": "2025-10-25T18:12:41.765Z"
   },
   {
-    "rank": 4,
+    "rank": 10,
     "title": "New Marriott Bonvoy Research reveals importance of AI for holiday planning and new trends for 2026",
     "source": "Hospitality Net",
     "url": "https://www.hospitalitynet.org/news/4129472.html",
     "publishedAt": "2025-10-24T08:42:48Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 5,
-    "title": "T-Mobile Raises Outlook, So Why Is Wall Street Selling?",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/t-mobile-raises-outlook-why-033104376.html",
-    "publishedAt": "2025-10-24T03:31:04Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 6,
-    "title": "Alaska Airlines Hit By Major IT Outage, Causing Widespread Flight Delays",
-    "source": "Ndtvprofit.com",
-    "url": "https://www.ndtvprofit.com/world/alaska-airlines-hit-by-major-it-outage-causing-widespread-flight-delays",
-    "publishedAt": "2025-10-24T02:11:47Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 7,
-    "title": "Trump Russia Sanctions Already Working, China Backing Down",
-    "source": "Thegatewaypundit.com",
-    "url": "https://www.thegatewaypundit.com/2025/10/trump-russia-sanctions-already-working-china-backing-down/",
-    "publishedAt": "2025-10-23T21:20:00Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 8,
-    "title": "Wedbush Raises Snowflake (SNOW) Price Target to $270, Citing Expanding AI Integration",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/wedbush-raises-snowflake-snow-price-185635835.html",
-    "publishedAt": "2025-10-23T18:56:35Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 9,
-    "title": "Amazon’s Smart Glasses for Delivery Drivers Offer a Very Amazon Glimpse of the Future",
-    "source": "Gizmodo.com",
-    "url": "https://gizmodo.com/amazons-smart-glasses-for-delivery-drivers-offer-a-very-amazon-glimpse-of-the-future-2000676075",
-    "publishedAt": "2025-10-23T18:32:28Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
-  },
-  {
-    "rank": 10,
-    "title": "The 13 Best Teen Makeup Brands, Picked by Teens Themselves",
-    "source": "Teen Vogue",
-    "url": "https://www.teenvogue.com/story/best-teen-makeup-brands",
-    "publishedAt": "2025-10-23T17:58:02Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T12:16:31.282Z"
+    "collectedAt": "2025-10-25T18:12:41.765Z"
   }
 ]
