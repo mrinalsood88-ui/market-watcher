@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.335Z"
+    "collectedAt": "2025-10-25T00:44:45.448Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.335Z"
+    "collectedAt": "2025-10-25T00:44:45.449Z"
   },
   {
     "rank": 1,
@@ -33,19 +33,19 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.125Z"
   },
   {
     "rank": 2,
     "name": {
-      "q": "/g/11vryzb5_n",
-      "title": "Samsung Galaxy S24 Ultra",
+      "q": "/g/11vhqwpgql",
+      "title": "Restored Apple iPhone 15 Pro Max",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vryzb5_n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11vhqwpgql",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.126Z"
   },
   {
     "rank": 3,
@@ -57,132 +57,132 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.126Z"
   },
   {
     "rank": 4,
     "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5 + Ultra Repairing Soothing Balm 40 ml",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
+      "q": "/g/11x5hywf31",
+      "title": "Apple iPhone 16 Plus 256GB 5G Mobile phone with Apple Intelligence",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.126Z"
   },
   {
     "rank": 5,
     "name": {
-      "q": "/g/11bxf39p9v",
-      "title": "Detroit: Become Human",
-      "type": "Video game",
-      "link": "https://trends.google.com/trends/explore?q=/g/11bxf39p9v",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
+      "q": "/g/11sjbnj771",
+      "title": "Libre Eau De Parfum Yves Saint Laurent",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11sjbnj771",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11sjbnj771&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.126Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11g_rlctt4",
-      "title": "Sony α6400",
-      "type": "Mirrorless system camera",
-      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
+      "q": "/g/11rxtwsnd7",
+      "title": "Stellar Blade",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11rxtwsnd7",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-24T18:14:54.990Z"
+    "collectedAt": "2025-10-25T00:44:46.126Z"
   },
   {
     "rank": 1,
+    "title": "Trump Russia Sanctions Already Working, China Backing Down",
+    "source": "Thegatewaypundit.com",
+    "url": "https://www.thegatewaypundit.com/2025/10/trump-russia-sanctions-already-working-china-backing-down/",
+    "publishedAt": "2025-10-23T21:20:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T00:44:46.327Z"
+  },
+  {
+    "rank": 2,
+    "title": "Amazon’s Smart Glasses for Delivery Drivers Offer a Very Amazon Glimpse of the Future",
+    "source": "Gizmodo.com",
+    "url": "https://gizmodo.com/amazons-smart-glasses-for-delivery-drivers-offer-a-very-amazon-glimpse-of-the-future-2000676075",
+    "publishedAt": "2025-10-23T18:32:28Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T00:44:46.327Z"
+  },
+  {
+    "rank": 3,
     "title": "The 13 Best Teen Makeup Brands, Picked by Teens Themselves",
     "source": "Teen Vogue",
     "url": "https://www.teenvogue.com/story/best-teen-makeup-brands",
     "publishedAt": "2025-10-23T17:58:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "title": "I test supplements for a living — this CBD is the only thing selling me on ‘Sober October’",
     "source": "New York Post",
     "url": "https://nypost.com/2025/10/23/health/meet-tribe-tokes-the-cbd-gummies-selling-me-on-sober-october/",
     "publishedAt": "2025-10-23T17:54:11Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "title": "Columbia’s New Amaze Puff Jacket Is the Only Puffer Our Editor Is Wearing This Fall — Here’s Why",
     "source": "WWD",
     "url": "http://wwd.com/shop/shop-fashion/columbia-amaze-puff-puffer-jacket-review-where-to-shop-1238322473/",
     "publishedAt": "2025-10-23T17:40:08Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "title": "Stacy Rasgon Explains Why Advanced Micro Devices (AMD) Deal With OpenAI ‘Raises Eyebrows’",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/stacy-rasgon-explains-why-advanced-154902862.html",
     "publishedAt": "2025-10-23T15:49:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "title": "Reddit trends in 2025: How marketers can track what’s next",
     "source": "Hootsuite.com",
     "url": "https://blog.hootsuite.com/reddit-trends/",
     "publishedAt": "2025-10-23T14:32:18Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "title": "American Airlines, Honeywell, Dow: Latest earnings in focus",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/video/american-airlines-honeywell-dow-latest-132251754.html",
     "publishedAt": "2025-10-23T13:22:51Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "title": "Advantages of Using Instagram for Small Businesses – Unlock the Latest Trend to Achieve Success",
     "source": "Socialnomics.net",
     "url": "https://socialnomics.net/2025/10/23/advantages-of-using-instagram-for-small-businesses-unlock-the-latest-trend-to-achieve-success/",
     "publishedAt": "2025-10-23T13:00:05Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "title": "Show HN: Fastest-growing OSS startups for every quarter since Q2 2020",
     "source": "Github.com",
     "url": "https://github.com/RunaCapital/ROSS-Index",
     "publishedAt": "2025-10-23T12:36:49Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
-  },
-  {
-    "rank": 9,
-    "title": "How Cadence Bank, LCI Industries, And Hormel Foods Can Put Cash In Your Pocket",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/cadence-bank-lci-industries-hormel-120106848.html",
-    "publishedAt": "2025-10-23T12:01:06Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
-  },
-  {
-    "rank": 10,
-    "title": "At-home meal kit surges in popularity, plus cruise line nixes beverage bonus at island stop",
-    "source": "Fox News",
-    "url": "https://www.foxnews.com/lifestyle/at-home-meal-kit-surges-popularity-plus-cruise-line-nixes-beverage-bonus-island-stop",
-    "publishedAt": "2025-10-23T11:58:23Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-24T18:14:55.262Z"
+    "collectedAt": "2025-10-25T00:44:46.327Z"
   }
 ]
