@@ -9,7 +9,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-25T06:13:52.456Z"
+    "collectedAt": "2025-10-25T12:16:30.026Z"
   },
   {
     "rank": 2,
@@ -21,7 +21,7 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
     },
     "source": "SerpApi - google_trends_autocomplete",
-    "collectedAt": "2025-10-25T06:13:52.456Z"
+    "collectedAt": "2025-10-25T12:16:30.026Z"
   },
   {
     "rank": 1,
@@ -33,43 +33,43 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 2,
     "name": {
-      "q": "/g/11vryzb5_n",
-      "title": "Samsung Galaxy S24 Ultra",
+      "q": "/g/11vhqwpgql",
+      "title": "Restored Apple iPhone 15 Pro Max",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11vryzb5_n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vryzb5_n&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11vhqwpgql",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 3,
     "name": {
-      "q": "/g/11fctqqz2z",
-      "title": "iPhone XR",
+      "q": "/g/11x5hywf31",
+      "title": "Restored Apple iPhone 16 Plus",
       "type": "Mobile phone",
-      "link": "https://trends.google.com/trends/explore?q=/g/11fctqqz2z",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
+      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 4,
     "name": {
-      "q": "/g/11lys64h6n",
-      "title": "La Roche Posay Cicaplast Baume B5 + Ultra Repairing Soothing Balm 40 ml",
-      "type": "Shoe insert",
-      "link": "https://trends.google.com/trends/explore?q=/g/11lys64h6n",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11lys64h6n&tz=420"
+      "q": "/g/11bwh01m6k",
+      "title": "CeraVe Cream Moisturizing",
+      "type": "Facial moisturizer",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bwh01m6k",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bwh01m6k&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 5,
@@ -81,108 +81,108 @@
       "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bxf39p9v&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 6,
     "name": {
-      "q": "/g/11g_rlctt4",
-      "title": "Sony α6400",
-      "type": "Mirrorless system camera",
-      "link": "https://trends.google.com/trends/explore?q=/g/11g_rlctt4",
-      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11g_rlctt4&tz=420"
+      "q": "/g/11vx4w_gwx",
+      "title": "CeraVe Facial Foaming Cleanser",
+      "type": "Skin care",
+      "link": "https://trends.google.com/trends/explore?q=/g/11vx4w_gwx",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vx4w_gwx&tz=420"
     },
     "source": "SerpApi - Walmart Autocomplete",
-    "collectedAt": "2025-10-25T06:13:53.438Z"
+    "collectedAt": "2025-10-25T12:16:31.094Z"
   },
   {
     "rank": 1,
+    "title": "Taylor Cassidy Tracks Her Screen Time Before Her Book Launch",
+    "source": "Elite Daily",
+    "url": "https://www.elitedaily.com/lifestyle/taylor-cassidy-weekly-screen-time-diary-book-launch",
+    "publishedAt": "2025-10-24T12:01:24Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T12:16:31.282Z"
+  },
+  {
+    "rank": 2,
+    "title": "The Top Brands Our Readers Are Shopping This Month",
+    "source": "Camillestyles.com",
+    "url": "https://camillestyles.com/style/trend-report/brands-our-readers-are-shopping-this-month/",
+    "publishedAt": "2025-10-24T10:30:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T12:16:31.282Z"
+  },
+  {
+    "rank": 3,
+    "title": "Enhanced risk-control framework helps MEXC cut organised crime by 36% in Q3 2025",
+    "source": "Coinjournal.net",
+    "url": "https://coinjournal.net/news/enhanced-risk-control-framework-helps-mexc-cut-organised-crime-by-36-in-q3-2025/",
+    "publishedAt": "2025-10-24T09:07:43Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T12:16:31.282Z"
+  },
+  {
+    "rank": 4,
+    "title": "New Marriott Bonvoy Research reveals importance of AI for holiday planning and new trends for 2026",
+    "source": "Hospitality Net",
+    "url": "https://www.hospitalitynet.org/news/4129472.html",
+    "publishedAt": "2025-10-24T08:42:48Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-25T12:16:31.282Z"
+  },
+  {
+    "rank": 5,
     "title": "T-Mobile Raises Outlook, So Why Is Wall Street Selling?",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/t-mobile-raises-outlook-why-033104376.html",
     "publishedAt": "2025-10-24T03:31:04Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   },
   {
-    "rank": 2,
+    "rank": 6,
     "title": "Alaska Airlines Hit By Major IT Outage, Causing Widespread Flight Delays",
     "source": "Ndtvprofit.com",
     "url": "https://www.ndtvprofit.com/world/alaska-airlines-hit-by-major-it-outage-causing-widespread-flight-delays",
     "publishedAt": "2025-10-24T02:11:47Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   },
   {
-    "rank": 3,
+    "rank": 7,
     "title": "Trump Russia Sanctions Already Working, China Backing Down",
     "source": "Thegatewaypundit.com",
     "url": "https://www.thegatewaypundit.com/2025/10/trump-russia-sanctions-already-working-china-backing-down/",
     "publishedAt": "2025-10-23T21:20:00Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   },
   {
-    "rank": 4,
+    "rank": 8,
     "title": "Wedbush Raises Snowflake (SNOW) Price Target to $270, Citing Expanding AI Integration",
     "source": "Yahoo Entertainment",
     "url": "https://finance.yahoo.com/news/wedbush-raises-snowflake-snow-price-185635835.html",
     "publishedAt": "2025-10-23T18:56:35Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   },
   {
-    "rank": 5,
+    "rank": 9,
     "title": "Amazon’s Smart Glasses for Delivery Drivers Offer a Very Amazon Glimpse of the Future",
     "source": "Gizmodo.com",
     "url": "https://gizmodo.com/amazons-smart-glasses-for-delivery-drivers-offer-a-very-amazon-glimpse-of-the-future-2000676075",
     "publishedAt": "2025-10-23T18:32:28Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   },
   {
-    "rank": 6,
+    "rank": 10,
     "title": "The 13 Best Teen Makeup Brands, Picked by Teens Themselves",
     "source": "Teen Vogue",
     "url": "https://www.teenvogue.com/story/best-teen-makeup-brands",
     "publishedAt": "2025-10-23T17:58:02Z",
     "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
-  },
-  {
-    "rank": 7,
-    "title": "I test supplements for a living — this CBD is the only thing selling me on ‘Sober October’",
-    "source": "New York Post",
-    "url": "https://nypost.com/2025/10/23/health/meet-tribe-tokes-the-cbd-gummies-selling-me-on-sober-october/",
-    "publishedAt": "2025-10-23T17:54:11Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
-  },
-  {
-    "rank": 8,
-    "title": "Columbia’s New Amaze Puff Jacket Is the Only Puffer Our Editor Is Wearing This Fall — Here’s Why",
-    "source": "WWD",
-    "url": "http://wwd.com/shop/shop-fashion/columbia-amaze-puff-puffer-jacket-review-where-to-shop-1238322473/",
-    "publishedAt": "2025-10-23T17:40:08Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
-  },
-  {
-    "rank": 9,
-    "title": "Stacy Rasgon Explains Why Advanced Micro Devices (AMD) Deal With OpenAI ‘Raises Eyebrows’",
-    "source": "Yahoo Entertainment",
-    "url": "https://finance.yahoo.com/news/stacy-rasgon-explains-why-advanced-154902862.html",
-    "publishedAt": "2025-10-23T15:49:02Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
-  },
-  {
-    "rank": 10,
-    "title": "Reddit trends in 2025: How marketers can track what’s next",
-    "source": "Hootsuite.com",
-    "url": "https://blog.hootsuite.com/reddit-trends/",
-    "publishedAt": "2025-10-23T14:32:18Z",
-    "sourceType": "NewsAPI",
-    "collectedAt": "2025-10-25T06:13:53.607Z"
+    "collectedAt": "2025-10-25T12:16:31.282Z"
   }
 ]
