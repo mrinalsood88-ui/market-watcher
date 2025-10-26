@@ -1,0 +1,85 @@
+name: 🤖 Auto Scrape & Commit (Every 6 Hours)
+
+on:
+  # Runs every 6 hours — 00:00, 06:00, 12:00, 18:00 UTC
+  schedule:
+    - cron: '0 */6 * * *'
+  # Allow manual runs from Actions tab
+  workflow_dispatch:
+
+concurrency:
+  group: auto-scrape-main
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ✅ Checkout full history so we can rebase safely
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      # ✅ Configure Git identity for commits
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+      # ✅ Optional: Debug info (helps if push ever fails)
+      - name: Debug divergence
+        run: |
+          git fetch origin main
+          echo "==== Remote HEAD (origin/main) ===="
+          git --no-pager log --oneline -n5 origin/main || true
+          echo "==== Local HEAD ===="
+          git --no-pager log --oneline -n5 HEAD || true
+
+      # ✅ Run your scraping or data generation script
+      - name: Run scraper
+        run: |
+          # Replace this line with your actual script/command
+          ./scripts/run-scraper.sh
+
+      # ✅ Skip commit if nothing changed
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected. Exiting."
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # ✅ Commit updates
+      - name: Commit changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git add -A
+          git commit -m "chore(auto): update scraped data [skip ci]" || echo "No changes to commit"
+
+      # ✅ Push safely with auto-resolve (prefers local scraped output)
+      - name: Push changes with retry
+        if: steps.check_changes.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          echo "Attempting to push to main..."
+          if git push origin HEAD:main; then
+            echo "✅ Push succeeded."
+            exit 0
+          fi
+
+          echo "⚠️ Push rejected — integrating remote updates and retrying..."
+          git fetch origin main
+          git rebase origin/main -X ours || {
+            echo "Rebase failed, performing merge with ours strategy..."
+            git rebase --abort || true
+            git merge -s recursive -X ours origin/main || true
+          }
+          git push origin HEAD:main && echo "✅ Push after rebase succeeded."

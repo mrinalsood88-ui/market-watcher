@@ -1,0 +1,63 @@
+name: Debug npm / registry issues
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: scrapers
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Show repo files that might affect npm
+        run: |
+          echo "=== .npmrc files in repo ==="
+          git ls-files | grep -E '(^|/)\\.npmrc$' || true
+          echo ""
+          echo "=== .yarnrc files in repo ==="
+          git ls-files | grep -i '\.yarnrc' || true
+          echo ""
+          echo "=== package.json and package-lock.json locations ==="
+          git ls-files | grep -E '(^|/)package(-lock)?\\.json$' || true
+          echo ""
+          echo "=== Show contents of root and scrapers .npmrc (if present) ==="
+          if [ -f .npmrc ]; then echo '--- root .npmrc ---'; cat .npmrc; fi
+          if [ -f scrapers/.npmrc ]; then echo '--- scrapers/.npmrc ---'; cat scrapers/.npmrc; fi
+          echo ""
+
+      - name: Print important files for inspection
+        run: |
+          echo "--- scrapers/package.json ---"
+          sed -n '1,200p' scrapers/package.json || true
+          echo "--- scrapers/package-lock.json (top lines) ---"
+          sed -n '1,60p' scrapers/package-lock.json || true
+
+      - name: Print npm config & registry
+        run: |
+          echo "npm version: $(npm --version)"
+          echo "node version: $(node --version)"
+          echo "--- npm config list ---"
+          npm config list
+          echo "--- npm config get registry ---"
+          npm config get registry || true
+
+      - name: Attempt npm install (verbose)
+        run: |
+          # turn on verbose logs, write debug log to file for upload
+          npm set loglevel verbose
+          npm cache clean --force || true
+          npm install --legacy-peer-deps --no-audit --prefer-online --registry=https://registry.npmjs.org/ 2>&1 | tee npm-install-debug.txt || true
+          echo "Exit code: $?"
+
+      - name: Upload npm install debug log
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm-install-debug
+          path: npm-install-debug.txt
