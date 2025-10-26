@@ -1,44 +1,72 @@
-name: 🛍️ Shopify Data Collector (6-Hourly)
+# .github/workflows/shopify-scrape.yml
+name: Shopify Auto Scrape & Commit
 
 on:
   schedule:
-    # ⏰ Runs every 6 hours (UTC)
-    - cron: "0 */6 * * *"
-  workflow_dispatch: # allow manual run
-  push:
-    paths:
-      - "scrapers/shopify.mjs"
-      - ".github/workflows/shopify-scrape.yml"
+    - cron: "0 */6 * * *"    # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  scrape-shopify:
+  shopify-scraper:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: scrapers
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: ⚙️ Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '22'
 
-      - name: 📦 Install dependencies
-        run: npm install axios
+      - name: Debug repository structure
+        run: |
+          echo "Working directory:"
+          pwd
+          echo "Repository tree (first 200 lines):"
+          ls -R | head -n 200
 
-      - name: 🛍️ Run Shopify scraper
-        run: node scrapers/shopify.mjs
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "⚠️ No package.json found — skipping npm install"
+          fi
 
-      - name: 💾 Commit updated data
+      - name: Run Shopify scraper
+        run: node shopify.js
+
+      - name: Show changed files (if any)
+        run: |
+          echo "=== Git Status ==="
+          git status --porcelain || true
+          echo "=== Changed Files ==="
+          git diff --name-only || true
+
+      - name: Commit and Push Updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add products/shopify_products.json
-          git commit -m "🤖 Update Shopify products (6h schedule)" || echo "No changes to commit"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: 🚀 Push to main
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          git add -A
+
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "🛍️ Auto scrape Shopify data [skip ci]" || true
+          git push origin HEAD
