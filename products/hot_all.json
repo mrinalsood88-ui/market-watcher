@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "rank": 1,
+    "keyword": {
+      "q": "trending products",
+      "title": "trending products",
+      "type": "Search term",
+      "link": "https://trends.google.com/trends/explore?q=trending products",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=trending+products&tz=420"
+    },
+    "source": "SerpApi - google_trends_autocomplete",
+    "collectedAt": "2025-10-26T15:56:49.146Z"
+  },
+  {
+    "rank": 2,
+    "keyword": {
+      "q": "/g/11bys71pvm",
+      "title": "Nursing Today: Transition and Trends",
+      "type": "Book",
+      "link": "https://trends.google.com/trends/explore?q=/g/11bys71pvm",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11bys71pvm&tz=420"
+    },
+    "source": "SerpApi - google_trends_autocomplete",
+    "collectedAt": "2025-10-26T15:56:49.147Z"
+  },
+  {
+    "rank": 1,
+    "name": {
+      "q": "walmart trending products",
+      "title": "walmart trending products",
+      "type": "Search term",
+      "link": "https://trends.google.com/trends/explore?q=walmart trending products",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=walmart+trending+products&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 2,
+    "name": {
+      "q": "/g/11vhqwpgql",
+      "title": "Restored Apple iPhone 15 Pro Max",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11vhqwpgql",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11vhqwpgql&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 3,
+    "name": {
+      "q": "/g/11fctqqz2z",
+      "title": "iPhone XR",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11fctqqz2z",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11fctqqz2z&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 4,
+    "name": {
+      "q": "/g/11x5hywf31",
+      "title": "Apple iPhone 16 Plus 256GB 5G Mobile phone with Apple Intelligence",
+      "type": "Mobile phone",
+      "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11x5hywf31&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 5,
+    "name": {
+      "q": "/g/11sjbnj771",
+      "title": "Libre Eau De Parfum Yves Saint Laurent",
+      "type": "Perfume",
+      "link": "https://trends.google.com/trends/explore?q=/g/11sjbnj771",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11sjbnj771&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 6,
+    "name": {
+      "q": "/g/11rxtwsnd7",
+      "title": "Stellar Blade",
+      "type": "Video game",
+      "link": "https://trends.google.com/trends/explore?q=/g/11rxtwsnd7",
+      "serpapi_link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=today+12-m&engine=google_trends&hl=en&q=%2Fg%2F11rxtwsnd7&tz=420"
+    },
+    "source": "SerpApi - Walmart Autocomplete",
+    "collectedAt": "2025-10-26T15:56:50.182Z"
+  },
+  {
+    "rank": 1,
+    "title": "The Wellness Trap: How Influencers Are Reshaping (and Selling) Health Advice",
+    "source": "CNET",
+    "url": "https://www.cnet.com/health/features/wellness-trap-how-influencers-reshaping-health-advice/",
+    "publishedAt": "2025-10-26T08:35:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 2,
+    "title": "Canada Pulling Manipulated Reagan Anti-Tariff Advert and Backing Down to Trump on Trade",
+    "source": "Thegatewaypundit.com",
+    "url": "https://www.thegatewaypundit.com/2025/10/canada-pulling-manipulated-reagan-anti-tariff-advert-backing/",
+    "publishedAt": "2025-10-25T23:40:25Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 3,
+    "title": "Korean barbecue pork jerky recalled for potential metal contamination",
+    "source": "USA Today",
+    "url": "https://www.usatoday.com/story/money/food/2025/10/25/korean-barbecue-pork-jerky-recall-metal-pieces/86898685007/",
+    "publishedAt": "2025-10-25T16:44:20Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 4,
+    "title": "Double win: Snag an FSA-Eligible Theragun and score $100 Quince credit while you’re at it",
+    "source": "New York Post",
+    "url": "https://nypost.com/2025/10/25/shopping/snag-an-fsa-eligible-theragun-and-score-a-100-quince-credit-while-youre-at-it/",
+    "publishedAt": "2025-10-25T12:33:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 5,
+    "title": "Trump Triumphs as Walmart Suspends H-1B Visas Hires – Retailer’s Current H-1B Program So Big It Would Have Cost $240 Million",
+    "source": "Thegatewaypundit.com",
+    "url": "https://www.thegatewaypundit.com/2025/10/trump-triumphs-walmart-suspends-h-1b-visas-hires/",
+    "publishedAt": "2025-10-25T12:30:28Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 6,
+    "title": "IKEA Is Selling a New Storage Find That’s So Practical",
+    "source": "Apartment Therapy",
+    "url": "https://www.apartmenttherapy.com/ikea-skogsta-bench-with-storage-37514484",
+    "publishedAt": "2025-10-25T12:30:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 7,
+    "title": "Perplexity",
+    "source": "PCMag.com",
+    "url": "https://me.pcmag.com/en/ai/33099/perplexity",
+    "publishedAt": "2025-10-25T12:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 8,
+    "title": "Perplexity",
+    "source": "PCMag.com",
+    "url": "https://uk.pcmag.com/ai/160913/perplexity",
+    "publishedAt": "2025-10-25T12:00:00Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 9,
+    "title": "10 Sneaky Ways Retirees Can Save Money on Groceries",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/10-lesser-known-ways-retirees-120033032.html",
+    "publishedAt": "2025-10-25T11:05:07Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  },
+  {
+    "rank": 10,
+    "title": "Needham Sees Opportunity in 2 Lesser-Known Energy Stocks Riding the Data-Center Boom",
+    "source": "Yahoo Entertainment",
+    "url": "https://finance.yahoo.com/news/needham-sees-opportunity-2-lesser-100355735.html",
+    "publishedAt": "2025-10-25T10:03:55Z",
+    "sourceType": "NewsAPI",
+    "collectedAt": "2025-10-26T15:56:50.900Z"
+  }
+]
