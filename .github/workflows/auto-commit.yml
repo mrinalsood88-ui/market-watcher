@@ -3,7 +3,7 @@ name: Auto Scrape & Commit
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'   # example: run every 15 minutes
+    - cron: '*/15 * * * *'   # run every 15 minutes
   push:
     branches: [ main ]
 
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository (fetch all history)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0          # important: get full history
+          fetch-depth: 0
           persist-credentials: true
 
       - name: Set up Node (if your script needs it)
@@ -34,9 +34,7 @@ jobs:
 
       - name: Fetch remote main and rebase
         run: |
-          # fetch remote updates
           git fetch origin main
-          # rebase local branch onto remote to avoid non-fast-forward
           git rebase origin/main || {
             echo "Rebase failed — attempting auto-resolve with merge";
             git rebase --abort || true;
@@ -45,8 +43,7 @@ jobs:
 
       - name: Run scraper / generate data
         run: |
-          # run your scraping script that updates files
-          # e.g. npm ci && npm run scrape
+          chmod +x ./scripts/run-scraper.sh
           ./scripts/run-scraper.sh
 
       - name: Check for changes
@@ -66,7 +63,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # try push, if rejected, fetch+rebase again and retry once
           set -e
           git push origin HEAD:main || (
             echo "Push failed — fetching remote and rebasing then retrying"
