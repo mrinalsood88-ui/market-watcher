@@ -1,13 +1,12 @@
 {
-  "name": "market-watcher-scrapers",
+  "name": "market-watcher",
   "version": "1.0.0",
-  "private": true,
   "type": "module",
   "scripts": {
-    "scrape": "node scrapers/run_all.mjs"
+    "scrape": "node shopify.js"
   },
   "dependencies": {
-    "axios": "^1.12.2",
-    "dotenv": "^16.4.5"
+    "axios": "^1.7.2",
+    "cheerio": "^1.1.2"
   }
 }
